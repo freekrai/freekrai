@@ -6,7 +6,8 @@ I build a lot of things using many stacks, currently mostly working with React /
 
 For more information about me, check out [rogerstringer.com](https://rogerstringer.com/) or [Coded Geekery](https://codedgeekery.com/).
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue) ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue) ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=blue)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue) ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue) ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=blue) ![](https://img.shields.io/badge/Tools-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=blue) ![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=nodejs&logoColor=white&color=blue)
+
 
 <!--
 **freekrai/freekrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
