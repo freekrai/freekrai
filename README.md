@@ -2,7 +2,7 @@
 
 Hi. I’m Roger. I'm a full stack developer, devops engineer, author and dad.
 
-I build a lot of things using many stacks, currently mostly working with React / Nextjs and nodejs with GraphQL APIs which is fun to work with.
+I build a lot of things using many stacks, currently mostly working with React / Nextjs and Nodejs with GraphQL APIs which is a fun stack fun to work with.
 
 For more information about me, check out [rogerstringer.com](https://rogerstringer.com/) or [Coded Geekery](https://codedgeekery.com/).
 
