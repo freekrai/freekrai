@@ -30,9 +30,11 @@ For more information about me, check out [rogerstringer.com](https://rogerstring
 ![](https://img.shields.io/badge/Kubernetes-3DDC84?logo=kubernetes&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/php%20-%2343853D.svg?&style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/twilio%20-%2343853D.svg?&style=for-the-badge&logo=twilio&logoColor=white&color=red)
-![](https://img.shields.io/badge/GraphQL%20-%2343853D.svg?style=for-the-badge&logo=graphql&style=for-the-badge&logoColor=white&color=blue) 
-![](https://img.shields.io/badge/hasura%20-%2343853D.svg?style=for-the-badge&logo=hasura&style=for-the-badge&logoColor=white&color=blue)
-![](https://img.shields.io/badge/prisma%20-%2343853D.svg?style=for-the-badge&logo=prisma&style=for-the-badge&logoColor=white&color=blue)
+
+![](https://img.shields.io/badge/GraphQL%20-%2343853D.svg?style=for-the-badge&logo=graphql&logoColor=white&color=blue) 
+![](https://img.shields.io/badge/hasura%20-%2343853D.svg?style=for-the-badge&logo=hasura&logoColor=white&color=blue) 
+![](https://img.shields.io/badge/prisma%20-%2343853D.svg?style=for-the-badge&logo=prisma&logoColor=white&color=blue) 
+
 ![](https://img.shields.io/badge/PostgreSQL%20-%2343853D.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=blue) 
 ![](https://img.shields.io/badge/MongDB%20-%2343853D.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=blue) 
 ![](https://img.shields.io/badge/MySQL%20-%2343853D.svg?style=for-the-badge&logo=mysql&logoColor=white&color=blue)
