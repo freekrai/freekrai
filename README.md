@@ -35,12 +35,14 @@ For more information about me, check out [rogerstringer.com](https://rogerstring
 ![](https://img.shields.io/badge/Kubernetes-3DDC84?logo=kubernetes&style=for-the-badge&logoColor=white)
 
 ![](https://img.shields.io/badge/GraphQL%20-%2343853D.svg?style=for-the-badge&logo=graphql&logoColor=white&color=blue) 
-![](https://img.shields.io/badge/hasura%20-%2343853D.svg?style=for-the-badge&logo=hasura&logoColor=white&color=blue) 
+![](https://img.shields.io/badge/hasura%20-%2343853D.svg?style=for-the-badge&logo=hasura&logoColor=white&color=green) 
 ![](https://img.shields.io/badge/prisma%20-%2343853D.svg?style=for-the-badge&logo=prisma&logoColor=white&color=blue) 
 ![](https://img.shields.io/badge/PostgreSQL%20-%2343853D.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=blue) 
-![](https://img.shields.io/badge/MongDB%20-%2343853D.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=blue) 
 ![](https://img.shields.io/badge/MySQL%20-%2343853D.svg?style=for-the-badge&logo=mysql&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Supabase%20-%2343853D.svg?style=for-the-badge&logo=supabase&logoColor=white&color=black)
+![](https://img.shields.io/badge/MongDB%20-%2343853D.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=blue) 
+![](https://img.shields.io/badge/Supabase%20-%2343853D.svg?style=for-the-badge&logo=supabase&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Fauna%20-%2343853D.svg?style=for-the-badge&logo=graphql&logoColor=white&color=blue)
+
 
 <!--
 **freekrai/freekrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
