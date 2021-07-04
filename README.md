@@ -33,8 +33,10 @@ For more information about me, check out [rogerstringer.com](https://rogerstring
 ![](https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Docker-%23316192.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Kubernetes-3DDC84?logo=kubernetes&style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/OpenFaas-3DDC84?logo=openfaas&style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/Serverless-3DDC84?logo=serverless&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/OpenFaas-3DDC84?logo=openfaas&style=for-the-badge&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Serverless-3DDC84?logo=serverless&style=for-the-badge&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Vercel-3DDC84?logo=vercel&style=for-the-badge&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Netlify-3DDC84?logo=netlify&style=for-the-badge&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/GraphQL%20-%2343853D.svg?style=for-the-badge&logo=graphql&logoColor=white&color=blue) 
 ![](https://img.shields.io/badge/hasura%20-%2343853D.svg?style=for-the-badge&logo=hasura&logoColor=white&color=green) 
