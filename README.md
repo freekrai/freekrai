@@ -40,6 +40,7 @@ For more information about me, check out [rogerstringer.com](https://rogerstring
 ![](https://img.shields.io/badge/PostgreSQL%20-%2343853D.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=blue) 
 ![](https://img.shields.io/badge/MongDB%20-%2343853D.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=blue) 
 ![](https://img.shields.io/badge/MySQL%20-%2343853D.svg?style=for-the-badge&logo=mysql&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Supabase%20-%2343853D.svg?style=for-the-badge&logo=supabase&logoColor=white&color=black)
 
 <!--
 **freekrai/freekrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
