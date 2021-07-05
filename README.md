@@ -26,7 +26,7 @@ For more information about me, check out [rogerstringer.com](https://rogerstring
 ![](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/nextjs%20-%2320232a.svg?&style=for-the-badge&logo=next.js&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/vue%20-%2320232a.svg?&style=for-the-badge&logo=vue.js&logoColor=%2361DAFB)
-![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=%2361DAFB)
+![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white&color=black)
 ![](https://img.shields.io/badge/php%20-%2343853D.svg?&style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/twilio%20-%2343853D.svg?&style=for-the-badge&logo=twilio&logoColor=white&color=red)
 
