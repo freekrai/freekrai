@@ -46,6 +46,7 @@ For more information about me, check out [rogerstringer.com](https://rogerstring
 ![](https://img.shields.io/badge/MongDB%20-%2343853D.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=blue) 
 ![](https://img.shields.io/badge/Supabase%20-%2343853D.svg?style=for-the-badge&logo=supabase&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Fauna%20-%2343853D.svg?style=for-the-badge&logo=graphql&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Firebase%20-%2343853D.svg?style=for-the-badge&logo=firebase&logoColor=white&color=orange)
 
 
 <!--
