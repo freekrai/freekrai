@@ -12,12 +12,12 @@ For more information about me, check out [rogerstringer.com](https://rogerstring
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Careful with WiFi names on your iPhone.](https://rogerstringer.com/bad-wifi-names/)
 - [Use React Admin with Hasura and Nextjs](https://codedgeekery.com/blog/react-admin-hasura)
 - [Build a Contact form with Nextjs and Slack webhooks](https://codedgeekery.com/blog/contact-form-slack)
 - [Basecamp’s crazy week...](https://rogerstringer.com/basecamp-crazy-week/)
 - [Is Heroku Still Relevant?](https://rogerstringer.com/is-heroku-still-relevant/)
 - [Switching from Google Analytics to Plausible.](https://rogerstringer.com/switching-from-google-analytics-to-plausible/)
-- [DNS issues took down Microsoft Teams and Xbox Live for over two hours but have recovered](https://rogerstringer.com/dns-issues-took-down-microsoft-teams-and-xbox-live-for-over-two-hours-but-have-recovered/)
 <!-- BLOG-POST-LIST:END -->
 
 
