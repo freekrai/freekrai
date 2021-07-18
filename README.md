@@ -50,6 +50,9 @@ For more information about me, check out [rogerstringer.com](https://rogerstring
 
 <hr />
 
+<details>
+  <summary>Github Stats</summary>
+
 ### Github Stats
 
 ![](https://github-readme-stats-knowmad.vercel.app/api?username=freekrai&show_icons=true&count_private=true)
@@ -62,10 +65,11 @@ For more information about me, check out [rogerstringer.com](https://rogerstring
 
 ![](https://github-readme-stats-knowmad.vercel.app/api/top-langs/?username=freekrai&layout=compact&count_private=true)
 
-![wakatime stats](https://github-readme-stats-knowmad.vercel.app/api/wakatime?username=datamcfly)
+</details>
 
 <!--
-**freekrai/freekrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![wakatime stats](https://github-readme-stats-knowmad.vercel.app/api/wakatime?username=datamcfly)
+
 
 Here are some ideas to get you started:
 
