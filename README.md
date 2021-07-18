@@ -52,7 +52,8 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 
 <details>
   <summary><u><b> 🎧 What I'm listening to right now </u></b></summary>  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rogerstringer&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=rogerstringer&redirect=true)
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rogerstringer&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=rogerstringer&redirect=true)  
 
 </details>
 
