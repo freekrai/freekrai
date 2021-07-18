@@ -51,7 +51,7 @@ For more information about me, check out [rogerstringer.com](https://rogerstring
 <hr />
 
 <details>
-  <summary>Github Stats</summary>
+  <summary><u><b>:zap: My Stats</b></u></summary>
 
 ### Github Stats
 
