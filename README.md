@@ -50,11 +50,11 @@ For more information about me, check out [rogerstringer.com](https://rogerstring
 
 ### Github Stats
 
-![](https://github-readme-stats-knowmad.vercel.app/api?username=freekrai&show_icons=true&theme=gotham")
+![](https://github-readme-stats-knowmad.vercel.app/api?username=freekrai&show_icons=true&theme=gotham)
 
 ### Github Streaks
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=freekrai")
+![](https://github-readme-streak-stats.herokuapp.com/?user=freekrai)
 
 ### Top Languages
 
