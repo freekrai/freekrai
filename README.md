@@ -48,9 +48,11 @@ For more information about me, check out [rogerstringer.com](https://rogerstring
 ![](https://img.shields.io/badge/Fauna%20-%2343853D.svg?style=for-the-badge&logo=graphql&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Firebase%20-%2343853D.svg?style=for-the-badge&logo=firebase&logoColor=white&color=orange)
 
+<hr />
+
 ### Github Stats
 
-![](https://github-readme-stats-knowmad.vercel.app/api?username=freekrai&show_icons=true&theme=gotham&count_private=true)
+![](https://github-readme-stats-knowmad.vercel.app/api?username=freekrai&show_icons=true&count_private=true)
 
 ### Github Streaks
 
@@ -59,6 +61,8 @@ For more information about me, check out [rogerstringer.com](https://rogerstring
 ### Top Languages
 
 ![](https://github-readme-stats-knowmad.vercel.app/api/top-langs/?username=freekrai&layout=compact&count_private=true)
+
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=freekrai)
 
 <!--
 **freekrai/freekrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
