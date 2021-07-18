@@ -53,21 +53,17 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 <details>
   <summary><u><b>:zap: My Stats</b></u></summary>
 
-### Github Stats
-
 ![](https://github-readme-stats-knowmad.vercel.app/api?username=freekrai&show_icons=true&count_private=true)
-
-### Github Streaks
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=freekrai)
-
-### Top Languages
-
 ![](https://github-readme-stats-knowmad.vercel.app/api/top-langs/?username=freekrai&layout=compact&count_private=true)
 
 </details>
 
 <!--
+### Github Stats
+### Github Streaks
+### Top Languages
+
 ![wakatime stats](https://github-readme-stats-knowmad.vercel.app/api/wakatime?username=datamcfly)
 
 
