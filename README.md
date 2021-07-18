@@ -50,13 +50,15 @@ For more information about me, check out [rogerstringer.com](https://rogerstring
 
 ### Github Stats
 
-<img src="https://github-readme-stats-knowmad.vercel.app/api?username=freekrai&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+![](https://github-readme-stats-knowmad.vercel.app/api?username=freekrai&show_icons=true&theme=gotham")
 
 ### Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=freekrai" width="48%" >
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=freekrai")
 
 ### Top Languages
- ![Top Langs](https://github-readme-stats-knowmad.vercel.app/api/top-langs/?username=freekrai&layout=compact)
+
+![](https://github-readme-stats-knowmad.vercel.app/api/top-langs/?username=freekrai&layout=compact)
 
 <!--
 **freekrai/freekrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
