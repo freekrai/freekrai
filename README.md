@@ -51,6 +51,13 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 <hr />
 
 <details>
+  <summary><u><b> 🎧 What I'm listening to right now </u></b></summary>  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rogerstringer&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=rogerstringer&redirect=true)
+
+</details>
+
+
+<details>
   <summary><u><b>:zap: My Stats</b></u></summary>
 
 ![](https://github-readme-stats-knowmad.vercel.app/api?username=freekrai&show_icons=true&count_private=true)
@@ -58,7 +65,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 ![](https://github-readme-stats-knowmad.vercel.app/api/top-langs/?username=freekrai&layout=compact&count_private=true)
 
 </details>
-
 <!--
 ### Github Stats
 ### Github Streaks
