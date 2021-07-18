@@ -3,8 +3,9 @@
 
 Hi. I’m Roger. I'm a fullstack software engineer, devops engineer, author and dad from Canada.
 
-- 🔭 I’m currently working on multiple frontend and backend projects using React, Nextjs, Vue, Nodejs and Hasura
-- 🌱 I’m currently learning to never stop learning.
+🔭 I’m currently working on multiple frontend and backend projects using React, Nextjs, Vue, Nodejs and Hasura
+
+🌱 I’m currently learning to never stop learning.
 
 I build a lot of things using many stacks, currently mostly working with React / Nextjs and Nodejs with GraphQL APIs which is a fun stack fun to work with.
 
