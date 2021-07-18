@@ -72,7 +72,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 
 #### Top Languages 
   
-![](https://github-readme-stats-knowmad.vercel.app/api/top-langs/?username=freekrai&layout=compact&count_private=true)
+![](https://github-readme-stats-knowmad.vercel.app/api/top-langs/?username=freekrai&hide=php,null&count_private=true)
 
 </details>
 <!--
