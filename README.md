@@ -13,12 +13,12 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Careful with WiFi names on your iPhone.](https://rogerstringer.com/bad-wifi-names/)
+- [Careful with WiFi names on your iPhone.](https://rogerstringer.com/2021/07/06/bad-wifi-names/)
 - [Use React Admin with Hasura and Nextjs](https://codedgeekery.com/blog/react-admin-hasura)
 - [Build a Contact form with Nextjs and Slack webhooks](https://codedgeekery.com/blog/contact-form-slack)
-- [Basecamp’s crazy week...](https://rogerstringer.com/basecamp-crazy-week/)
-- [Is Heroku Still Relevant?](https://rogerstringer.com/is-heroku-still-relevant/)
-- [Switching from Google Analytics to Plausible.](https://rogerstringer.com/switching-from-google-analytics-to-plausible/)
+- [Basecamp’s crazy week…](https://rogerstringer.com/2021/05/01/basecamp-crazy-week/)
+- [Is Heroku Still Relevant?](https://rogerstringer.com/2021/04/13/is-heroku-still-relevant/)
+- [Switching from Google Analytics to Plausible.](https://rogerstringer.com/2021/04/06/switching-from-google-analytics-to-plausible/)
 <!-- BLOG-POST-LIST:END -->
 
 
