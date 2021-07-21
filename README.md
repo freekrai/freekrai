@@ -19,6 +19,10 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Basecamp’s crazy week…](https://rogerstringer.com/2021/05/01/basecamp-crazy-week/)
 - [Is Heroku Still Relevant?](https://rogerstringer.com/2021/04/13/is-heroku-still-relevant/)
 - [Switching from Google Analytics to Plausible.](https://rogerstringer.com/2021/04/06/switching-from-google-analytics-to-plausible/)
+- [DNS issues took down Microsoft Teams and Xbox Live for over two hours but have recovered](https://rogerstringer.com/2021/04/02/dns-issues-took-down-microsoft-teams-and-xbox-live-for-over-two-hours-but-have-recovered/)
+- [The Mess at Medium](https://rogerstringer.com/2021/03/25/the-mess-at-medium/)
+- [Pieter Levels on how the next frontier after remote work is async](https://codedgeekery.com/blog/async)
+- [NFTs are a dangerous trap](https://rogerstringer.com/2021/03/24/nfts-are-a-dangerous-trap/)
 <!-- BLOG-POST-LIST:END -->
 
 
