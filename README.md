@@ -28,7 +28,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
  <hr />
 
 <details>
-  <summary><u><b> My areas of expertise </u></b></summary>  
+  <summary><u><b> My Areas Of Expertise </u></b></summary>  
 
 ![](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/nextjs%20-%2320232a.svg?&style=for-the-badge&logo=next.js&logoColor=%2361DAFB)
