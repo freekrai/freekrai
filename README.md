@@ -24,9 +24,11 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Pieter Levels on how the next frontier after remote work is async](https://codedgeekery.com/blog/async)
 - [NFTs are a dangerous trap](https://rogerstringer.com/2021/03/24/nfts-are-a-dangerous-trap/)
 <!-- BLOG-POST-LIST:END -->
+ 
+ <hr />
 
-
-### Expertise
+<details>
+  <summary><u><b> My areas of expertise </u></b></summary>  
 
 ![](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/nextjs%20-%2320232a.svg?&style=for-the-badge&logo=next.js&logoColor=%2361DAFB)
@@ -53,7 +55,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 ![](https://img.shields.io/badge/Fauna%20-%2343853D.svg?style=for-the-badge&logo=graphql&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Firebase%20-%2343853D.svg?style=for-the-badge&logo=firebase&logoColor=white&color=orange)
 
-<hr />
+</details>
 
 <details>
   <summary><u><b> 🎧 What I'm listening to right now </u></b></summary>  
@@ -61,7 +63,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rogerstringer&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=rogerstringer&redirect=true)  
 
 </details>
-
 
 <details>
   <summary><u><b>:zap: My Stats</b></u></summary>
