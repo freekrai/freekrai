@@ -13,6 +13,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google will require employees to be vaccinated before returning to offices](https://rogerstringer.com/2021/07/28/google-will-require-employees-to-be-vaccinated-before-returning-to-offices/)
 - [Careful with WiFi names on your iPhone.](https://rogerstringer.com/2021/07/06/bad-wifi-names/)
 - [Use React Admin with Hasura and Nextjs](https://codedgeekery.com/blog/react-admin-hasura)
 - [Build a Contact form with Nextjs and Slack webhooks](https://codedgeekery.com/blog/contact-form-slack)
@@ -22,7 +23,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [DNS issues took down Microsoft Teams and Xbox Live for over two hours but have recovered](https://rogerstringer.com/2021/04/02/dns-issues-took-down-microsoft-teams-and-xbox-live-for-over-two-hours-but-have-recovered/)
 - [The Mess at Medium](https://rogerstringer.com/2021/03/25/the-mess-at-medium/)
 - [Pieter Levels on how the next frontier after remote work is async](https://codedgeekery.com/blog/async)
-- [NFTs are a dangerous trap](https://rogerstringer.com/2021/03/24/nfts-are-a-dangerous-trap/)
 <!-- BLOG-POST-LIST:END -->
  
  <hr />
