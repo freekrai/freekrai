@@ -13,16 +13,16 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Fish and Brewis](https://rogerstringer.com/2021/08/03/fish-and-brewis/)
-- [Google will require employees to be vaccinated before returning to offices](https://rogerstringer.com/2021/07/28/google-will-require-employees-to-be-vaccinated-before-returning-to-offices/)
-- [Careful with WiFi names on your iPhone.](https://rogerstringer.com/2021/07/06/bad-wifi-names/)
 - [Use React Admin with Hasura and Nextjs](https://codedgeekery.com/blog/react-admin-hasura)
 - [Build a Contact form with Nextjs and Slack webhooks](https://codedgeekery.com/blog/contact-form-slack)
-- [Basecamp’s crazy week…](https://rogerstringer.com/2021/05/01/basecamp-crazy-week/)
-- [Is Heroku Still Relevant?](https://rogerstringer.com/2021/04/13/is-heroku-still-relevant/)
-- [Switching from Google Analytics to Plausible.](https://rogerstringer.com/2021/04/06/switching-from-google-analytics-to-plausible/)
-- [DNS issues took down Microsoft Teams and Xbox Live for over two hours but have recovered](https://rogerstringer.com/2021/04/02/dns-issues-took-down-microsoft-teams-and-xbox-live-for-over-two-hours-but-have-recovered/)
-- [The Mess at Medium](https://rogerstringer.com/2021/03/25/the-mess-at-medium/)
+- [Pieter Levels on how the next frontier after remote work is async](https://codedgeekery.com/blog/async)
+- [Redoing Flybase](https://codedgeekery.com/blog/redoing-flybase)
+- [Philly Cheese Steak Sandwiches](https://codedgeekery.com/blog/philly-cheesesteak)
+- [Yeet. Delete. Repeat](https://codedgeekery.com/blog/yeet-delete-repeat)
+- [Poor Man's Lobster](https://codedgeekery.com/blog/poor-man-lobster)
+- [Halifax Donair](https://codedgeekery.com/blog/halifax-donair)
+- [Resurrecting a mid-2012 MacBook Pro](https://codedgeekery.com/blog/macbook-2012)
+- [Google Stadia aka the Game Console without a Console](https://codedgeekery.com/blog/google-stadia)
 <!-- BLOG-POST-LIST:END -->
  
  <hr />
