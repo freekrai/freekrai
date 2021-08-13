@@ -13,6 +13,8 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Facebook shouldn’t be allowed to buy Giphy, says UK regulator](https://rogerstringer.com/2021/08/12/facebook-shouldnt-be-allowed-to-buy-giphy-says-uk-regulator/)
+- [Drew Devault: “In praise of PostgreSQL”](https://rogerstringer.com/2021/08/12/drew-devault-in-praise-of-postgresql/)
 - [Fish and Brewis](https://rogerstringer.com/2021/08/03/fish-and-brewis/)
 - [Google will require employees to be vaccinated before returning to offices](https://rogerstringer.com/2021/07/28/google-will-require-employees-to-be-vaccinated-before-returning-to-offices/)
 - [Careful with WiFi names on your iPhone.](https://rogerstringer.com/2021/07/06/bad-wifi-names/)
@@ -21,8 +23,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Basecamp’s crazy week…](https://rogerstringer.com/2021/05/01/basecamp-crazy-week/)
 - [Is Heroku Still Relevant?](https://rogerstringer.com/2021/04/13/is-heroku-still-relevant/)
 - [Switching from Google Analytics to Plausible.](https://rogerstringer.com/2021/04/06/switching-from-google-analytics-to-plausible/)
-- [DNS issues took down Microsoft Teams and Xbox Live for over two hours but have recovered](https://rogerstringer.com/2021/04/02/dns-issues-took-down-microsoft-teams-and-xbox-live-for-over-two-hours-but-have-recovered/)
-- [The Mess at Medium](https://rogerstringer.com/2021/03/25/the-mess-at-medium/)
 <!-- BLOG-POST-LIST:END -->
  
  <hr />
