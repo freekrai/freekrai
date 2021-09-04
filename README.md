@@ -13,6 +13,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Eight Things Apple Could Do to Prove It Actually Cares about App Store Users](https://rogerstringer.com/2021/09/04/eight-things-apple-could-do-to-prove-it-actually-cares-about-app-store-users/)
 - [Using Hasura with NextAuth](https://codedgeekery.com/blog/hasura-nextauth)
 - [Facebook shouldn’t be allowed to buy Giphy, says UK regulator](https://rogerstringer.com/2021/08/12/facebook-shouldnt-be-allowed-to-buy-giphy-says-uk-regulator/)
 - [Drew Devault: “In praise of PostgreSQL”](https://rogerstringer.com/2021/08/12/drew-devault-in-praise-of-postgresql/)
@@ -22,7 +23,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Use React Admin with Hasura and Nextjs](https://codedgeekery.com/blog/react-admin-hasura)
 - [Build a Contact form with Nextjs and Slack webhooks](https://codedgeekery.com/blog/contact-form-slack)
 - [Basecamp’s crazy week…](https://rogerstringer.com/2021/05/01/basecamp-crazy-week/)
-- [Is Heroku Still Relevant?](https://rogerstringer.com/2021/04/13/is-heroku-still-relevant/)
 <!-- BLOG-POST-LIST:END -->
  
  <hr />
