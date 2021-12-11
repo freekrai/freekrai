@@ -13,14 +13,14 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Judge orders Apple to allow external payment options for App Store by December 9th, denying stay](https://rogerstringer.com/2021/11/10/judge-orders-apple-to-allow-external-payment-options-for-app-store-by-december-9th-denying-stay/)
-- [Eight Things Apple Could Do to Prove It Actually Cares about App Store Users](https://rogerstringer.com/2021/09/04/eight-things-apple-could-do-to-prove-it-actually-cares-about-app-store-users/)
+- [Judge orders Apple to allow external payment options for App Store by December 9th, denying stay](https://rogerstringer.com/blog/2021/11/10/judge-orders-apple-to-allow-external-payment-options-for-app-store-by-december-9th-denying-stay/)
+- [Eight Things Apple Could Do to Prove It Actually Cares about App Store Users](https://rogerstringer.com/blog/2021/09/04/eight-things-apple-could-do-to-prove-it-actually-cares-about-app-store-users/)
 - [Using Hasura with NextAuth](https://codedgeekery.com/blog/hasura-nextauth)
-- [Facebook shouldn’t be allowed to buy Giphy, says UK regulator](https://rogerstringer.com/2021/08/12/facebook-shouldnt-be-allowed-to-buy-giphy-says-uk-regulator/)
-- [Drew Devault: “In praise of PostgreSQL”](https://rogerstringer.com/2021/08/12/drew-devault-in-praise-of-postgresql/)
-- [Fish and Brewis](https://rogerstringer.com/2021/08/03/fish-and-brewis/)
-- [Google will require employees to be vaccinated before returning to offices](https://rogerstringer.com/2021/07/28/google-will-require-employees-to-be-vaccinated-before-returning-to-offices/)
-- [Careful with WiFi names on your iPhone.](https://rogerstringer.com/2021/07/06/bad-wifi-names/)
+- [Facebook shouldn’t be allowed to buy Giphy, says UK regulator](https://rogerstringer.com/blog/2021/08/12/facebook-shouldnt-be-allowed-to-buy-giphy-says-uk-regulator/)
+- [Drew Devault: “In praise of PostgreSQL”](https://rogerstringer.com/blog/2021/08/12/drew-devault-in-praise-of-postgresql/)
+- [Fish and Brewis](https://rogerstringer.com/blog/2021/08/03/fish-and-brewis/)
+- [Google will require employees to be vaccinated before returning to offices](https://rogerstringer.com/blog/2021/07/28/google-will-require-employees-to-be-vaccinated-before-returning-to-offices/)
+- [Careful with WiFi names on your iPhone.](https://rogerstringer.com/blog/2021/07/06/bad-wifi-names/)
 - [Use React Admin with Hasura and Nextjs](https://codedgeekery.com/blog/react-admin-hasura)
 - [Build a Contact form with Nextjs and Slack webhooks](https://codedgeekery.com/blog/contact-form-slack)
 <!-- BLOG-POST-LIST:END -->
