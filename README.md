@@ -15,6 +15,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Apple: “An update on AirTag and unwanted tracking”](https://rogerstringer.com/blog/2022/02/11/apple-an-update-on-airtag-and-unwanted-tracking/)
 - [Open source developer corrupts widely-used libraries, affecting tons of projects](https://rogerstringer.com/blog/2022/01/09/open-source-developer-corrupts-widely-used-libraries-affecting-tons-of-projects/)
 - [Judge orders Apple to allow external payment options for App Store by December 9th, denying stay](https://rogerstringer.com/blog/2021/11/10/judge-orders-apple-to-allow-external-payment-options-for-app-store-by-december-9th-denying-stay/)
 - [Eight Things Apple Could Do to Prove It Actually Cares about App Store Users](https://rogerstringer.com/blog/2021/09/04/eight-things-apple-could-do-to-prove-it-actually-cares-about-app-store-users/)
@@ -24,7 +25,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Fish and Brewis](https://rogerstringer.com/blog/2021/08/03/fish-and-brewis/)
 - [Google will require employees to be vaccinated before returning to offices](https://rogerstringer.com/blog/2021/07/28/google-will-require-employees-to-be-vaccinated-before-returning-to-offices/)
 - [Careful with WiFi names on your iPhone.](https://rogerstringer.com/blog/2021/07/06/bad-wifi-names/)
-- [Use React Admin with Hasura and Nextjs](https://codedgeekery.com/blog/react-admin-hasura)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
