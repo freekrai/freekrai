@@ -15,16 +15,16 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Marco Arment on redesigning Overcast](https://rogerstringer.com/blog/2022/03/25/marco-arment-on-redesigning-overcast/)
+- [Apple: “An update on AirTag and unwanted tracking”](https://rogerstringer.com/blog/2022/02/11/apple-an-update-on-airtag-and-unwanted-tracking/)
+- [Open source developer corrupts widely-used libraries, affecting tons of projects](https://rogerstringer.com/blog/2022/01/09/open-source-developer-corrupts-widely-used-libraries-affecting-tons-of-projects/)
+- [Judge orders Apple to allow external payment options for App Store by December 9th, denying stay](https://rogerstringer.com/blog/2021/11/10/judge-orders-apple-to-allow-external-payment-options-for-app-store-by-december-9th-denying-stay/)
+- [Eight Things Apple Could Do to Prove It Actually Cares about App Store Users](https://rogerstringer.com/blog/2021/09/04/eight-things-apple-could-do-to-prove-it-actually-cares-about-app-store-users/)
 - [Using Hasura with NextAuth](https://codedgeekery.com/blog/hasura-nextauth)
-- [Use React Admin with Hasura and Nextjs](https://codedgeekery.com/blog/react-admin-hasura)
-- [Install Hasura on Dokku](https://codedgeekery.com/blog/hasura-dokku)
-- [Setup an nginx proxy for docker-compose](https://codedgeekery.com/blog/nginx-proxy-docker)
-- [Build a Contact form with Nextjs and Slack webhooks](https://codedgeekery.com/blog/contact-form-slack)
-- [Philly Cheese Steak Sandwiches](https://codedgeekery.com/blog/philly-cheesesteak)
-- [Yeet. Delete. Repeat](https://codedgeekery.com/blog/yeet-delete-repeat)
-- [Poor Man&#39;s Lobster](https://codedgeekery.com/blog/poor-man-lobster)
-- [Halifax Donair](https://codedgeekery.com/blog/halifax-donair)
-- [Resurrecting a mid-2012 MacBook Pro](https://codedgeekery.com/blog/macbook-2012)
+- [Facebook shouldn’t be allowed to buy Giphy, says UK regulator](https://rogerstringer.com/blog/2021/08/12/facebook-shouldnt-be-allowed-to-buy-giphy-says-uk-regulator/)
+- [Drew Devault: “In praise of PostgreSQL”](https://rogerstringer.com/blog/2021/08/12/drew-devault-in-praise-of-postgresql/)
+- [Fish and Brewis](https://rogerstringer.com/blog/2021/08/03/fish-and-brewis/)
+- [Google will require employees to be vaccinated before returning to offices](https://rogerstringer.com/blog/2021/07/28/google-will-require-employees-to-be-vaccinated-before-returning-to-offices/)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
