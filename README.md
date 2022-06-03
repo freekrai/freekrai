@@ -33,7 +33,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 
 ![](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/nextjs%20-%2320232a.svg?&style=for-the-badge&logo=next.js&logoColor=%2361DAFB)
-![](https://img.shields.io/badge/vue%20-%2320232a.svg?&style=for-the-badge&logo=vue.js&logoColor=%2361DAFB)
+![](https://img.shields.io/badge/remix%20-%2320232a.svg?&style=for-the-badge&logo=remix&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white&color=black)
 ![](https://img.shields.io/badge/php%20-%2343853D.svg?&style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/twilio%20-%2343853D.svg?&style=for-the-badge&logo=twilio&logoColor=white&color=red)
@@ -52,9 +52,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 ![](https://img.shields.io/badge/PostgreSQL%20-%2343853D.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=blue) 
 ![](https://img.shields.io/badge/MySQL%20-%2343853D.svg?style=for-the-badge&logo=mysql&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/MongDB%20-%2343853D.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=blue) 
-![](https://img.shields.io/badge/Supabase%20-%2343853D.svg?style=for-the-badge&logo=supabase&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Fauna%20-%2343853D.svg?style=for-the-badge&logo=graphql&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Firebase%20-%2343853D.svg?style=for-the-badge&logo=firebase&logoColor=white&color=orange)
 
 </details>
 
