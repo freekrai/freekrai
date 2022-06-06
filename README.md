@@ -15,6 +15,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Ryan Broderick on VR “Real Estate”](https://rogerstringer.com/blog/ryan-broderick-on-vr-real-estate)
 - [Lee Rob and The Story of Heroku](https://rogerstringer.com/blog/the-story-of-heroku)
 - [8 short rules for being a creator](https://rogerstringer.com/blog/8-short-rules-for-being-a-creator)
 - [Welcome to the new more streamlined blog.](https://rogerstringer.com/blog/welcome-to-the-new-more-streamlined-blog)
@@ -24,7 +25,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Open source developer corrupts widely-used libraries, affecting tons of projects](https://rogerstringer.com/blog/open-source-developer-corrupts-widely-used-libraries-affecting-tons-of-projects)
 - [Judge orders Apple to allow external payment options for App Store by December 9th, denying stay](https://rogerstringer.com/blog/judge-orders-apple-to-allow-external-payment-options-for-app-store-by-december-9th-denying-stay)
 - [Eight Things Apple Could Do to Prove It Actually Cares about App Store Users](https://rogerstringer.com/blog/eight-things-apple-could-do-to-prove-it-actually-cares-about-app-store-users)
-- [Using Hasura with NextAuth](https://codedgeekery.com/blog/hasura-nextauth)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
