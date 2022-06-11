@@ -16,6 +16,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 
  <!-- BLOG-POST-LIST:START -->
 - [Ryan Broderick on VR “Real Estate”](https://rogerstringer.com/blog/ryan-broderick-on-vr-real-estate)
+- [Celery Parsnip Salad](https://rogerstringer.com/blog/celery-parsnip-salad)
 - [GitHub Sunsetting Atom](https://rogerstringer.com/blog/git-hub-sunsetting-atom)
 - [Lee Rob and The Story of Heroku](https://rogerstringer.com/blog/the-story-of-heroku)
 - [8 short rules for being a creator](https://rogerstringer.com/blog/8-short-rules-for-being-a-creator)
@@ -24,7 +25,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Marco Arment on redesigning Overcast](https://rogerstringer.com/blog/marco-arment-on-redesigning-overcast)
 - [Apple: “An update on AirTag and unwanted tracking”](https://rogerstringer.com/blog/apple-an-update-on-airtag-and-unwanted-tracking)
 - [Open source developer corrupts widely-used libraries, affecting tons of projects](https://rogerstringer.com/blog/open-source-developer-corrupts-widely-used-libraries-affecting-tons-of-projects)
-- [Judge orders Apple to allow external payment options for App Store by December 9th, denying stay](https://rogerstringer.com/blog/judge-orders-apple-to-allow-external-payment-options-for-app-store-by-december-9th-denying-stay)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
