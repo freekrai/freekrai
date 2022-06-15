@@ -15,16 +15,16 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
-- [Ryan Broderick on VR “Real Estate”](https://rogerstringer.com/blog/ryan-broderick-on-vr-real-estate)
-- [Celery Parsnip Salad](https://rogerstringer.com/blog/celery-parsnip-salad)
-- [GitHub Sunsetting Atom](https://rogerstringer.com/blog/git-hub-sunsetting-atom)
-- [Lee Rob and The Story of Heroku](https://rogerstringer.com/blog/the-story-of-heroku)
-- [8 short rules for being a creator](https://rogerstringer.com/blog/8-short-rules-for-being-a-creator)
-- [Welcome to the new more streamlined blog.](https://rogerstringer.com/blog/welcome-to-the-new-more-streamlined-blog)
-- [Elon Musk and Twitter](https://rogerstringer.com/blog/elon-musk-and-twitter)
-- [Marco Arment on redesigning Overcast](https://rogerstringer.com/blog/marco-arment-on-redesigning-overcast)
-- [Apple: “An update on AirTag and unwanted tracking”](https://rogerstringer.com/blog/apple-an-update-on-airtag-and-unwanted-tracking)
-- [Open source developer corrupts widely-used libraries, affecting tons of projects](https://rogerstringer.com/blog/open-source-developer-corrupts-widely-used-libraries-affecting-tons-of-projects)
+- [Using Hasura with NextAuth](https://codedgeekery.com/blog/hasura-nextauth)
+- [Use React Admin with Hasura and Nextjs](https://codedgeekery.com/blog/react-admin-hasura)
+- [Install Hasura on Dokku](https://codedgeekery.com/blog/hasura-dokku)
+- [Setup an nginx proxy for docker-compose](https://codedgeekery.com/blog/nginx-proxy-docker)
+- [Build a Contact form with Nextjs and Slack webhooks](https://codedgeekery.com/blog/contact-form-slack)
+- [Philly Cheese Steak Sandwiches](https://codedgeekery.com/blog/philly-cheesesteak)
+- [Yeet. Delete. Repeat](https://codedgeekery.com/blog/yeet-delete-repeat)
+- [Poor Man&#39;s Lobster](https://codedgeekery.com/blog/poor-man-lobster)
+- [Halifax Donair](https://codedgeekery.com/blog/halifax-donair)
+- [Resurrecting a mid-2012 MacBook Pro](https://codedgeekery.com/blog/macbook-2012)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
