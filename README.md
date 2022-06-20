@@ -16,6 +16,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 
  <!-- BLOG-POST-LIST:START -->
 - [Ryan Broderick on VR “Real Estate”](https://rogerstringer.com/blog/ryan-broderick-on-vr-real-estate)
+- [Apple retail workers vote to unionize a store in Maryland](https://rogerstringer.com/blog/apple-retail-workers-vote-to-unionize-a-store-in-maryland)
 - [Celery Parsnip Salad](https://rogerstringer.com/blog/celery-parsnip-salad)
 - [GitHub Sunsetting Atom](https://rogerstringer.com/blog/git-hub-sunsetting-atom)
 - [Lee Rob and The Story of Heroku](https://rogerstringer.com/blog/the-story-of-heroku)
@@ -24,7 +25,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Elon Musk and Twitter](https://rogerstringer.com/blog/elon-musk-and-twitter)
 - [Marco Arment on redesigning Overcast](https://rogerstringer.com/blog/marco-arment-on-redesigning-overcast)
 - [Apple: “An update on AirTag and unwanted tracking”](https://rogerstringer.com/blog/apple-an-update-on-airtag-and-unwanted-tracking)
-- [Open source developer corrupts widely-used libraries, affecting tons of projects](https://rogerstringer.com/blog/open-source-developer-corrupts-widely-used-libraries-affecting-tons-of-projects)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
