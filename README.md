@@ -19,12 +19,12 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Apple retail workers vote to unionize a store in Maryland](https://rogerstringer.com/blog/apple-retail-workers-vote-to-unionize-a-store-in-maryland)
 - [Celery Parsnip Salad](https://rogerstringer.com/blog/celery-parsnip-salad)
 - [GitHub Sunsetting Atom](https://rogerstringer.com/blog/git-hub-sunsetting-atom)
+- [There is no bar](https://rogerstringer.com/blog/there-is-no-bar)
 - [Lee Rob and The Story of Heroku](https://rogerstringer.com/blog/the-story-of-heroku)
 - [50 years of Atari](https://rogerstringer.com/blog/50-years-of-atari)
 - [8 short rules for being a creator](https://rogerstringer.com/blog/8-short-rules-for-being-a-creator)
 - [Welcome to the new more streamlined blog.](https://rogerstringer.com/blog/welcome-to-the-new-more-streamlined-blog)
 - [Elon Musk and Twitter](https://rogerstringer.com/blog/elon-musk-and-twitter)
-- [Marco Arment on redesigning Overcast](https://rogerstringer.com/blog/marco-arment-on-redesigning-overcast)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
