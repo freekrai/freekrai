@@ -15,6 +15,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [U.S. FCC commissioner wants Apple and Google to remove TikTok from their app stores](https://rogerstringer.com/blog/fcc-commission-tiktok-app-stores)
 - [Ryan Broderick on VR “Real Estate”](https://rogerstringer.com/blog/ryan-broderick-on-vr-real-estate)
 - [Apple retail workers vote to unionize a store in Maryland](https://rogerstringer.com/blog/apple-retail-workers-vote-to-unionize-a-store-in-maryland)
 - [Celery Parsnip Salad](https://rogerstringer.com/blog/celery-parsnip-salad)
@@ -24,7 +25,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [50 years of Atari](https://rogerstringer.com/blog/50-years-of-atari)
 - [8 short rules for being a creator](https://rogerstringer.com/blog/8-short-rules-for-being-a-creator)
 - [Welcome to the new more streamlined blog.](https://rogerstringer.com/blog/welcome-to-the-new-more-streamlined-blog)
-- [Elon Musk and Twitter](https://rogerstringer.com/blog/elon-musk-and-twitter)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
