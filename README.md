@@ -16,6 +16,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 
  <!-- BLOG-POST-LIST:START -->
 - [U.S. FCC commissioner wants Apple and Google to remove TikTok from their app stores](https://rogerstringer.com/blog/fcc-commission-tiktok-app-stores)
+- [Upgrade your Remix app to React 18](https://codedgeekery.com/blog/remix-react-18)
 - [Re-arranging things](https://codedgeekery.com/blog/re-arranging-things)
 - [Ryan Broderick on VR “Real Estate”](https://rogerstringer.com/blog/ryan-broderick-on-vr-real-estate)
 - [Apple retail workers vote to unionize a store in Maryland](https://rogerstringer.com/blog/apple-retail-workers-vote-to-unionize-a-store-in-maryland)
@@ -24,7 +25,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [There is no bar](https://rogerstringer.com/blog/there-is-no-bar)
 - [Lee Rob and The Story of Heroku](https://rogerstringer.com/blog/the-story-of-heroku)
 - [50 years of Atari](https://rogerstringer.com/blog/50-years-of-atari)
-- [8 short rules for being a creator](https://rogerstringer.com/blog/8-short-rules-for-being-a-creator)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
