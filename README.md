@@ -19,12 +19,12 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Bun](https://rogerstringer.com/blog/bun)
 - [Upgrade your Remix app to React 18](https://codedgeekery.com/blog/remix-react-18)
 - [Re-arranging things](https://codedgeekery.com/blog/re-arranging-things)
+- [TikTok’s security chief steps down as company moves US data to Oracle servers](https://rogerstringer.com/blog/tiktok-security-chief-steps-down-oracle-servers)
 - [Ryan Broderick on VR “Real Estate”](https://rogerstringer.com/blog/ryan-broderick-on-vr-real-estate)
 - [Apple retail workers vote to unionize a store in Maryland](https://rogerstringer.com/blog/apple-retail-workers-vote-to-unionize-a-store-in-maryland)
 - [Celery Parsnip Salad](https://rogerstringer.com/blog/celery-parsnip-salad)
 - [GitHub Sunsetting Atom](https://rogerstringer.com/blog/git-hub-sunsetting-atom)
 - [There is no bar](https://rogerstringer.com/blog/there-is-no-bar)
-- [Lee Rob and The Story of Heroku](https://rogerstringer.com/blog/the-story-of-heroku)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
