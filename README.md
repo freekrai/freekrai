@@ -16,6 +16,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 
  <!-- BLOG-POST-LIST:START -->
 - [U.S. FCC commissioner wants Apple and Google to remove TikTok from their app stores](https://rogerstringer.com/blog/fcc-commission-tiktok-app-stores)
+- [Loader vs Route Cache Headers in Remix](https://rogerstringer.com/blog/loader-vs-route-cache-headers-in-remix)
 - [Bun](https://rogerstringer.com/blog/bun)
 - [Upgrade your Remix app to React 18](https://codedgeekery.com/blog/remix-react-18)
 - [Re-arranging things](https://codedgeekery.com/blog/re-arranging-things)
@@ -24,7 +25,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Apple retail workers vote to unionize a store in Maryland](https://rogerstringer.com/blog/apple-retail-workers-vote-to-unionize-a-store-in-maryland)
 - [Celery Parsnip Salad](https://rogerstringer.com/blog/celery-parsnip-salad)
 - [GitHub Sunsetting Atom](https://rogerstringer.com/blog/git-hub-sunsetting-atom)
-- [There is no bar](https://rogerstringer.com/blog/there-is-no-bar)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
