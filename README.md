@@ -19,7 +19,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Creating post previews in Strapi with Remix](https://rogerstringer.com/blog/creating-post-previews-in-strapi-with-remix)
 - [U.S. FCC commissioner wants Apple and Google to remove TikTok from their app stores](https://rogerstringer.com/blog/fcc-commission-tiktok-app-stores)
 - [Loader vs Route Cache Headers in Remix](https://rogerstringer.com/blog/loader-vs-route-cache-headers-in-remix)
-- [Bun](https://rogerstringer.com/blog/bun)
+- [Meet Bun](https://rogerstringer.com/blog/bun)
 - [Upgrade your Remix app to React 18](https://codedgeekery.com/blog/remix-react-18)
 - [Re-arranging things](https://codedgeekery.com/blog/re-arranging-things)
 - [TikTok’s security chief steps down as company moves US data to Oracle servers](https://rogerstringer.com/blog/tiktok-security-chief-steps-down-oracle-servers)
