@@ -15,6 +15,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Netflix rolling out external subscription button for iOS users](https://rogerstringer.com/blog/netflix-external-subscription-ios)
 - [Creating post previews in Strapi with Remix](https://codedgeekery.com/blog/creating-post-previews-in-strapi-with-remix)
 - [Creating post previews in Strapi with Remix](https://rogerstringer.com/blog/creating-post-previews-in-strapi-with-remix)
 - [U.S. FCC commissioner wants Apple and Google to remove TikTok from their app stores](https://rogerstringer.com/blog/fcc-commission-tiktok-app-stores)
@@ -24,7 +25,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Re-arranging things](https://codedgeekery.com/blog/re-arranging-things)
 - [TikTok’s security chief steps down as company moves US data to Oracle servers](https://rogerstringer.com/blog/tiktok-security-chief-steps-down-oracle-servers)
 - [Apple retail workers vote to unionize a store in Maryland](https://rogerstringer.com/blog/apple-retail-workers-vote-to-unionize-a-store-in-maryland)
-- [Celery Parsnip Salad](https://rogerstringer.com/blog/celery-parsnip-salad)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
