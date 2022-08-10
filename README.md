@@ -15,16 +15,16 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Samsung’s All Alone at the Foldable Party](https://rogerstringer.com/blog/samsung-all-alone-at-the-foldable-party)
+- [Netflix rolling out external subscription button for iOS users](https://rogerstringer.com/blog/netflix-external-subscription-ios)
 - [Creating post previews in Strapi with Remix](https://codedgeekery.com/blog/creating-post-previews-in-strapi-with-remix)
+- [Creating post previews in Strapi with Remix](https://rogerstringer.com/blog/creating-post-previews-in-strapi-with-remix)
+- [U.S. FCC commissioner wants Apple and Google to remove TikTok from their app stores](https://rogerstringer.com/blog/fcc-commission-tiktok-app-stores)
+- [Loader vs Route Cache Headers in Remix](https://rogerstringer.com/blog/loader-vs-route-cache-headers-in-remix)
+- [Meet Bun](https://rogerstringer.com/blog/bun)
 - [Upgrade your Remix app to React 18](https://codedgeekery.com/blog/remix-react-18)
 - [Re-arranging things](https://codedgeekery.com/blog/re-arranging-things)
-- [Using Hasura with NextAuth](https://codedgeekery.com/blog/hasura-nextauth)
-- [Use React Admin with Hasura and Nextjs](https://codedgeekery.com/blog/react-admin-hasura)
-- [Install Hasura on Dokku](https://codedgeekery.com/blog/hasura-dokku)
-- [Setup an nginx proxy for docker-compose](https://codedgeekery.com/blog/nginx-proxy-docker)
-- [Build a Contact form with Nextjs and Slack webhooks](https://codedgeekery.com/blog/contact-form-slack)
-- [Philly Cheese Steak Sandwiches](https://codedgeekery.com/blog/philly-cheesesteak)
-- [Poor Man&#39;s Lobster](https://codedgeekery.com/blog/poor-man-lobster)
+- [TikTok’s security chief steps down as company moves US data to Oracle servers](https://rogerstringer.com/blog/tiktok-security-chief-steps-down-oracle-servers)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
