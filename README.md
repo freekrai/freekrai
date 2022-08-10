@@ -15,6 +15,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Samsung’s All Alone at the Foldable Party](https://rogerstringer.com/blog/samsung-all-alone-at-the-foldable-party)
 - [Netflix rolling out external subscription button for iOS users](https://rogerstringer.com/blog/netflix-external-subscription-ios)
 - [Creating post previews in Strapi with Remix](https://codedgeekery.com/blog/creating-post-previews-in-strapi-with-remix)
 - [Creating post previews in Strapi with Remix](https://rogerstringer.com/blog/creating-post-previews-in-strapi-with-remix)
@@ -24,7 +25,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Upgrade your Remix app to React 18](https://codedgeekery.com/blog/remix-react-18)
 - [Re-arranging things](https://codedgeekery.com/blog/re-arranging-things)
 - [TikTok’s security chief steps down as company moves US data to Oracle servers](https://rogerstringer.com/blog/tiktok-security-chief-steps-down-oracle-servers)
-- [Apple retail workers vote to unionize a store in Maryland](https://rogerstringer.com/blog/apple-retail-workers-vote-to-unionize-a-store-in-maryland)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
