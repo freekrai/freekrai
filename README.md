@@ -15,6 +15,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [The Quiet Times](https://rogerstringer.com/blog/the-quiet-times)
 - [Samsung’s All Alone at the Foldable Party](https://rogerstringer.com/blog/samsung-all-alone-at-the-foldable-party)
 - [Netflix rolling out external subscription button for iOS users](https://rogerstringer.com/blog/netflix-external-subscription-ios)
 - [Creating post previews in Strapi with Remix](https://rogerstringer.com/blog/creating-post-previews-in-strapi-with-remix)
@@ -24,7 +25,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [U.S. FCC commissioner wants Apple and Google to remove TikTok from their app stores](https://rogerstringer.com/blog/fcc-commission-tiktok-app-stores)
 - [There is no bar](https://rogerstringer.com/blog/there-is-no-bar)
 - [50 years of Atari](https://rogerstringer.com/blog/50-years-of-atari)
-- [Apple retail workers vote to unionize a store in Maryland](https://rogerstringer.com/blog/apple-retail-workers-vote-to-unionize-a-store-in-maryland)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
