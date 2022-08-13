@@ -15,6 +15,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Beef and Broccoli](https://rogerstringer.com/blog/beef-and-broccoli)
 - [The Quiet Times](https://rogerstringer.com/blog/the-quiet-times)
 - [Disney+ Grows to 152 Million Subscribers](https://rogerstringer.com/blog/disney-plus-152m)
 - [Samsung’s All Alone at the Foldable Party](https://rogerstringer.com/blog/samsung-all-alone-at-the-foldable-party)
@@ -24,7 +25,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [TikTok’s security chief steps down as company moves US data to Oracle servers](https://rogerstringer.com/blog/tiktok-security-chief-steps-down-oracle-servers)
 - [Meet Bun](https://rogerstringer.com/blog/bun)
 - [U.S. FCC commissioner wants Apple and Google to remove TikTok from their app stores](https://rogerstringer.com/blog/fcc-commission-tiktok-app-stores)
-- [There is no bar](https://rogerstringer.com/blog/there-is-no-bar)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
