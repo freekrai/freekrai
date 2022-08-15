@@ -21,9 +21,9 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Disney+ Grows to 152 Million Subscribers](https://rogerstringer.com/blog/disney-plus-152m)
 - [Samsung’s All Alone at the Foldable Party](https://rogerstringer.com/blog/samsung-all-alone-at-the-foldable-party)
 - [Netflix rolling out external subscription button for iOS users](https://rogerstringer.com/blog/netflix-external-subscription-ios)
-- [Creating post previews in Strapi with Remix](https://codedgeekery.com/blog/creating-post-previews-in-strapi-with-remix)
 - [Creating post previews in Strapi with Remix](https://rogerstringer.com/blog/creating-post-previews-in-strapi-with-remix)
 - [Loader vs Route Cache Headers in Remix](https://rogerstringer.com/blog/loader-vs-route-cache-headers-in-remix)
+- [TikTok’s security chief steps down as company moves US data to Oracle servers](https://rogerstringer.com/blog/tiktok-security-chief-steps-down-oracle-servers)
 - [Meet Bun](https://rogerstringer.com/blog/bun)
 <!-- BLOG-POST-LIST:END -->
 </details> 
