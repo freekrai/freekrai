@@ -15,6 +15,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Mexican Street Corn in a Cup](https://rogerstringer.com/blog/mexican-street-corn-in-a-cup)
 - [Beef and Broccoli](https://rogerstringer.com/blog/beef-and-broccoli)
 - [The Quiet Times](https://rogerstringer.com/blog/the-quiet-times)
 - [Disney+ Grows to 152 Million Subscribers](https://rogerstringer.com/blog/disney-plus-152m)
@@ -22,7 +23,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Netflix rolling out external subscription button for iOS users](https://rogerstringer.com/blog/netflix-external-subscription-ios)
 - [Creating post previews in Strapi with Remix](https://codedgeekery.com/blog/creating-post-previews-in-strapi-with-remix)
 - [Creating post previews in Strapi with Remix](https://rogerstringer.com/blog/creating-post-previews-in-strapi-with-remix)
-- [U.S. FCC commissioner wants Apple and Google to remove TikTok from their app stores](https://rogerstringer.com/blog/fcc-commission-tiktok-app-stores)
 - [Loader vs Route Cache Headers in Remix](https://rogerstringer.com/blog/loader-vs-route-cache-headers-in-remix)
 - [Meet Bun](https://rogerstringer.com/blog/bun)
 <!-- BLOG-POST-LIST:END -->
