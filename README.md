@@ -15,6 +15,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Deno Sets out to Challenge Node.js](https://rogerstringer.com/blog/deno-sets-out-to-challenge-node-js)
 - [Airbnb accidentally sent tons of Android users a ‘test’ notification](https://rogerstringer.com/blog/airbnb-android-users-accidental-test-notification)
 - [Mexican Street Corn in a Cup](https://rogerstringer.com/blog/mexican-street-corn-in-a-cup)
 - [Beef and Broccoli](https://rogerstringer.com/blog/beef-and-broccoli)
@@ -24,7 +25,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Netflix rolling out external subscription button for iOS users](https://rogerstringer.com/blog/netflix-external-subscription-ios)
 - [Creating post previews in Strapi with Remix](https://rogerstringer.com/blog/creating-post-previews-in-strapi-with-remix)
 - [Loader vs Route Cache Headers in Remix](https://rogerstringer.com/blog/loader-vs-route-cache-headers-in-remix)
-- [TikTok’s security chief steps down as company moves US data to Oracle servers](https://rogerstringer.com/blog/tiktok-security-chief-steps-down-oracle-servers)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
