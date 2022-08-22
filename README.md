@@ -16,6 +16,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 
  <!-- BLOG-POST-LIST:START -->
 - [Josh W Comeau : “Why React Re-Renders”](https://codedgeekery.com/blog/why-react-re-renders)
+- [Clip Studio Paint announces subscription plan, angering the online artist community](https://rogerstringer.com/blog/clip-studio-paint-announces-subscription-plan-angering-the-online-artist-community)
 - [Deno Sets out to Challenge Node.js](https://rogerstringer.com/blog/deno-sets-out-to-challenge-node-js)
 - [Airbnb accidentally sent tons of Android users a ‘test’ notification](https://rogerstringer.com/blog/airbnb-android-users-accidental-test-notification)
 - [Mexican Street Corn in a Cup](https://rogerstringer.com/blog/mexican-street-corn-in-a-cup)
@@ -24,7 +25,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Disney+ Grows to 152 Million Subscribers](https://rogerstringer.com/blog/disney-plus-152m)
 - [Samsung’s All Alone at the Foldable Party](https://rogerstringer.com/blog/samsung-all-alone-at-the-foldable-party)
 - [Netflix rolling out external subscription button for iOS users](https://rogerstringer.com/blog/netflix-external-subscription-ios)
-- [Creating post previews in Strapi with Remix](https://rogerstringer.com/blog/creating-post-previews-in-strapi-with-remix)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
