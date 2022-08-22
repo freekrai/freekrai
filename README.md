@@ -15,6 +15,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Quickly Deploy Directus on Railway](https://codedgeekery.com/blog/directus-railway)
 - [Josh W Comeau : “Why React Re-Renders”](https://codedgeekery.com/blog/why-react-re-renders)
 - [Clip Studio Paint announces subscription plan, angering the online artist community](https://rogerstringer.com/blog/clip-studio-paint-announces-subscription-plan-angering-the-online-artist-community)
 - [Deno Sets out to Challenge Node.js](https://rogerstringer.com/blog/deno-sets-out-to-challenge-node-js)
@@ -24,7 +25,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [The Quiet Times](https://rogerstringer.com/blog/the-quiet-times)
 - [Disney+ Grows to 152 Million Subscribers](https://rogerstringer.com/blog/disney-plus-152m)
 - [Samsung’s All Alone at the Foldable Party](https://rogerstringer.com/blog/samsung-all-alone-at-the-foldable-party)
-- [Netflix rolling out external subscription button for iOS users](https://rogerstringer.com/blog/netflix-external-subscription-ios)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
