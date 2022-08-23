@@ -21,10 +21,10 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Deno Sets out to Challenge Node.js](https://rogerstringer.com/blog/deno-sets-out-to-challenge-node-js)
 - [Airbnb accidentally sent tons of Android users a ‘test’ notification](https://rogerstringer.com/blog/airbnb-android-users-accidental-test-notification)
 - [Mexican Street Corn in a Cup](https://rogerstringer.com/blog/mexican-street-corn-in-a-cup)
+- [From WordPress to Strapi and Remix](https://rogerstringer.com/blog/from-wordpress-to-strapi-and-remix)
 - [Beef and Broccoli](https://rogerstringer.com/blog/beef-and-broccoli)
 - [The Quiet Times](https://rogerstringer.com/blog/the-quiet-times)
 - [Disney+ Grows to 152 Million Subscribers](https://rogerstringer.com/blog/disney-plus-152m)
-- [Samsung’s All Alone at the Foldable Party](https://rogerstringer.com/blog/samsung-all-alone-at-the-foldable-party)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
