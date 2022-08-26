@@ -16,7 +16,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 
  <!-- BLOG-POST-LIST:START -->
 - [Quickly Deploy Directus on Railway](https://codedgeekery.com/blog/directus-railway)
-- [Heroku’s Next Chapter means Dropping Free Plans](https://rogerstringer.com/blog/heroku-next-chapter)
+- [Heroku&#39;s Next Chapter means Dropping Free Plans](https://rogerstringer.com/blog/heroku-next-chapter)
 - [Clip Studio Paint announces subscription plan, angering the online artist community](https://rogerstringer.com/blog/clip-studio-paint-announces-subscription-plan-angering-the-online-artist-community)
 - [Deno Sets out to Challenge Node.js](https://rogerstringer.com/blog/deno-sets-out-to-challenge-node-js)
 - [Airbnb accidentally sent tons of Android users a ‘test’ notification](https://rogerstringer.com/blog/airbnb-android-users-accidental-test-notification)
