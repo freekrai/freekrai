@@ -15,6 +15,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Air Fryer Ham Casserole](https://rogerstringer.com/blog/air-fryer-ham-casserole)
 - [Heroku&#39;s Next Chapter means Dropping Free Plans](https://rogerstringer.com/blog/heroku-next-chapter)
 - [Clip Studio Paint announces subscription plan, angering the online artist community](https://rogerstringer.com/blog/clip-studio-paint-announces-subscription-plan-angering-the-online-artist-community)
 - [Deno Sets out to Challenge Node.js](https://rogerstringer.com/blog/deno-sets-out-to-challenge-node-js)
@@ -24,7 +25,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Beef and Broccoli](https://rogerstringer.com/blog/beef-and-broccoli)
 - [The Quiet Times](https://rogerstringer.com/blog/the-quiet-times)
 - [Disney+ Grows to 152 Million Subscribers](https://rogerstringer.com/blog/disney-plus-152m)
-- [Samsung&#39;s All Alone at the Foldable Party](https://rogerstringer.com/blog/samsung-all-alone-at-the-foldable-party)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
