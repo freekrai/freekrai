@@ -15,16 +15,16 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
-- [Air Fryer Ham Casserole](https://rogerstringer.com/blog/air-fryer-ham-casserole)
-- [Heroku&#39;s Next Chapter means Dropping Free Plans](https://rogerstringer.com/blog/heroku-next-chapter)
-- [Clip Studio Paint announces subscription plan, angering the online artist community](https://rogerstringer.com/blog/clip-studio-paint-announces-subscription-plan-angering-the-online-artist-community)
-- [Deno Sets out to Challenge Node.js](https://rogerstringer.com/blog/deno-sets-out-to-challenge-node-js)
-- [Airbnb accidentally sent tons of Android users a &#39;test&#39; notification](https://rogerstringer.com/blog/airbnb-android-users-accidental-test-notification)
-- [Mexican Street Corn in a Cup](https://rogerstringer.com/blog/mexican-street-corn-in-a-cup)
-- [From WordPress to Strapi and Remix](https://rogerstringer.com/blog/from-wordpress-to-strapi-and-remix)
-- [Beef and Broccoli](https://rogerstringer.com/blog/beef-and-broccoli)
-- [The Quiet Times](https://rogerstringer.com/blog/the-quiet-times)
-- [Disney+ Grows to 152 Million Subscribers](https://rogerstringer.com/blog/disney-plus-152m)
+- [Quickly Deploy Directus on Railway](https://codedgeekery.com/blog/directus-railway)
+- [Josh W Comeau : &quot;Why React Re-Renders&quot;](https://codedgeekery.com/blog/why-react-re-renders)
+- [Creating post previews in Strapi with Remix](https://codedgeekery.com/blog/creating-post-previews-in-strapi-with-remix)
+- [Upgrade your Remix app to React 18](https://codedgeekery.com/blog/remix-react-18)
+- [Re-arranging things](https://codedgeekery.com/blog/re-arranging-things)
+- [Using Hasura with NextAuth](https://codedgeekery.com/blog/hasura-nextauth)
+- [Use React Admin with Hasura and Nextjs](https://codedgeekery.com/blog/react-admin-hasura)
+- [Install Hasura on Dokku](https://codedgeekery.com/blog/hasura-dokku)
+- [Setup an nginx proxy for docker-compose](https://codedgeekery.com/blog/nginx-proxy-docker)
+- [Build a Contact form with Nextjs and Slack webhooks](https://codedgeekery.com/blog/contact-form-slack)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
