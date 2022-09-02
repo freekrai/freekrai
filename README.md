@@ -15,6 +15,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [The Remix Blog Stack](https://codedgeekery.com/blog/remix-blog-stack)
 - [Quickly Deploy Directus on Railway](https://codedgeekery.com/blog/directus-railway)
 - [Josh W Comeau : &quot;Why React Re-Renders&quot;](https://codedgeekery.com/blog/why-react-re-renders)
 - [Creating post previews in Strapi with Remix](https://codedgeekery.com/blog/creating-post-previews-in-strapi-with-remix)
@@ -24,7 +25,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Use React Admin with Hasura and Nextjs](https://codedgeekery.com/blog/react-admin-hasura)
 - [Install Hasura on Dokku](https://codedgeekery.com/blog/hasura-dokku)
 - [Setup an nginx proxy for docker-compose](https://codedgeekery.com/blog/nginx-proxy-docker)
-- [Build a Contact form with Nextjs and Slack webhooks](https://codedgeekery.com/blog/contact-form-slack)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
