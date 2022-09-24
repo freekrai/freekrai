@@ -15,7 +15,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
-- [The Directed Stacked: A Full-Stack App built with Remix and Directus](https://codedgeekery.com/blog/directed-stack)
+- [The Directed Stack: A Full-Stack App built with Remix and Directus](https://codedgeekery.com/blog/directed-stack)
 - [The Remix Blog Stack](https://codedgeekery.com/blog/remix-blog-stack)
 - [Quickly Deploy Directus on Railway](https://codedgeekery.com/blog/directus-railway)
 - [Josh W Comeau : &quot;Why React Re-Renders&quot;](https://codedgeekery.com/blog/why-react-re-renders)
