@@ -15,6 +15,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Quickly Deploy Directus On Fly.io](https://codedgeekery.com/blog/quickly-deploy-directus-on-fly)
 - [The Directed Stack: A Full-Stack App built with Remix and Directus](https://codedgeekery.com/blog/directed-stack)
 - [The Remix Blog Stack](https://codedgeekery.com/blog/remix-blog-stack)
 - [Quickly Deploy Directus on Railway](https://codedgeekery.com/blog/directus-railway)
@@ -24,7 +25,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Re-arranging things](https://codedgeekery.com/blog/re-arranging-things)
 - [Using Hasura with NextAuth](https://codedgeekery.com/blog/hasura-nextauth)
 - [Use React Admin with Hasura and Nextjs](https://codedgeekery.com/blog/react-admin-hasura)
-- [Install Hasura on Dokku](https://codedgeekery.com/blog/hasura-dokku)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
