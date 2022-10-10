@@ -22,9 +22,9 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Josh W Comeau : &quot;Why React Re-Renders&quot;](https://codedgeekery.com/blog/why-react-re-renders)
 - [Creating post previews in Strapi with Remix](https://codedgeekery.com/blog/creating-post-previews-in-strapi-with-remix)
 - [Upgrade your Remix app to React 18](https://codedgeekery.com/blog/remix-react-18)
-- [Re-arranging things](https://codedgeekery.com/blog/re-arranging-things)
 - [Using Hasura with NextAuth](https://codedgeekery.com/blog/hasura-nextauth)
 - [Use React Admin with Hasura and Nextjs](https://codedgeekery.com/blog/react-admin-hasura)
+- [Install Hasura on Dokku](https://codedgeekery.com/blog/hasura-dokku)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
