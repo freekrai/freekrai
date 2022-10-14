@@ -25,8 +25,8 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Jason Snell Reviews The iPhone 14 Pro](https://rogerstringer.com/blog/iphone-14-pro-review)
 - [Apple Executive Responds to Annoying iOS 16 Copy and Paste Prompt: &#39;Absolutely Not Expected Behavior&#39;](https://rogerstringer.com/blog/apple-executive-on-annoying-ios-16-prompt)
 - [Adobe to Acquire Figma for $20 Billion](https://rogerstringer.com/blog/adobe-to-acquire-figma)
+- [Overcoming Popular Issues With React Projects](https://codedgeekery.com/blog/overcoming-popular-issues-with-react-projects)
 - [Quickly Deploy Directus On Fly.io](https://codedgeekery.com/blog/quickly-deploy-directus-on-fly)
-- [The Directed Stack: A Full-Stack App built with Remix and Directus](https://codedgeekery.com/blog/directed-stack)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
