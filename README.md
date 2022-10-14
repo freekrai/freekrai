@@ -15,18 +15,18 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
-- [Quickly Deploy Directus On Fly.io](https://codedgeekery.com/blog/quickly-deploy-directus-on-fly)
-- [The Directed Stack: A Full-Stack App built with Remix and Directus](https://codedgeekery.com/blog/directed-stack)
-- [The Remix Blog Stack](https://codedgeekery.com/blog/remix-blog-stack)
-- [Quickly Deploy Directus on Railway](https://codedgeekery.com/blog/directus-railway)
-- [Josh W Comeau : &quot;Why React Re-Renders&quot;](https://codedgeekery.com/blog/why-react-re-renders)
-- [Creating post previews in Strapi with Remix](https://codedgeekery.com/blog/creating-post-previews-in-strapi-with-remix)
-- [Upgrade your Remix app to React 18](https://codedgeekery.com/blog/remix-react-18)
-- [Using Hasura with NextAuth](https://codedgeekery.com/blog/hasura-nextauth)
-- [Use React Admin with Hasura and Nextjs](https://codedgeekery.com/blog/react-admin-hasura)
-- [Install Hasura on Dokku](https://codedgeekery.com/blog/hasura-dokku)
 - [3 Ways Database as a Service Can Speed Applications](https://rogerstringer.com/blog/three-ways-database-as-a-service-can-speed-applications)
 - [Kent C. Dodds: The Web’s Next Transition](https://rogerstringer.com/blog/the-webs-next-transition)
+- [Xbox Cloud Gaming is coming to the Meta Quest](https://rogerstringer.com/blog/xbox-cloud-gaming-meta-quest-vr)
+- [Meta Quest Pro](https://rogerstringer.com/blog/meta-quest-pro)
+- [This is Microsoft’s Xbox game streaming device](https://rogerstringer.com/blog/microsoft-xbox-keystone-game-streaming-box)
+- [Google Shutting Down Stadia](https://rogerstringer.com/blog/google-shutting-down-stadia)
+- [The Standsome Slim Standing Desk](https://rogerstringer.com/blog/standsome-slim-standing-desk)
+- [Jason Snell Reviews The iPhone 14 Pro](https://rogerstringer.com/blog/iphone-14-pro-review)
+- [Apple Executive Responds to Annoying iOS 16 Copy and Paste Prompt: &#39;Absolutely Not Expected Behavior&#39;](https://rogerstringer.com/blog/apple-executive-on-annoying-ios-16-prompt)
+- [Adobe to Acquire Figma for $20 Billion](https://rogerstringer.com/blog/adobe-to-acquire-figma)
+- [Quickly Deploy Directus On Fly.io](https://codedgeekery.com/blog/quickly-deploy-directus-on-fly)
+- [The Directed Stack: A Full-Stack App built with Remix and Directus](https://codedgeekery.com/blog/directed-stack)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
