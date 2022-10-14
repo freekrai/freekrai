@@ -25,6 +25,8 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Using Hasura with NextAuth](https://codedgeekery.com/blog/hasura-nextauth)
 - [Use React Admin with Hasura and Nextjs](https://codedgeekery.com/blog/react-admin-hasura)
 - [Install Hasura on Dokku](https://codedgeekery.com/blog/hasura-dokku)
+- [3 Ways Database as a Service Can Speed Applications](https://rogerstringer.com/blog/three-ways-database-as-a-service-can-speed-applications)
+- [Kent C. Dodds: The Web’s Next Transition](https://rogerstringer.com/blog/the-webs-next-transition)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
