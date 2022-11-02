@@ -15,6 +15,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Remix Joining Shopify](https://rogerstringer.com/blog/remix-joining-shopify)
 - [Prioritise content over components](https://rogerstringer.com/blog/prioritise-content-over-components)
 - [3 Ways Database as a Service Can Speed Applications](https://rogerstringer.com/blog/three-ways-database-as-a-service-can-speed-applications)
 - [Kent C. Dodds: The Web’s Next Transition](https://rogerstringer.com/blog/the-webs-next-transition)
@@ -24,7 +25,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Google Shutting Down Stadia](https://rogerstringer.com/blog/google-shutting-down-stadia)
 - [The Standsome Slim Standing Desk](https://rogerstringer.com/blog/standsome-slim-standing-desk)
 - [Jason Snell Reviews The iPhone 14 Pro](https://rogerstringer.com/blog/iphone-14-pro-review)
-- [Apple Executive Responds to Annoying iOS 16 Copy and Paste Prompt: &#39;Absolutely Not Expected Behavior&#39;](https://rogerstringer.com/blog/apple-executive-on-annoying-ios-16-prompt)
 - [Overcoming Popular Issues With React Projects](https://codedgeekery.com/blog/overcoming-popular-issues-with-react-projects)
 - [Quickly Deploy Directus On Fly.io](https://codedgeekery.com/blog/quickly-deploy-directus-on-fly)
 <!-- BLOG-POST-LIST:END -->
