@@ -15,6 +15,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Jony Ive on Life After Apple](https://rogerstringer.com/blog/jony-ive-on-life-after-apple)
 - [Remix Joining Shopify](https://rogerstringer.com/blog/remix-joining-shopify)
 - [Prioritise content over components](https://rogerstringer.com/blog/prioritise-content-over-components)
 - [3 Ways Database as a Service Can Speed Applications](https://rogerstringer.com/blog/three-ways-database-as-a-service-can-speed-applications)
@@ -24,7 +25,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [This is Microsoft’s Xbox game streaming device](https://rogerstringer.com/blog/microsoft-xbox-keystone-game-streaming-box)
 - [Google Shutting Down Stadia](https://rogerstringer.com/blog/google-shutting-down-stadia)
 - [The Standsome Slim Standing Desk](https://rogerstringer.com/blog/standsome-slim-standing-desk)
-- [Jason Snell Reviews The iPhone 14 Pro](https://rogerstringer.com/blog/iphone-14-pro-review)
 - [Overcoming Popular Issues With React Projects](https://codedgeekery.com/blog/overcoming-popular-issues-with-react-projects)
 - [Quickly Deploy Directus On Fly.io](https://codedgeekery.com/blog/quickly-deploy-directus-on-fly)
 <!-- BLOG-POST-LIST:END -->
