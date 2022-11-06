@@ -25,8 +25,8 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [This is Microsoft’s Xbox game streaming device](https://rogerstringer.com/blog/microsoft-xbox-keystone-game-streaming-box)
 - [Google Shutting Down Stadia](https://rogerstringer.com/blog/google-shutting-down-stadia)
 - [The Standsome Slim Standing Desk](https://rogerstringer.com/blog/standsome-slim-standing-desk)
+- [Progressively enhance for a more resilient web](https://codedgeekery.com/blog/progressively-enhance-for-a-more-resilient-web)
 - [Overcoming Popular Issues With React Projects](https://codedgeekery.com/blog/overcoming-popular-issues-with-react-projects)
-- [Quickly Deploy Directus On Fly.io](https://codedgeekery.com/blog/quickly-deploy-directus-on-fly)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
