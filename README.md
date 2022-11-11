@@ -15,6 +15,8 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Logitech G Cloud Gaming Handheld](https://rogerstringer.com/blog/logitech-g-cloud-gaming-handheld)
+- [Twitter, cut in half](https://rogerstringer.com/blog/twitter-cut-in-half)
 - [Jony Ive on Life After Apple](https://rogerstringer.com/blog/jony-ive-on-life-after-apple)
 - [Remix Joining Shopify](https://rogerstringer.com/blog/remix-joining-shopify)
 - [Prioritise content over components](https://rogerstringer.com/blog/prioritise-content-over-components)
@@ -23,8 +25,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Xbox Cloud Gaming is coming to the Meta Quest](https://rogerstringer.com/blog/xbox-cloud-gaming-meta-quest-vr)
 - [Meta Quest Pro](https://rogerstringer.com/blog/meta-quest-pro)
 - [This is Microsoft’s Xbox game streaming device](https://rogerstringer.com/blog/microsoft-xbox-keystone-game-streaming-box)
-- [Google Shutting Down Stadia](https://rogerstringer.com/blog/google-shutting-down-stadia)
-- [The Standsome Slim Standing Desk](https://rogerstringer.com/blog/standsome-slim-standing-desk)
 - [Kent C. Dodds on Full Stack Components](https://codedgeekery.com/blog/full-stack-components)
 - [Progressively enhance for a more resilient web](https://codedgeekery.com/blog/progressively-enhance-for-a-more-resilient-web)
 <!-- BLOG-POST-LIST:END -->
