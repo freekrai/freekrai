@@ -15,6 +15,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Air Fryer Ham And Cheese Biscuits](https://rogerstringer.com/blog/air-fryer-ham-and-cheese-biscuits)
 - [Logitech G Cloud Gaming Handheld](https://rogerstringer.com/blog/logitech-g-cloud-gaming-handheld)
 - [Twitter, cut in half](https://rogerstringer.com/blog/twitter-cut-in-half)
 - [Jony Ive on Life After Apple](https://rogerstringer.com/blog/jony-ive-on-life-after-apple)
@@ -24,7 +25,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [3 Ways Database as a Service Can Speed Applications](https://rogerstringer.com/blog/three-ways-database-as-a-service-can-speed-applications)
 - [Kent C. Dodds: The Web’s Next Transition](https://rogerstringer.com/blog/the-webs-next-transition)
 - [Xbox Cloud Gaming is coming to the Meta Quest](https://rogerstringer.com/blog/xbox-cloud-gaming-meta-quest-vr)
-- [Meta Quest Pro](https://rogerstringer.com/blog/meta-quest-pro)
 - [Kent C. Dodds on Full Stack Components](https://codedgeekery.com/blog/full-stack-components)
 - [Progressively enhance for a more resilient web](https://codedgeekery.com/blog/progressively-enhance-for-a-more-resilient-web)
 <!-- BLOG-POST-LIST:END -->
