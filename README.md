@@ -15,6 +15,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [John Gruber: “Twitter Tumult”](https://rogerstringer.com/blog/twitter-tumult)
 - [9 to 5 Mac: “How to take screenshots on your iPad using gestures with iPadOS 16”](https://rogerstringer.com/blog/how-to-take-screenshots-ipad-using-gestures)
 - [Emergency SOS via satellite available today on the iPhone 14 lineup in the US and Canada](https://rogerstringer.com/blog/emergency-sos-via-satellite-available-today-on-the-i-phone-14-lineup-in-the-us-and-canada)
 - [Eli Lilly Stock Dipped after a Verified Twitter Imposter Claimed Insulin Would Now Be Free](https://rogerstringer.com/blog/eli-lilly-stock-takes-a-dip-after-verified-twitter-imposter-says-insulin-is-free)
@@ -24,7 +25,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Jony Ive on Life After Apple](https://rogerstringer.com/blog/jony-ive-on-life-after-apple)
 - [The Steam Deck](https://rogerstringer.com/blog/steam-deck)
 - [Remix Joining Shopify](https://rogerstringer.com/blog/remix-joining-shopify)
-- [Prioritise content over components](https://rogerstringer.com/blog/prioritise-content-over-components)
 - [Kent C. Dodds on Full Stack Components](https://codedgeekery.com/blog/full-stack-components)
 - [Progressively enhance for a more resilient web](https://codedgeekery.com/blog/progressively-enhance-for-a-more-resilient-web)
 <!-- BLOG-POST-LIST:END -->
