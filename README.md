@@ -15,6 +15,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [How Amazon Shopping Ads Are Disguised as Real Results](https://rogerstringer.com/blog/how-amazon-shopping-ads-are-disguised-as-real-results)
 - [Elon Musk tries to blame ‘activists’ for his Twitter moderation council lie](https://rogerstringer.com/blog/elon-musk-twitter-moderation-council-activist-promise)
 - [John Gruber: “Twitter Tumult”](https://rogerstringer.com/blog/twitter-tumult)
 - [9 to 5 Mac: “How to take screenshots on your iPad using gestures with iPadOS 16”](https://rogerstringer.com/blog/how-to-take-screenshots-ipad-using-gestures)
@@ -24,7 +25,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Logitech G Cloud Gaming Handheld](https://rogerstringer.com/blog/logitech-g-cloud-gaming-handheld)
 - [Twitter, cut in half](https://rogerstringer.com/blog/twitter-cut-in-half)
 - [Jony Ive on Life After Apple](https://rogerstringer.com/blog/jony-ive-on-life-after-apple)
-- [The Steam Deck](https://rogerstringer.com/blog/steam-deck)
 - [Kent C. Dodds on Full Stack Components](https://codedgeekery.com/blog/full-stack-components)
 - [Progressively enhance for a more resilient web](https://codedgeekery.com/blog/progressively-enhance-for-a-more-resilient-web)
 <!-- BLOG-POST-LIST:END -->
