@@ -25,6 +25,8 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Logitech G Cloud Gaming Handheld](https://rogerstringer.com/blog/logitech-g-cloud-gaming-handheld)
 - [Twitter, cut in half](https://rogerstringer.com/blog/twitter-cut-in-half)
 - [Jony Ive on Life After Apple](https://rogerstringer.com/blog/jony-ive-on-life-after-apple)
+- [The evolution of scalable CSS](https://codedgeekery.com/blog/the-evolution-of-scalable-css)
+- [Kent C. Dodds on Full Stack Components](https://codedgeekery.com/blog/full-stack-components)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
