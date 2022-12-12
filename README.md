@@ -15,6 +15,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Microsoft sued by FTC over Activision Blizzard buyout](https://rogerstringer.com/blog/microsoft-activision-blizzard-deal-ftc-lawsuit-acquisition)
 - [How Amazon Shopping Ads Are Disguised as Real Results](https://rogerstringer.com/blog/how-amazon-shopping-ads-are-disguised-as-real-results)
 - [Elon Musk tries to blame ‘activists’ for his Twitter moderation council lie](https://rogerstringer.com/blog/elon-musk-twitter-moderation-council-activist-promise)
 - [John Gruber: “Twitter Tumult”](https://rogerstringer.com/blog/twitter-tumult)
@@ -24,7 +25,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Air Fryer Ham And Cheese Biscuits](https://rogerstringer.com/blog/air-fryer-ham-and-cheese-biscuits)
 - [Logitech G Cloud Gaming Handheld](https://rogerstringer.com/blog/logitech-g-cloud-gaming-handheld)
 - [Twitter, cut in half](https://rogerstringer.com/blog/twitter-cut-in-half)
-- [Jony Ive on Life After Apple](https://rogerstringer.com/blog/jony-ive-on-life-after-apple)
 - [The evolution of scalable CSS](https://codedgeekery.com/blog/the-evolution-of-scalable-css)
 - [Kent C. Dodds on Full Stack Components](https://codedgeekery.com/blog/full-stack-components)
 <!-- BLOG-POST-LIST:END -->
