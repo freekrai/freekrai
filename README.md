@@ -15,6 +15,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Twitter “abruptly” bans all links to Instagram, Mastodon, and other competitors](https://rogerstringer.com/blog/twitter-bans-links-instagram-mastodon-competitors)
 - [Twitter Shutting Down Revue](https://rogerstringer.com/blog/twitter-shutting-down-revue)
 - [Jason Snell on Answering the burning questions about Apple’s reported App Store plans](https://rogerstringer.com/blog/answering-the-burning-questions-about-apples-reported-app-store-plans)
 - [Garlic Butter Steak and Potatoes Skillet](https://rogerstringer.com/blog/garlic-butter-steak-and-potatoes-skillet)
@@ -24,7 +25,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [John Gruber: “Twitter Tumult”](https://rogerstringer.com/blog/twitter-tumult)
 - [9 to 5 Mac: “How to take screenshots on your iPad using gestures with iPadOS 16”](https://rogerstringer.com/blog/how-to-take-screenshots-ipad-using-gestures)
 - [Emergency SOS via satellite available today on the iPhone 14 lineup in the US and Canada](https://rogerstringer.com/blog/emergency-sos-via-satellite-available-today-on-the-i-phone-14-lineup-in-the-us-and-canada)
-- [Eli Lilly Stock Dipped after a Verified Twitter Imposter Claimed Insulin Would Now Be Free](https://rogerstringer.com/blog/eli-lilly-stock-takes-a-dip-after-verified-twitter-imposter-says-insulin-is-free)
 - [The evolution of scalable CSS](https://codedgeekery.com/blog/the-evolution-of-scalable-css)
 - [Kent C. Dodds on Full Stack Components](https://codedgeekery.com/blog/full-stack-components)
 <!-- BLOG-POST-LIST:END -->
