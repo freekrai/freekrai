@@ -16,6 +16,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 
  <!-- BLOG-POST-LIST:START -->
 - [Apple Shuts Down Popular Weather App &#39;Dark Sky&#39;](https://rogerstringer.com/blog/dark-sky-shuts-down-tomorrow)
+- [Twitter’s landlord in San Francisco is suing the company for not paying rent.](https://rogerstringer.com/blog/twitter-sued-for-nonpayment-of-rent-on-san-francisco-office)
 - [Twitter “abruptly” bans all links to Instagram, Mastodon, and other competitors](https://rogerstringer.com/blog/twitter-bans-links-instagram-mastodon-competitors)
 - [Twitter Shutting Down Revue](https://rogerstringer.com/blog/twitter-shutting-down-revue)
 - [Jason Snell on Answering the burning questions about Apple’s reported App Store plans](https://rogerstringer.com/blog/answering-the-burning-questions-about-apples-reported-app-store-plans)
@@ -24,7 +25,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [How Amazon Shopping Ads Are Disguised as Real Results](https://rogerstringer.com/blog/how-amazon-shopping-ads-are-disguised-as-real-results)
 - [Elon Musk tries to blame ‘activists’ for his Twitter moderation council lie](https://rogerstringer.com/blog/elon-musk-twitter-moderation-council-activist-promise)
 - [John Gruber: “Twitter Tumult”](https://rogerstringer.com/blog/twitter-tumult)
-- [9 to 5 Mac: “How to take screenshots on your iPad using gestures with iPadOS 16”](https://rogerstringer.com/blog/how-to-take-screenshots-ipad-using-gestures)
 - [The evolution of scalable CSS](https://codedgeekery.com/blog/the-evolution-of-scalable-css)
 - [Kent C. Dodds on Full Stack Components](https://codedgeekery.com/blog/full-stack-components)
 <!-- BLOG-POST-LIST:END -->
