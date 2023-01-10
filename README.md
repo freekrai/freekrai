@@ -15,6 +15,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Pommes Aligot &lpar;Cheesy Mashed Potatoes&rpar;](https://rogerstringer.com/blog/pommes-aligot)
 - [Apple Shuts Down Popular Weather App &#39;Dark Sky&#39;](https://rogerstringer.com/blog/dark-sky-shuts-down-tomorrow)
 - [Twitter’s landlord in San Francisco is suing the company for not paying rent.](https://rogerstringer.com/blog/twitter-sued-for-nonpayment-of-rent-on-san-francisco-office)
 - [Twitter “abruptly” bans all links to Instagram, Mastodon, and other competitors](https://rogerstringer.com/blog/twitter-bans-links-instagram-mastodon-competitors)
@@ -24,7 +25,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Microsoft sued by FTC over Activision Blizzard buyout](https://rogerstringer.com/blog/microsoft-activision-blizzard-deal-ftc-lawsuit-acquisition)
 - [How Amazon Shopping Ads Are Disguised as Real Results](https://rogerstringer.com/blog/how-amazon-shopping-ads-are-disguised-as-real-results)
 - [Elon Musk tries to blame ‘activists’ for his Twitter moderation council lie](https://rogerstringer.com/blog/elon-musk-twitter-moderation-council-activist-promise)
-- [John Gruber: “Twitter Tumult”](https://rogerstringer.com/blog/twitter-tumult)
 - [The evolution of scalable CSS](https://codedgeekery.com/blog/the-evolution-of-scalable-css)
 - [Kent C. Dodds on Full Stack Components](https://codedgeekery.com/blog/full-stack-components)
 <!-- BLOG-POST-LIST:END -->
