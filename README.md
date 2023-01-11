@@ -15,7 +15,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
-- [Eddie Cue: “Apple celebrates a groundbreaking year in entertainment”](https://rogerstringer.com/blog/apple-celebrates-a-groundbreaking-year-in-entertainment)
+- [Eddie Cue on Apple&#39;s year of original content](https://rogerstringer.com/blog/apple-celebrates-a-groundbreaking-year-in-entertainment)
 - [Pommes Aligot &lpar;Cheesy Mashed Potatoes&rpar;](https://rogerstringer.com/blog/pommes-aligot)
 - [Apple Shuts Down Popular Weather App &#39;Dark Sky&#39;](https://rogerstringer.com/blog/dark-sky-shuts-down-tomorrow)
 - [Twitter’s landlord in San Francisco is suing the company for not paying rent.](https://rogerstringer.com/blog/twitter-sued-for-nonpayment-of-rent-on-san-francisco-office)
