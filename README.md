@@ -17,6 +17,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
  <!-- BLOG-POST-LIST:START -->
 - [AI art tools Stable Diffusion and Midjourney targeted with copyright lawsuit](https://rogerstringer.com/blog/ai-art-tools-stable-diffusion-and-midjourney-targeted-with-copyright-lawsuit)
 - [Craig Hockenberry on “ The Shit Show” that is Twitter](https://rogerstringer.com/blog/craig-hockenberry-the-shit-show)
+- [Watch out for these Fake 16 Terabyte Portable SSD Drives on Amazon](https://rogerstringer.com/blog/fake-16-terabyte-portable-ssd-drives-amazon)
 - [Twitter Intentionally Ends Third-Party App Developer Access to Its APIs](https://rogerstringer.com/blog/twitter-intentionally-ends-third-party-app-developer-access-to-its-apis)
 - [Google’s Stadia Controller is getting Bluetooth support](https://rogerstringer.com/blog/google-stadia-controller-getting-bluetooth-support)
 - [Eddie Cue on Apple&#39;s year of original content](https://rogerstringer.com/blog/apple-celebrates-a-groundbreaking-year-in-entertainment)
@@ -24,7 +25,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Apple Shuts Down Popular Weather App &#39;Dark Sky&#39;](https://rogerstringer.com/blog/dark-sky-shuts-down-tomorrow)
 - [Twitter’s landlord in San Francisco is suing the company for not paying rent.](https://rogerstringer.com/blog/twitter-sued-for-nonpayment-of-rent-on-san-francisco-office)
 - [Twitter “abruptly” bans all links to Instagram, Mastodon, and other competitors](https://rogerstringer.com/blog/twitter-bans-links-instagram-mastodon-competitors)
-- [Twitter Shutting Down Revue](https://rogerstringer.com/blog/twitter-shutting-down-revue)
 - [The evolution of scalable CSS](https://codedgeekery.com/blog/the-evolution-of-scalable-css)
 - [Kent C. Dodds on Full Stack Components](https://codedgeekery.com/blog/full-stack-components)
 <!-- BLOG-POST-LIST:END -->
