@@ -25,8 +25,8 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Pommes Aligot &lpar;Cheesy Mashed Potatoes&rpar;](https://rogerstringer.com/blog/pommes-aligot)
 - [Apple Shuts Down Popular Weather App &#39;Dark Sky&#39;](https://rogerstringer.com/blog/dark-sky-shuts-down-tomorrow)
 - [Twitter’s landlord in San Francisco is suing the company for not paying rent.](https://rogerstringer.com/blog/twitter-sued-for-nonpayment-of-rent-on-san-francisco-office)
-- [The evolution of scalable CSS](https://codedgeekery.com/blog/the-evolution-of-scalable-css)
-- [Kent C. Dodds on Full Stack Components](https://codedgeekery.com/blog/full-stack-components)
+- [Josh W Comeau : &quot;Why React Re-Renders&quot;](https://codedgeekery.com/blog/why-react-re-renders)
+- [Halifax Donair](https://codedgeekery.com/blog/halifax-donair)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
