@@ -15,6 +15,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [TikTok’s Secret ‘Heating’ Button Can Let Their Employees Make Anyone Go Viral](https://rogerstringer.com/blog/tiktok-heating-view-boosts-creators-businesses)
 - [Twitterrific: End of an Era](https://rogerstringer.com/blog/twitterrific-end-of-an-era)
 - [AI art tools Stable Diffusion and Midjourney targeted with copyright lawsuit](https://rogerstringer.com/blog/ai-art-tools-stable-diffusion-and-midjourney-targeted-with-copyright-lawsuit)
 - [Craig Hockenberry on “ The Shit Show” that is Twitter](https://rogerstringer.com/blog/craig-hockenberry-the-shit-show)
@@ -24,7 +25,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Eddie Cue on Apple&#39;s year of original content](https://rogerstringer.com/blog/apple-celebrates-a-groundbreaking-year-in-entertainment)
 - [Pommes Aligot &lpar;Cheesy Mashed Potatoes&rpar;](https://rogerstringer.com/blog/pommes-aligot)
 - [Apple Shuts Down Popular Weather App &#39;Dark Sky&#39;](https://rogerstringer.com/blog/dark-sky-shuts-down-tomorrow)
-- [Twitter’s landlord in San Francisco is suing the company for not paying rent.](https://rogerstringer.com/blog/twitter-sued-for-nonpayment-of-rent-on-san-francisco-office)
 - [Josh W Comeau : &quot;Why React Re-Renders&quot;](https://codedgeekery.com/blog/why-react-re-renders)
 - [Halifax Donair](https://codedgeekery.com/blog/halifax-donair)
 <!-- BLOG-POST-LIST:END -->
