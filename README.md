@@ -15,6 +15,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Chris Coyier: A “Perfect” CI Process](https://codedgeekery.com/blog/chris-coyier-a-perfect-ci-process)
 - [Back to Next.js](https://codedgeekery.com/blog/back-to-next)
 - [TikTok’s Secret ‘Heating’ Button Can Let Their Employees Make Anyone Go Viral](https://rogerstringer.com/blog/tiktok-heating-view-boosts-creators-businesses)
 - [Twitterrific: End of an Era](https://rogerstringer.com/blog/twitterrific-end-of-an-era)
@@ -26,7 +27,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Eddie Cue on Apple&#39;s year of original content](https://rogerstringer.com/blog/apple-celebrates-a-groundbreaking-year-in-entertainment)
 - [Pommes Aligot &lpar;Cheesy Mashed Potatoes&rpar;](https://rogerstringer.com/blog/pommes-aligot)
 - [Apple Shuts Down Popular Weather App &#39;Dark Sky&#39;](https://rogerstringer.com/blog/dark-sky-shuts-down-tomorrow)
-- [The evolution of scalable CSS](https://codedgeekery.com/blog/the-evolution-of-scalable-css)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
