@@ -17,6 +17,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
  <!-- BLOG-POST-LIST:START -->
 - [Chris Coyier: A “Perfect” CI Process](https://codedgeekery.com/blog/chris-coyier-a-perfect-ci-process)
 - [Back to Next.js](https://codedgeekery.com/blog/back-to-next)
+- [Picking a self-hosted Feed Reader](https://rogerstringer.com/blog/picking-a-self-hosted-feed-reader)
 - [Microsoft shutting down AltSpaceVR on March 10th](https://rogerstringer.com/blog/microsoft-shutting-down-altspacevr)
 - [TikTok’s Secret ‘Heating’ Button Can Let Their Employees Make Anyone Go Viral](https://rogerstringer.com/blog/tiktok-heating-view-boosts-creators-businesses)
 - [Twitterrific: End of an Era](https://rogerstringer.com/blog/twitterrific-end-of-an-era)
@@ -26,7 +27,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Twitter Intentionally Ends Third-Party App Developer Access to Its APIs](https://rogerstringer.com/blog/twitter-intentionally-ends-third-party-app-developer-access-to-its-apis)
 - [Google’s Stadia Controller is getting Bluetooth support](https://rogerstringer.com/blog/google-stadia-controller-getting-bluetooth-support)
 - [Eddie Cue on Apple&#39;s year of original content](https://rogerstringer.com/blog/apple-celebrates-a-groundbreaking-year-in-entertainment)
-- [Pommes Aligot &lpar;Cheesy Mashed Potatoes&rpar;](https://rogerstringer.com/blog/pommes-aligot)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
