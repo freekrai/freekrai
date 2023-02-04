@@ -17,6 +17,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
  <!-- BLOG-POST-LIST:START -->
 - [Back to the SSR](https://rogerstringer.com/blog/back-to-the-ssr)
 - [Picking a self-hosted Feed Reader](https://rogerstringer.com/blog/picking-a-self-hosted-feed-reader)
+- [Anker Soundcore VR P10 Wireless Gaming Earbuds](https://rogerstringer.com/blog/anker-soundcore-vr-p10-wireless-gaming-earbuds)
 - [Microsoft shutting down AltSpaceVR on March 10th](https://rogerstringer.com/blog/microsoft-shutting-down-altspacevr)
 - [TikTok’s Secret ‘Heating’ Button Can Let Their Employees Make Anyone Go Viral](https://rogerstringer.com/blog/tiktok-heating-view-boosts-creators-businesses)
 - [Twitterrific: End of an Era](https://rogerstringer.com/blog/twitterrific-end-of-an-era)
@@ -24,7 +25,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Craig Hockenberry on “ The Shit Show” that is Twitter](https://rogerstringer.com/blog/craig-hockenberry-the-shit-show)
 - [Watch out for these Fake 16 Terabyte Portable SSD Drives on Amazon](https://rogerstringer.com/blog/fake-16-terabyte-portable-ssd-drives-amazon)
 - [Twitter Intentionally Ends Third-Party App Developer Access to Its APIs](https://rogerstringer.com/blog/twitter-intentionally-ends-third-party-app-developer-access-to-its-apis)
-- [Google’s Stadia Controller is getting Bluetooth support](https://rogerstringer.com/blog/google-stadia-controller-getting-bluetooth-support)
 - [Chris Coyier: A “Perfect” CI Process](https://codedgeekery.com/blog/chris-coyier-a-perfect-ci-process)
 - [Back to Next.js](https://codedgeekery.com/blog/back-to-next)
 <!-- BLOG-POST-LIST:END -->
