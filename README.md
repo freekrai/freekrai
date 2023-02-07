@@ -15,6 +15,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Marry Me Chicken](https://rogerstringer.com/blog/marry-me-chicken)
 - [Back to the SSR](https://rogerstringer.com/blog/back-to-the-ssr)
 - [Picking a self-hosted Feed Reader](https://rogerstringer.com/blog/picking-a-self-hosted-feed-reader)
 - [Anker Soundcore VR P10 Wireless Gaming Earbuds](https://rogerstringer.com/blog/anker-soundcore-vr-p10-wireless-gaming-earbuds)
@@ -24,7 +25,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [AI art tools Stable Diffusion and Midjourney targeted with copyright lawsuit](https://rogerstringer.com/blog/ai-art-tools-stable-diffusion-and-midjourney-targeted-with-copyright-lawsuit)
 - [Craig Hockenberry on “ The Shit Show” that is Twitter](https://rogerstringer.com/blog/craig-hockenberry-the-shit-show)
 - [Watch out for these Fake 16 Terabyte Portable SSD Drives on Amazon](https://rogerstringer.com/blog/fake-16-terabyte-portable-ssd-drives-amazon)
-- [Twitter Intentionally Ends Third-Party App Developer Access to Its APIs](https://rogerstringer.com/blog/twitter-intentionally-ends-third-party-app-developer-access-to-its-apis)
 - [Chris Coyier: A “Perfect” CI Process](https://codedgeekery.com/blog/chris-coyier-a-perfect-ci-process)
 - [Back to Next.js](https://codedgeekery.com/blog/back-to-next)
 <!-- BLOG-POST-LIST:END -->
