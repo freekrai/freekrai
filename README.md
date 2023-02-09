@@ -15,6 +15,8 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Deploy Directus to Dokku](https://codedgeekery.com/blog/deploy-directus-to-dokku)
+- [Google Stadia had less than 10% market share among cloud gaming services](https://rogerstringer.com/blog/google-stadia-market-share-cloud-gaming)
 - [Microsoft Announces New AI-Powered Bing Search and Edge Web Browser](https://rogerstringer.com/blog/microsoft-ai-bing-edge)
 - [Marry Me Chicken](https://rogerstringer.com/blog/marry-me-chicken)
 - [Bard: Google’s Conversational AI Chat](https://rogerstringer.com/blog/bard)
@@ -24,9 +26,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Microsoft shutting down AltSpaceVR on March 10th](https://rogerstringer.com/blog/microsoft-shutting-down-altspacevr)
 - [TikTok’s Secret ‘Heating’ Button Can Let Their Employees Make Anyone Go Viral](https://rogerstringer.com/blog/tiktok-heating-view-boosts-creators-businesses)
 - [Twitterrific: End of an Era](https://rogerstringer.com/blog/twitterrific-end-of-an-era)
-- [AI art tools Stable Diffusion and Midjourney targeted with copyright lawsuit](https://rogerstringer.com/blog/ai-art-tools-stable-diffusion-and-midjourney-targeted-with-copyright-lawsuit)
 - [Chris Coyier: A “Perfect” CI Process](https://codedgeekery.com/blog/chris-coyier-a-perfect-ci-process)
-- [Back to Next.js](https://codedgeekery.com/blog/back-to-next)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
