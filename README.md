@@ -26,7 +26,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Anker Soundcore VR P10 Wireless Gaming Earbuds](https://rogerstringer.com/blog/anker-soundcore-vr-p10-wireless-gaming-earbuds)
 - [Microsoft shutting down AltSpaceVR on March 10th](https://rogerstringer.com/blog/microsoft-shutting-down-altspacevr)
 - [TikTok’s Secret ‘Heating’ Button Can Let Their Employees Make Anyone Go Viral](https://rogerstringer.com/blog/tiktok-heating-view-boosts-creators-businesses)
-- [Lee Rob And The State of Databases for Serverless &amp; Edge In 2023](https://codedgeekery.com/blog/2023-backend)
+- [The State of Databases for Serverless &amp; Edge In 2023](https://codedgeekery.com/blog/2023-backend)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
