@@ -16,6 +16,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 
  <!-- BLOG-POST-LIST:START -->
 - [Deploy Directus to Dokku](https://codedgeekery.com/blog/deploy-directus-to-dokku)
+- [BOBOVR M2 Plus Head Strap For Meta Quest 2](https://rogerstringer.com/blog/bobovr-m2-plus-head-strap)
 - [Instant Pot Tuscan Chicken](https://rogerstringer.com/blog/instant-pot-tuscan-chicken)
 - [Google Stadia had less than 10% market share among cloud gaming services](https://rogerstringer.com/blog/google-stadia-market-share-cloud-gaming)
 - [Microsoft Announces New AI-Powered Bing Search and Edge Web Browser](https://rogerstringer.com/blog/microsoft-ai-bing-edge)
@@ -25,7 +26,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Picking a self-hosted Feed Reader](https://rogerstringer.com/blog/picking-a-self-hosted-feed-reader)
 - [Anker Soundcore VR P10 Wireless Gaming Earbuds](https://rogerstringer.com/blog/anker-soundcore-vr-p10-wireless-gaming-earbuds)
 - [Microsoft shutting down AltSpaceVR on March 10th](https://rogerstringer.com/blog/microsoft-shutting-down-altspacevr)
-- [TikTok’s Secret ‘Heating’ Button Can Let Their Employees Make Anyone Go Viral](https://rogerstringer.com/blog/tiktok-heating-view-boosts-creators-businesses)
 - [The State of Databases for Serverless &amp; Edge In 2023](https://codedgeekery.com/blog/2023-backend)
 <!-- BLOG-POST-LIST:END -->
 </details> 
