@@ -15,6 +15,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [The definition of overwhelm](https://rogerstringer.com/blog/the-definition-of-overwhelm)
 - [New cracks emerge in Elon Musk&#39;s Twitter](https://rogerstringer.com/blog/new-cracks-emerge-in-elon-musk-s-twitter)
 - [What is going on with Fitbit?](https://rogerstringer.com/blog/what-is-going-on-with-fitbit)
 - [BOBOVR M2 Plus Head Strap For Meta Quest 2](https://rogerstringer.com/blog/bobovr-m2-plus-head-strap)
@@ -24,7 +25,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Marry Me Chicken](https://rogerstringer.com/blog/marry-me-chicken)
 - [Bard: Google’s Conversational AI Chat](https://rogerstringer.com/blog/bard)
 - [Back to the SSR](https://rogerstringer.com/blog/back-to-the-ssr)
-- [Picking a self-hosted Feed Reader](https://rogerstringer.com/blog/picking-a-self-hosted-feed-reader)
 - [Deploy Directus to Dokku](https://codedgeekery.com/blog/deploy-directus-to-dokku)
 - [The State of Databases for Serverless &amp; Edge In 2023](https://codedgeekery.com/blog/2023-backend)
 <!-- BLOG-POST-LIST:END -->
