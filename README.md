@@ -15,6 +15,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Playing with AI models](https://rogerstringer.com/blog/playing-with-ai-models)
 - [Marc Rubinstein on The Demise of Silicon Valley Bank](https://rogerstringer.com/blog/marc-rubinstein-on-the-demise-of-silicon-valley-bank)
 - [Etsy is delaying seller payouts following Silicon Valley Bank’s collapse](https://rogerstringer.com/blog/etsy-delaying-seller-payouts-silicon-valley-bank-collapse)
 - [Cowboy Butter](https://rogerstringer.com/blog/cowboy-butter)
@@ -24,7 +25,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [BOBOVR M2 Plus Head Strap For Meta Quest 2](https://rogerstringer.com/blog/bobovr-m2-plus-head-strap)
 - [Instant Pot Tuscan Chicken](https://rogerstringer.com/blog/instant-pot-tuscan-chicken)
 - [Google Stadia had less than 10% market share among cloud gaming services](https://rogerstringer.com/blog/google-stadia-market-share-cloud-gaming)
-- [Microsoft Announces New AI-Powered Bing Search and Edge Web Browser](https://rogerstringer.com/blog/microsoft-ai-bing-edge)
 - [Deploy Directus to Dokku](https://codedgeekery.com/blog/deploy-directus-to-dokku)
 - [The State of Databases for Serverless &amp; Edge In 2023](https://codedgeekery.com/blog/2023-backend)
 <!-- BLOG-POST-LIST:END -->
