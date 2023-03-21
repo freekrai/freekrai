@@ -15,6 +15,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [The End of Front-End Development?](https://codedgeekery.com/blog/the-end-of-front-end-development)
 - [Shazam! 2’s opening weekend is DC’s biggest box office flop](https://rogerstringer.com/blog/shazam-2-opening-weekend-is-dcs-biggest-box-office-flop)
 - [Playing with AI models](https://rogerstringer.com/blog/playing-with-ai-models)
 - [Marc Rubinstein on The Demise of Silicon Valley Bank](https://rogerstringer.com/blog/marc-rubinstein-on-the-demise-of-silicon-valley-bank)
@@ -26,7 +27,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [BOBOVR M2 Plus Head Strap For Meta Quest 2](https://rogerstringer.com/blog/bobovr-m2-plus-head-strap)
 - [Instant Pot Tuscan Chicken](https://rogerstringer.com/blog/instant-pot-tuscan-chicken)
 - [Deploy Directus to Dokku](https://codedgeekery.com/blog/deploy-directus-to-dokku)
-- [The State of Databases for Serverless &amp; Edge In 2023](https://codedgeekery.com/blog/2023-backend)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
