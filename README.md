@@ -38,9 +38,13 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 ![](https://img.shields.io/badge/remix%20-%2320232a.svg?&style=for-the-badge&logo=remix&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white&color=black)
 ![](https://img.shields.io/badge/php%20-%2343853D.svg?&style=for-the-badge&logo=php&logoColor=white)
+![](https://img.shields.io/badge/go-%2343853D.svg?&style=for-the-badge&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/twilio%20-%2343853D.svg?&style=for-the-badge&logo=twilio&logoColor=white&color=red)
-
+![](https://img.shields.io/badge/openai%20-%2320232a.svg?&style=for-the-badge&logo=openai&logoColor=%2361DAFB)
+![](https://img.shields.io/badge/deepai%20-%2320232a.svg?&style=for-the-badge&logoColor=%2361DAFB)
+  
 ![](https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Google%20Cloud-%23232F3E?logo=google-cloud&logoColor=white&style=for-the-badge&color=blue)
 ![](https://img.shields.io/badge/Docker-%23316192.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Kubernetes-3DDC84?logo=kubernetes&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/OpenFaas-3DDC84?logo=openfaas&style=for-the-badge&logoColor=white&color=blue)
@@ -48,6 +52,8 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 ![](https://img.shields.io/badge/Vercel-3DDC84?logo=vercel&style=for-the-badge&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Netlify-3DDC84?logo=netlify&style=for-the-badge&logoColor=white&color=blue)
 
+![](https://img.shields.io/badge/Directus%20-%2343853D.svg?style=for-the-badge&logo=directus&logoColor=white&color=purple)
+![](https://img.shields.io/badge/Strapi%20-%2343853D.svg?style=for-the-badge&logo=strapi&logoColor=white&color=blue)  
 ![](https://img.shields.io/badge/GraphQL%20-%2343853D.svg?style=for-the-badge&logo=graphql&logoColor=white&color=blue) 
 ![](https://img.shields.io/badge/hasura%20-%2343853D.svg?style=for-the-badge&logo=hasura&logoColor=white&color=green) 
 ![](https://img.shields.io/badge/prisma%20-%2343853D.svg?style=for-the-badge&logo=prisma&logoColor=white&color=blue) 
