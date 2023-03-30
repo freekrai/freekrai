@@ -52,8 +52,8 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 ![](https://img.shields.io/badge/Vercel-3DDC84?logo=vercel&style=for-the-badge&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Netlify-3DDC84?logo=netlify&style=for-the-badge&logoColor=white&color=blue)
 
-![](https://img.shields.io/badge/Directus%20-%2343853D.svg?style=for-the-badge&logo=directus&logoColor=white&color=purple)
-![](https://img.shields.io/badge/Strapi%20-%2343853D.svg?style=for-the-badge&logo=strapi&logoColor=white&color=blue)  
+![](https://img.shields.io/badge/Directus%20-%2343853D.svg?style=for-the-badge&logo=directus&logoColor=white&color=purple) 
+![](https://img.shields.io/badge/Strapi%20-%2343853D.svg?style=for-the-badge&logo=strapi&logoColor=white&color=blue) 
 ![](https://img.shields.io/badge/GraphQL%20-%2343853D.svg?style=for-the-badge&logo=graphql&logoColor=white&color=blue) 
 ![](https://img.shields.io/badge/hasura%20-%2343853D.svg?style=for-the-badge&logo=hasura&logoColor=white&color=green) 
 ![](https://img.shields.io/badge/prisma%20-%2343853D.svg?style=for-the-badge&logo=prisma&logoColor=white&color=blue) 
