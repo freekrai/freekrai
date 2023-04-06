@@ -15,18 +15,16 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
-- [Creating post previews in Strapi with Remix](https://rogerstringer.com/blog/creating-post-previews-in-strapi-with-remix)
-- [Netflix rolling out external subscription button for iOS users](https://rogerstringer.com/blog/netflix-external-subscription-ios)
-- [Samsung&#39;s All Alone at the Foldable Party](https://rogerstringer.com/blog/samsung-all-alone-at-the-foldable-party)
-- [Drew Devault: &quot;In praise of PostgreSQL&quot;](https://rogerstringer.com/blog/drew-devault-in-praise-of-postgre-sql)
-- [There is no bar](https://rogerstringer.com/blog/there-is-no-bar)
-- [U.S. FCC commissioner wants Apple and Google to remove TikTok from their app stores](https://rogerstringer.com/blog/fcc-commission-tiktok-app-stores)
-- [50 years of Atari](https://rogerstringer.com/blog/50-years-of-atari)
-- [Meet Bun](https://rogerstringer.com/blog/bun)
-- [8 short rules for being a creator](https://rogerstringer.com/blog/8-short-rules-for-being-a-creator)
-- [The Mess at Medium](https://rogerstringer.com/blog/the-mess-at-medium)
 - [The End of Front-End Development?](https://codedgeekery.com/blog/the-end-of-front-end-development)
 - [Deploy Directus to Dokku](https://codedgeekery.com/blog/deploy-directus-to-dokku)
+- [The State of Databases for Serverless &amp; Edge In 2023](https://codedgeekery.com/blog/2023-backend)
+- [Chris Coyier: A “Perfect” CI Process](https://codedgeekery.com/blog/chris-coyier-a-perfect-ci-process)
+- [Back to Next.js](https://codedgeekery.com/blog/back-to-next)
+- [The evolution of scalable CSS](https://codedgeekery.com/blog/the-evolution-of-scalable-css)
+- [Kent C. Dodds on Full Stack Components](https://codedgeekery.com/blog/full-stack-components)
+- [Using Preact Signals with Fresh](https://codedgeekery.com/blog/using-preact-signals-with-fresh)
+- [Progressively enhance for a more resilient web](https://codedgeekery.com/blog/progressively-enhance-for-a-more-resilient-web)
+- [Overcoming Popular Issues With React Projects](https://codedgeekery.com/blog/overcoming-popular-issues-with-react-projects)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
