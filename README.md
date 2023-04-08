@@ -15,16 +15,16 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
-- [Creating post previews in Strapi with Remix](https://rogerstringer.com/blog/creating-post-previews-in-strapi-with-remix)
-- [Netflix rolling out external subscription button for iOS users](https://rogerstringer.com/blog/netflix-external-subscription-ios)
-- [Samsung&#39;s All Alone at the Foldable Party](https://rogerstringer.com/blog/samsung-all-alone-at-the-foldable-party)
-- [Drew Devault: &quot;In praise of PostgreSQL&quot;](https://rogerstringer.com/blog/drew-devault-in-praise-of-postgre-sql)
-- [There is no bar](https://rogerstringer.com/blog/there-is-no-bar)
-- [U.S. FCC commissioner wants Apple and Google to remove TikTok from their app stores](https://rogerstringer.com/blog/fcc-commission-tiktok-app-stores)
-- [50 years of Atari](https://rogerstringer.com/blog/50-years-of-atari)
-- [Meet Bun](https://rogerstringer.com/blog/bun)
-- [8 short rules for being a creator](https://rogerstringer.com/blog/8-short-rules-for-being-a-creator)
-- [The Mess at Medium](https://rogerstringer.com/blog/the-mess-at-medium)
+- [Apple’s Tim Cook says AR and VR are for &quot;connection&quot; and &quot;communication&quot;](https://rogerstringer.com/blog/tim-cook-apple-ar-vr-interview-gq)
+- [GM plans to phase out Apple CarPlay in EVs, with Google&#39;s help](https://rogerstringer.com/blog/gm-carplay-evs)
+- [Some Apple Employees Seriously Concerned About Mixed-Reality Headset as Announcement Draws Closer](https://rogerstringer.com/blog/apple-employees-concerned-about-headset)
+- [Shazam! 2’s opening weekend is DC’s biggest box office flop](https://rogerstringer.com/blog/shazam-2-opening-weekend-is-dcs-biggest-box-office-flop)
+- [Playing with AI models](https://rogerstringer.com/blog/playing-with-ai-models)
+- [Marc Rubinstein on The Demise of Silicon Valley Bank](https://rogerstringer.com/blog/marc-rubinstein-on-the-demise-of-silicon-valley-bank)
+- [Etsy is delaying seller payouts following Silicon Valley Bank’s collapse](https://rogerstringer.com/blog/etsy-delaying-seller-payouts-silicon-valley-bank-collapse)
+- [Cowboy Butter](https://rogerstringer.com/blog/cowboy-butter)
+- [The definition of overwhelm](https://rogerstringer.com/blog/the-definition-of-overwhelm)
+- [New cracks emerge in Elon Musk&#39;s Twitter](https://rogerstringer.com/blog/new-cracks-emerge-in-elon-musk-s-twitter)
 - [The End of Front-End Development?](https://codedgeekery.com/blog/the-end-of-front-end-development)
 - [Deploy Directus to Dokku](https://codedgeekery.com/blog/deploy-directus-to-dokku)
 <!-- BLOG-POST-LIST:END -->
