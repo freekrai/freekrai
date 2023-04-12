@@ -25,6 +25,8 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Cowboy Butter](https://rogerstringer.com/blog/cowboy-butter)
 - [The definition of overwhelm](https://rogerstringer.com/blog/the-definition-of-overwhelm)
 - [New cracks emerge in Elon Musk&#39;s Twitter](https://rogerstringer.com/blog/new-cracks-emerge-in-elon-musk-s-twitter)
+- [The End of Front-End Development?](https://codedgeekery.com/blog/the-end-of-front-end-development)
+- [Deploy Directus to Dokku](https://codedgeekery.com/blog/deploy-directus-to-dokku)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
