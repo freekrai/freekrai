@@ -15,6 +15,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
 - [The End of Computer Magazines in America](https://rogerstringer.com/blog/the-end-of-computer-magazines-in-america)
 - [Apple’s Tim Cook says AR and VR are for &quot;connection&quot; and &quot;communication&quot;](https://rogerstringer.com/blog/tim-cook-apple-ar-vr-interview-gq)
 - [GM plans to phase out Apple CarPlay in EVs, with Google&#39;s help](https://rogerstringer.com/blog/gm-carplay-evs)
@@ -26,7 +27,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Cowboy Butter](https://rogerstringer.com/blog/cowboy-butter)
 - [The definition of overwhelm](https://rogerstringer.com/blog/the-definition-of-overwhelm)
 - [The End of Front-End Development?](https://codedgeekery.com/blog/the-end-of-front-end-development)
-- [Deploy Directus to Dokku](https://codedgeekery.com/blog/deploy-directus-to-dokku)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
