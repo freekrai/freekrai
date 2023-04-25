@@ -16,6 +16,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 
  <!-- BLOG-POST-LIST:START -->
 - [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
+- [CNBC: “Apple declares resounding victory after decision reached in Epic Games appeal”](https://rogerstringer.com/blog/apple-declares-victory-after-decision-reached-in-epic-games-appeal)
 - [The end of the BuzzFeed era in news](https://rogerstringer.com/blog/the-end-of-the-buzz-feed-era-in-news)
 - [The End of Computer Magazines in America](https://rogerstringer.com/blog/the-end-of-computer-magazines-in-america)
 - [Apple’s Tim Cook says AR and VR are for &quot;connection&quot; and &quot;communication&quot;](https://rogerstringer.com/blog/tim-cook-apple-ar-vr-interview-gq)
@@ -25,7 +26,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Playing with AI models](https://rogerstringer.com/blog/playing-with-ai-models)
 - [Marc Rubinstein on The Demise of Silicon Valley Bank](https://rogerstringer.com/blog/marc-rubinstein-on-the-demise-of-silicon-valley-bank)
 - [Etsy is delaying seller payouts following Silicon Valley Bank’s collapse](https://rogerstringer.com/blog/etsy-delaying-seller-payouts-silicon-valley-bank-collapse)
-- [Cowboy Butter](https://rogerstringer.com/blog/cowboy-butter)
 - [The End of Front-End Development?](https://codedgeekery.com/blog/the-end-of-front-end-development)
 <!-- BLOG-POST-LIST:END -->
 </details> 
