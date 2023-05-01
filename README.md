@@ -15,7 +15,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
-- [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
 - [Amazon shuts down Halo division and discontinues all devices](https://rogerstringer.com/blog/amazon-layoffs-halo-fitness-tracking-sleep-tracking)
 - [CNBC: “Apple declares resounding victory after decision reached in Epic Games appeal”](https://rogerstringer.com/blog/apple-declares-victory-after-decision-reached-in-epic-games-appeal)
 - [The end of the BuzzFeed era in news](https://rogerstringer.com/blog/the-end-of-the-buzz-feed-era-in-news)
@@ -26,6 +25,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [Shazam! 2’s opening weekend is DC’s biggest box office flop](https://rogerstringer.com/blog/shazam-2-opening-weekend-is-dcs-biggest-box-office-flop)
 - [Playing with AI models](https://rogerstringer.com/blog/playing-with-ai-models)
 - [Marc Rubinstein on The Demise of Silicon Valley Bank](https://rogerstringer.com/blog/marc-rubinstein-on-the-demise-of-silicon-valley-bank)
+- [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
 - [The End of Front-End Development?](https://codedgeekery.com/blog/the-end-of-front-end-development)
 <!-- BLOG-POST-LIST:END -->
 </details> 
