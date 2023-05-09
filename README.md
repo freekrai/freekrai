@@ -15,6 +15,7 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Jack Dorsey-backed Bluesky is having a moment](https://rogerstringer.com/blog/jack-dorsey-backed-bluesky-is-having-a-moment)
 - [The Downfall of Brydge](https://rogerstringer.com/blog/the-downfall-of-brydge)
 - [Amazon shuts down Halo division and discontinues all devices](https://rogerstringer.com/blog/amazon-layoffs-halo-fitness-tracking-sleep-tracking)
 - [CNBC: “Apple declares resounding victory after decision reached in Epic Games appeal”](https://rogerstringer.com/blog/apple-declares-victory-after-decision-reached-in-epic-games-appeal)
@@ -24,7 +25,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [GM plans to phase out Apple CarPlay in EVs, with Google&#39;s help](https://rogerstringer.com/blog/gm-carplay-evs)
 - [Some Apple Employees Seriously Concerned About Mixed-Reality Headset as Announcement Draws Closer](https://rogerstringer.com/blog/apple-employees-concerned-about-headset)
 - [Shazam! 2’s opening weekend is DC’s biggest box office flop](https://rogerstringer.com/blog/shazam-2-opening-weekend-is-dcs-biggest-box-office-flop)
-- [Playing with AI models](https://rogerstringer.com/blog/playing-with-ai-models)
 - [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
 - [The End of Front-End Development?](https://codedgeekery.com/blog/the-end-of-front-end-development)
 <!-- BLOG-POST-LIST:END -->
