@@ -15,6 +15,8 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Skillet Bibimbap](https://rogerstringer.com/blog/skillet-bibimbap)
+- [The Verge: The 5 biggest announcements from Microsoft Build 2023](https://rogerstringer.com/blog/microsoft-build-2023-ai-bing-copilot)
 - [Jack Dorsey-backed Bluesky is having a moment](https://rogerstringer.com/blog/jack-dorsey-backed-bluesky-is-having-a-moment)
 - [The Downfall of Brydge](https://rogerstringer.com/blog/the-downfall-of-brydge)
 - [Amazon shuts down Halo division and discontinues all devices](https://rogerstringer.com/blog/amazon-layoffs-halo-fitness-tracking-sleep-tracking)
@@ -23,8 +25,6 @@ For more information about me, check out [Coded Geekery](https://codedgeekery.co
 - [The End of Computer Magazines in America](https://rogerstringer.com/blog/the-end-of-computer-magazines-in-america)
 - [Apple’s Tim Cook says AR and VR are for &quot;connection&quot; and &quot;communication&quot;](https://rogerstringer.com/blog/tim-cook-apple-ar-vr-interview-gq)
 - [GM plans to phase out Apple CarPlay in EVs, with Google&#39;s help](https://rogerstringer.com/blog/gm-carplay-evs)
-- [Some Apple Employees Seriously Concerned About Mixed-Reality Headset as Announcement Draws Closer](https://rogerstringer.com/blog/apple-employees-concerned-about-headset)
-- [Shazam! 2’s opening weekend is DC’s biggest box office flop](https://rogerstringer.com/blog/shazam-2-opening-weekend-is-dcs-biggest-box-office-flop)
 - [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
 - [The End of Front-End Development?](https://codedgeekery.com/blog/the-end-of-front-end-development)
 <!-- BLOG-POST-LIST:END -->
