@@ -1,15 +1,21 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roger 
 
+I'm a full-stack software engineer, devops engineer, author and dad from Canada.
 
-Hi. I’m Roger. I'm a fullstack software engineer, devops engineer, author and dad from Canada.
+🔭 I’m currently working on multiple frontend and backend projects using React, Remix, Nextjs, Vue, Nodejs, and OpenAI 
 
-🔭 I’m currently working on multiple frontend and backend projects using React, Remix, Nextjs, Vue, Nodejs and Hasura
+I build a lot of things using many stacks, currently mostly working with React / Remix / Nextjs and Nodejs with GraphQL APIs.  
 
-🌱 I’m currently learning to never stop learning.
+* 🌍  I'm based in Penticton, British Columbia, Canada 
+* 🖥️  See my portfolio at [Roger Stringer](https://rogerstringer.com) or [Coded Geekery](https://codedgeekery.com) 
+* 🧠  I'm learning to never stop learning. 
+* 🤝  I'm open to collaborating on interesting projects
 
-I build a lot of things using many stacks, currently mostly working with React / Remix / Nextjs and Nodejs with GraphQL APIs which is a fun stack fun to work with.
+### Socials  
 
-For more information about me, check out [Coded Geekery](https://codedgeekery.com/) or [rogerstringer.com](https://rogerstringer.com/).
+<p align="left"> <a href="https://www.github.com/freekrai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://rogerstringer.com/rss.xml" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/freekrai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+<a href="https://github.com/sponsors/freekrai"> ❤️ Sponsor me on GitHub</a> or <a href="https://www.buymeacoffee.com/codedgeekery">☕ Buy Me A Coffee</a>
 
 <details>
   <summary><u><b> Latest Blog posts </u></b></summary>  
