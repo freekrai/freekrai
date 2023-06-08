@@ -21,6 +21,8 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [John Gruber: “First Impressions of the Vision Pro and VisonOS”](https://rogerstringer.com/blog/first-impressions-of-vision-pro-and-visionos)
+- [What Mark Zuckerberg thinks about Apple’s Vision Pro](https://rogerstringer.com/blog/mark-zuckerberg-meta-apple-vision-pro-headset)
 - [How to use variables for better filtering in Directus Insights](https://rogerstringer.com/blog/how-to-use-variables-for-better-filtering-in-directus-insights)
 - [WordPress Turns 20](https://rogerstringer.com/blog/word-press-turns-20)
 - [Skillet Bibimbap](https://rogerstringer.com/blog/skillet-bibimbap)
@@ -29,8 +31,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [The Downfall of Brydge](https://rogerstringer.com/blog/the-downfall-of-brydge)
 - [Amazon shuts down Halo division and discontinues all devices](https://rogerstringer.com/blog/amazon-layoffs-halo-fitness-tracking-sleep-tracking)
 - [CNBC: “Apple declares resounding victory after decision reached in Epic Games appeal”](https://rogerstringer.com/blog/apple-declares-victory-after-decision-reached-in-epic-games-appeal)
-- [The end of the BuzzFeed era in news](https://rogerstringer.com/blog/the-end-of-the-buzz-feed-era-in-news)
-- [The End of Computer Magazines in America](https://rogerstringer.com/blog/the-end-of-computer-magazines-in-america)
 - [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
 - [The End of Front-End Development?](https://codedgeekery.com/blog/the-end-of-front-end-development)
 <!-- BLOG-POST-LIST:END -->
