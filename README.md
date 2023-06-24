@@ -21,6 +21,7 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Apple Vision Pro Will Support WebXR for Fully Immersive Experiences in the Browser](https://rogerstringer.com/blog/apple-vision-pro-webxr-support-safari-model)
 - [Robot pizza startup Zume shuts down](https://rogerstringer.com/blog/robot-pizza-startup-shuts-down)
 - [The Vision Pro’s biggest advantage isn’t Apple’s hardware](https://rogerstringer.com/blog/apple-vision-pro-developers-key-apps)
 - [John Gruber: “First Impressions of the Vision Pro and VisonOS”](https://rogerstringer.com/blog/first-impressions-of-vision-pro-and-visionos)
@@ -30,7 +31,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [Skillet Bibimbap](https://rogerstringer.com/blog/skillet-bibimbap)
 - [The Verge: The 5 biggest announcements from Microsoft Build 2023](https://rogerstringer.com/blog/microsoft-build-2023-ai-bing-copilot)
 - [Jack Dorsey-backed Bluesky is having a moment](https://rogerstringer.com/blog/jack-dorsey-backed-bluesky-is-having-a-moment)
-- [The Downfall of Brydge](https://rogerstringer.com/blog/the-downfall-of-brydge)
 - [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
 - [The End of Front-End Development?](https://codedgeekery.com/blog/the-end-of-front-end-development)
 <!-- BLOG-POST-LIST:END -->
