@@ -22,6 +22,7 @@ I build a lot of things using many stacks, currently mostly working with React /
 
  <!-- BLOG-POST-LIST:START -->
 - [The Verge Reviews The Pixel Fold](https://rogerstringer.com/blog/the-verge-reviews-the-pixel-fold)
+- [Unicorn social app IRL to shut down after admitting 95% of its users were fake](https://rogerstringer.com/blog/irl-shut-down-fake-users)
 - [Apple Vision Pro Will Support WebXR for Fully Immersive Experiences in the Browser](https://rogerstringer.com/blog/apple-vision-pro-webxr-support-safari-model)
 - [Robot pizza startup Zume shuts down](https://rogerstringer.com/blog/robot-pizza-startup-shuts-down)
 - [The Vision Pro’s biggest advantage isn’t Apple’s hardware](https://rogerstringer.com/blog/apple-vision-pro-developers-key-apps)
@@ -30,7 +31,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [How to use variables for better filtering in Directus Insights](https://rogerstringer.com/blog/how-to-use-variables-for-better-filtering-in-directus-insights)
 - [WordPress Turns 20](https://rogerstringer.com/blog/word-press-turns-20)
 - [Skillet Bibimbap](https://rogerstringer.com/blog/skillet-bibimbap)
-- [The Verge: The 5 biggest announcements from Microsoft Build 2023](https://rogerstringer.com/blog/microsoft-build-2023-ai-bing-copilot)
 - [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
 - [The End of Front-End Development?](https://codedgeekery.com/blog/the-end-of-front-end-development)
 <!-- BLOG-POST-LIST:END -->
