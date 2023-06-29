@@ -21,18 +21,16 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
-- [The Verge Reviews The Pixel Fold](https://rogerstringer.com/blog/the-verge-reviews-the-pixel-fold)
-- [Unicorn social app IRL to shut down after admitting 95% of its users were fake](https://rogerstringer.com/blog/irl-shut-down-fake-users)
-- [Apple Vision Pro Will Support WebXR for Fully Immersive Experiences in the Browser](https://rogerstringer.com/blog/apple-vision-pro-webxr-support-safari-model)
-- [Robot pizza startup Zume shuts down](https://rogerstringer.com/blog/robot-pizza-startup-shuts-down)
-- [The Vision Pro’s biggest advantage isn’t Apple’s hardware](https://rogerstringer.com/blog/apple-vision-pro-developers-key-apps)
-- [John Gruber: “First Impressions of the Vision Pro and VisonOS”](https://rogerstringer.com/blog/first-impressions-of-vision-pro-and-visionos)
-- [What Mark Zuckerberg thinks about Apple’s Vision Pro](https://rogerstringer.com/blog/mark-zuckerberg-meta-apple-vision-pro-headset)
-- [How to use variables for better filtering in Directus Insights](https://rogerstringer.com/blog/how-to-use-variables-for-better-filtering-in-directus-insights)
-- [WordPress Turns 20](https://rogerstringer.com/blog/word-press-turns-20)
-- [Skillet Bibimbap](https://rogerstringer.com/blog/skillet-bibimbap)
 - [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
 - [The End of Front-End Development?](https://codedgeekery.com/blog/the-end-of-front-end-development)
+- [Deploy Directus to Dokku](https://codedgeekery.com/blog/deploy-directus-to-dokku)
+- [The State of Databases for Serverless &amp; Edge In 2023](https://codedgeekery.com/blog/2023-backend)
+- [Chris Coyier: A “Perfect” CI Process](https://codedgeekery.com/blog/chris-coyier-a-perfect-ci-process)
+- [Back to Next.js](https://codedgeekery.com/blog/back-to-next)
+- [The evolution of scalable CSS](https://codedgeekery.com/blog/the-evolution-of-scalable-css)
+- [Kent C. Dodds on Full Stack Components](https://codedgeekery.com/blog/full-stack-components)
+- [Using Preact Signals with Fresh](https://codedgeekery.com/blog/using-preact-signals-with-fresh)
+- [Progressively enhance for a more resilient web](https://codedgeekery.com/blog/progressively-enhance-for-a-more-resilient-web)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
