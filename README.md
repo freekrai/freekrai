@@ -21,6 +21,7 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Inside-out grilled ham and cheese sandwiches](https://codedgeekery.com/blog/inside-out-grilled-ham-and-cheese-sandwiches)
 - [Elon Musk says Twitter’s ad revenue has dropped by 50 percent](https://rogerstringer.com/blog/elon-musk-says-twitters-ad-revenue-has-dropped-by-50-percent)
 - [Elon Musk’s new xAI company launches to ‘understand the true nature of the universe’](https://rogerstringer.com/blog/xai)
 - [Twitter is threatening to sue Meta over Threads](https://rogerstringer.com/blog/twitter-is-threatening-to-sue-meta-over-threads)
@@ -32,7 +33,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [John Gruber: “First Impressions of the Vision Pro and VisonOS”](https://rogerstringer.com/blog/first-impressions-of-vision-pro-and-visionos)
 - [What Mark Zuckerberg thinks about Apple’s Vision Pro](https://rogerstringer.com/blog/mark-zuckerberg-meta-apple-vision-pro-headset)
 - [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
-- [The End of Front-End Development?](https://codedgeekery.com/blog/the-end-of-front-end-development)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
