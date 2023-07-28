@@ -22,6 +22,7 @@ I build a lot of things using many stacks, currently mostly working with React /
 
  <!-- BLOG-POST-LIST:START -->
 - [Inside-out grilled ham and cheese sandwiches](https://codedgeekery.com/blog/inside-out-grilled-ham-and-cheese-sandwiches)
+- [How to use Sentry with your Remix apps](https://rogerstringer.com/blog/how-to-use-sentry-with-your-remix-apps)
 - [15-Inch MacBook Air Demand Reportedly &#39;Weaker Than Expected&#39; So Far](https://rogerstringer.com/blog/15-inch-macbook-air-weaker-demand-report)
 - [Elon Musk says Twitter’s ad revenue has dropped by 50 percent](https://rogerstringer.com/blog/elon-musk-says-twitters-ad-revenue-has-dropped-by-50-percent)
 - [Elon Musk’s new xAI company launches to ‘understand the true nature of the universe’](https://rogerstringer.com/blog/xai)
@@ -31,7 +32,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [Apple Vision Pro Will Support WebXR for Fully Immersive Experiences in the Browser](https://rogerstringer.com/blog/apple-vision-pro-webxr-support-safari-model)
 - [Robot pizza startup Zume shuts down](https://rogerstringer.com/blog/robot-pizza-startup-shuts-down)
 - [The Vision Pro’s biggest advantage isn’t Apple’s hardware](https://rogerstringer.com/blog/apple-vision-pro-developers-key-apps)
-- [John Gruber: “First Impressions of the Vision Pro and VisonOS”](https://rogerstringer.com/blog/first-impressions-of-vision-pro-and-visionos)
 - [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
 <!-- BLOG-POST-LIST:END -->
 </details> 
