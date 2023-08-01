@@ -21,7 +21,6 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
-- [Inside-out grilled ham and cheese sandwiches](https://codedgeekery.com/blog/inside-out-grilled-ham-and-cheese-sandwiches)
 - [How to use Sentry with your Remix apps](https://rogerstringer.com/blog/how-to-use-sentry-with-your-remix-apps)
 - [15-Inch MacBook Air Demand Reportedly &#39;Weaker Than Expected&#39; So Far](https://rogerstringer.com/blog/15-inch-macbook-air-weaker-demand-report)
 - [Elon Musk says Twitter’s ad revenue has dropped by 50 percent](https://rogerstringer.com/blog/elon-musk-says-twitters-ad-revenue-has-dropped-by-50-percent)
@@ -32,6 +31,7 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [Apple Vision Pro Will Support WebXR for Fully Immersive Experiences in the Browser](https://rogerstringer.com/blog/apple-vision-pro-webxr-support-safari-model)
 - [Robot pizza startup Zume shuts down](https://rogerstringer.com/blog/robot-pizza-startup-shuts-down)
 - [The Vision Pro’s biggest advantage isn’t Apple’s hardware](https://rogerstringer.com/blog/apple-vision-pro-developers-key-apps)
+- [Inside-out grilled ham and cheese sandwiches](https://codedgeekery.com/blog/inside-out-grilled-ham-and-cheese-sandwiches)
 - [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
 <!-- BLOG-POST-LIST:END -->
 </details> 
