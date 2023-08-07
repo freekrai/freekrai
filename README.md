@@ -21,6 +21,7 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [D&amp;D publisher updates policies after AI art discovered in latest book](https://rogerstringer.com/blog/dnd-dungeons-dragons-wizards-ai-art-controversy-bigby-presents-glory-of-the-giants)
 - [‘Every single’ Amazon team is working on generative AI, says CEO](https://rogerstringer.com/blog/amazon-generative-ai-ceo)
 - [Is Jamstack Officially Finished?](https://rogerstringer.com/blog/is-jamstack-officially-finished)
 - [How to use Sentry with your Remix apps](https://rogerstringer.com/blog/how-to-use-sentry-with-your-remix-apps)
@@ -30,7 +31,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [Twitter is threatening to sue Meta over Threads](https://rogerstringer.com/blog/twitter-is-threatening-to-sue-meta-over-threads)
 - [The Verge Reviews The Pixel Fold](https://rogerstringer.com/blog/the-verge-reviews-the-pixel-fold)
 - [Unicorn social app IRL to shut down after admitting 95% of its users were fake](https://rogerstringer.com/blog/irl-shut-down-fake-users)
-- [Apple Vision Pro Will Support WebXR for Fully Immersive Experiences in the Browser](https://rogerstringer.com/blog/apple-vision-pro-webxr-support-safari-model)
 - [Inside-out grilled ham and cheese sandwiches](https://codedgeekery.com/blog/inside-out-grilled-ham-and-cheese-sandwiches)
 - [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
 <!-- BLOG-POST-LIST:END -->
