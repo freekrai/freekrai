@@ -21,7 +21,7 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
-- [D&amp;D publisher updates policies after AI art discovered in latest book](https://rogerstringer.com/blog/dnd-dungeons-dragons-wizards-ai-art-controversy-bigby-presents-glory-of-the-giants)
+- [D&amp;D publisher updates policies after AI art discovered in latest book](https://rogerstringer.com/blog/dnd-wizards-ai-art-controversy-bigby)
 - [‘Every single’ Amazon team is working on generative AI, says CEO](https://rogerstringer.com/blog/amazon-generative-ai-ceo)
 - [Is Jamstack Officially Finished?](https://rogerstringer.com/blog/is-jamstack-officially-finished)
 - [How to use Sentry with your Remix apps](https://rogerstringer.com/blog/how-to-use-sentry-with-your-remix-apps)
