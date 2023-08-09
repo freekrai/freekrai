@@ -31,8 +31,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [Elon Musk’s new xAI company launches to ‘understand the true nature of the universe’](https://rogerstringer.com/blog/xai)
 - [Twitter is threatening to sue Meta over Threads](https://rogerstringer.com/blog/twitter-is-threatening-to-sue-meta-over-threads)
 - [The Verge Reviews The Pixel Fold](https://rogerstringer.com/blog/the-verge-reviews-the-pixel-fold)
-- [Inside-out grilled ham and cheese sandwiches](https://codedgeekery.com/blog/inside-out-grilled-ham-and-cheese-sandwiches)
-- [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
