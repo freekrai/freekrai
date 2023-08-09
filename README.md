@@ -21,16 +21,18 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [MrBeast’s burger company is suing him for $100 million](https://rogerstringer.com/blog/mrbeast-burger-virtual-dining-concepts-counter-lawsuit-ghost-kitchen)
+- [D&amp;D publisher updates policies after AI art discovered in latest book](https://rogerstringer.com/blog/dnd-wizards-ai-art-controversy-bigby)
+- [‘Every single’ Amazon team is working on generative AI, says CEO](https://rogerstringer.com/blog/amazon-generative-ai-ceo)
+- [Is Jamstack Officially Finished?](https://rogerstringer.com/blog/is-jamstack-officially-finished)
+- [How to use Sentry with your Remix apps](https://rogerstringer.com/blog/how-to-use-sentry-with-your-remix-apps)
+- [15-Inch MacBook Air Demand Reportedly &#39;Weaker Than Expected&#39; So Far](https://rogerstringer.com/blog/15-inch-mac-book-air-demand-reportedly-weaker-than-expected-so-far)
+- [Elon Musk says Twitter’s ad revenue has dropped by 50 percent](https://rogerstringer.com/blog/elon-musk-says-twitter-s-ad-revenue-has-dropped-by-50-percent)
+- [Elon Musk’s new xAI company launches to ‘understand the true nature of the universe’](https://rogerstringer.com/blog/xai)
+- [Twitter is threatening to sue Meta over Threads](https://rogerstringer.com/blog/twitter-is-threatening-to-sue-meta-over-threads)
+- [The Verge Reviews The Pixel Fold](https://rogerstringer.com/blog/the-verge-reviews-the-pixel-fold)
 - [Inside-out grilled ham and cheese sandwiches](https://codedgeekery.com/blog/inside-out-grilled-ham-and-cheese-sandwiches)
 - [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
-- [The End of Front-End Development?](https://codedgeekery.com/blog/the-end-of-front-end-development)
-- [Deploy Directus to Dokku](https://codedgeekery.com/blog/deploy-directus-to-dokku)
-- [The State of Databases for Serverless &amp; Edge In 2023](https://codedgeekery.com/blog/2023-backend)
-- [Chris Coyier: A “Perfect” CI Process](https://codedgeekery.com/blog/chris-coyier-a-perfect-ci-process)
-- [Back to Next.js](https://codedgeekery.com/blog/back-to-next)
-- [The evolution of scalable CSS](https://codedgeekery.com/blog/the-evolution-of-scalable-css)
-- [Kent C. Dodds on Full Stack Components](https://codedgeekery.com/blog/full-stack-components)
-- [Using Preact Signals with Fresh](https://codedgeekery.com/blog/using-preact-signals-with-fresh)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
