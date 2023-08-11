@@ -21,6 +21,7 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Techcrunch: “ WeWork goes from $47B valuation to ‘substantial doubts’ about its future”](https://rogerstringer.com/blog/wework-goes-from-a-47b-valuation-to-subtantial-doubts-about-its-ability-to-continue-as-a-going-concern)
 - [MrBeast’s burger company is suing him for $100 million](https://rogerstringer.com/blog/mrbeast-burger-virtual-dining-concepts-counter-lawsuit-ghost-kitchen)
 - [D&amp;D publisher updates policies after AI art discovered in latest book](https://rogerstringer.com/blog/dnd-wizards-ai-art-controversy-bigby)
 - [‘Every single’ Amazon team is working on generative AI, says CEO](https://rogerstringer.com/blog/amazon-generative-ai-ceo)
@@ -30,7 +31,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [Elon Musk says Twitter’s ad revenue has dropped by 50 percent](https://rogerstringer.com/blog/elon-musk-says-twitter-s-ad-revenue-has-dropped-by-50-percent)
 - [Elon Musk’s new xAI company launches to ‘understand the true nature of the universe’](https://rogerstringer.com/blog/xai)
 - [Twitter is threatening to sue Meta over Threads](https://rogerstringer.com/blog/twitter-is-threatening-to-sue-meta-over-threads)
-- [The Verge Reviews The Pixel Fold](https://rogerstringer.com/blog/the-verge-reviews-the-pixel-fold)
 - [Inside-out grilled ham and cheese sandwiches](https://codedgeekery.com/blog/inside-out-grilled-ham-and-cheese-sandwiches)
 - [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
 <!-- BLOG-POST-LIST:END -->
