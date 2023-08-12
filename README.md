@@ -21,6 +21,7 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Rice Cooker Chicken Noodle Soup](https://rogerstringer.com/blog/rice-cooker-chicken-noodle-soup)
 - [How to Block OpenAI’s Web Crawler from Crawling Your Site](https://rogerstringer.com/blog/how-to-block-openais-web-crawler)
 - [Techcrunch: “ WeWork goes from $47B valuation to ‘substantial doubts’ about its future”](https://rogerstringer.com/blog/wework-goes-from-a-47b-valuation-to-subtantial-doubts-about-its-ability-to-continue-as-a-going-concern)
 - [MrBeast’s burger company is suing him for $100 million](https://rogerstringer.com/blog/mrbeast-burger-virtual-dining-concepts-counter-lawsuit-ghost-kitchen)
@@ -30,7 +31,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [How to use Sentry with your Remix apps](https://rogerstringer.com/blog/how-to-use-sentry-with-your-remix-apps)
 - [15-Inch MacBook Air Demand Reportedly &#39;Weaker Than Expected&#39; So Far](https://rogerstringer.com/blog/15-inch-mac-book-air-demand-reportedly-weaker-than-expected-so-far)
 - [Elon Musk says Twitter’s ad revenue has dropped by 50 percent](https://rogerstringer.com/blog/elon-musk-says-twitter-s-ad-revenue-has-dropped-by-50-percent)
-- [Elon Musk’s new xAI company launches to ‘understand the true nature of the universe’](https://rogerstringer.com/blog/xai)
 - [Inside-out grilled ham and cheese sandwiches](https://codedgeekery.com/blog/inside-out-grilled-ham-and-cheese-sandwiches)
 - [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
 <!-- BLOG-POST-LIST:END -->
