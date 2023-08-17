@@ -21,6 +21,7 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Using “Ghost routes” in remix](https://rogerstringer.com/blog/ghost-routes-remix)
 - [GSI Outdoors Percolator Coffee Pot: The Perfect Companion for Outdoor Caffeine Lovers](https://rogerstringer.com/blog/gsi-outdoors-percolator-coffee-pot)
 - [Rice Cooker Chicken Noodle Soup](https://rogerstringer.com/blog/rice-cooker-chicken-noodle-soup)
 - [How to Block OpenAI’s Web Crawler from Crawling Your Site](https://rogerstringer.com/blog/how-to-block-openais-web-crawler)
@@ -30,7 +31,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [‘Every single’ Amazon team is working on generative AI, says CEO](https://rogerstringer.com/blog/amazon-generative-ai-ceo)
 - [Is Jamstack Officially Finished?](https://rogerstringer.com/blog/is-jamstack-officially-finished)
 - [How to use Sentry with your Remix apps](https://rogerstringer.com/blog/how-to-use-sentry-with-your-remix-apps)
-- [15-Inch MacBook Air Demand Reportedly &#39;Weaker Than Expected&#39; So Far](https://rogerstringer.com/blog/15-inch-mac-book-air-demand-reportedly-weaker-than-expected-so-far)
 - [Inside-out grilled ham and cheese sandwiches](https://codedgeekery.com/blog/inside-out-grilled-ham-and-cheese-sandwiches)
 - [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
 <!-- BLOG-POST-LIST:END -->
