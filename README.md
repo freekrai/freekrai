@@ -21,7 +21,7 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
-- [Linus Tech Tips Taking Break Following Massive Controversy](https://rogerstringer.com/blog/linus-tech-tips-taking-break-following-massive-controversy)
+- [Linus Tech Tips Taking Break Following Massive Controversy  &lpar;But only a one week break&rpar;](https://rogerstringer.com/blog/linus-tech-tips-taking-break-following-massive-controversy)
 - [Using “Ghost routes” in remix](https://rogerstringer.com/blog/ghost-routes-remix)
 - [GSI Outdoors Percolator Coffee Pot: The Perfect Companion for Outdoor Caffeine Lovers](https://rogerstringer.com/blog/gsi-outdoors-percolator-coffee-pot)
 - [Rice Cooker Chicken Noodle Soup](https://rogerstringer.com/blog/rice-cooker-chicken-noodle-soup)
