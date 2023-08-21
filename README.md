@@ -22,6 +22,7 @@ I build a lot of things using many stacks, currently mostly working with React /
 
  <!-- BLOG-POST-LIST:START -->
 - [To no one’s surprise, Rebranding to X Has Led to Decreased Downloads in App Store and Play Store](https://rogerstringer.com/blog/seufert-x-downloads)
+- [‘The Peripheral’ Canceled at Amazon Despite Season 2 Renewal](https://rogerstringer.com/blog/the-peripheral-canceled)
 - [Linus Tech Tips Taking Break Following Massive Controversy  &lpar;But only a one week break&rpar;](https://rogerstringer.com/blog/linus-tech-tips-taking-break-following-massive-controversy)
 - [Using “Ghost routes” in remix](https://rogerstringer.com/blog/ghost-routes-remix)
 - [GSI Outdoors Percolator Coffee Pot: The Perfect Companion for Outdoor Caffeine Lovers](https://rogerstringer.com/blog/gsi-outdoors-percolator-coffee-pot)
@@ -30,7 +31,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [Techcrunch: “ WeWork goes from $47B valuation to ‘substantial doubts’ about its future”](https://rogerstringer.com/blog/wework-goes-from-a-47b-valuation-to-subtantial-doubts-about-its-ability-to-continue-as-a-going-concern)
 - [MrBeast’s burger company is suing him for $100 million](https://rogerstringer.com/blog/mrbeast-burger-virtual-dining-concepts-counter-lawsuit-ghost-kitchen)
 - [D&amp;D publisher updates policies after AI art discovered in latest book](https://rogerstringer.com/blog/dnd-wizards-ai-art-controversy-bigby)
-- [‘Every single’ Amazon team is working on generative AI, says CEO](https://rogerstringer.com/blog/amazon-generative-ai-ceo)
 - [Inside-out grilled ham and cheese sandwiches](https://codedgeekery.com/blog/inside-out-grilled-ham-and-cheese-sandwiches)
 - [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
 <!-- BLOG-POST-LIST:END -->
