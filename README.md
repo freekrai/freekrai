@@ -22,6 +22,7 @@ I build a lot of things using many stacks, currently mostly working with React /
 
  <!-- BLOG-POST-LIST:START -->
 - [Linus Sebastian addresses error handling and ethics in a new video](https://rogerstringer.com/blog/linus-sebastian-addresses-error-handling-and-ethics-in-a-new-video)
+- [Giving up the iPad-Only Travel Dream](https://rogerstringer.com/blog/giving-up-the-ipad-only-travel-dream)
 - [Amazon is seeing some employees quit instead of moving to a new state as part of relocation mandate](https://rogerstringer.com/blog/amazon-employees-are-quitting-after-they-were-told-to-relocate-states)
 - [Microsoft kills Kinect.... &lpar;again&rpar;](https://rogerstringer.com/blog/microsoft-kills-kinect-again)
 - [To no one’s surprise, Rebranding to X Has Led to Decreased Downloads in App Store and Play Store](https://rogerstringer.com/blog/seufert-x-downloads)
@@ -30,7 +31,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [Using “Ghost routes” in remix](https://rogerstringer.com/blog/ghost-routes-remix)
 - [Rice Cooker Chicken Noodle Soup](https://rogerstringer.com/blog/rice-cooker-chicken-noodle-soup)
 - [How to Block OpenAI’s Web Crawler from Crawling Your Site](https://rogerstringer.com/blog/how-to-block-openais-web-crawler)
-- [Techcrunch: “ WeWork goes from $47B valuation to ‘substantial doubts’ about its future”](https://rogerstringer.com/blog/wework-goes-from-a-47b-valuation-to-subtantial-doubts-about-its-ability-to-continue-as-a-going-concern)
 - [Inside-out grilled ham and cheese sandwiches](https://codedgeekery.com/blog/inside-out-grilled-ham-and-cheese-sandwiches)
 - [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
 <!-- BLOG-POST-LIST:END -->
