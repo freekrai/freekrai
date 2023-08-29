@@ -21,6 +21,8 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Inside the Apple Vision Pro labs](https://rogerstringer.com/blog/inside-the-apple-vision-pro-labs)
+- [Amazon CEO reportedly told remote employees: ‘It’s probably not going to work out’](https://rogerstringer.com/blog/amazon-ceo-andy-jassy-remote-employees-return-to-office)
 - [Linus Sebastian addresses error handling and ethics in a new video](https://rogerstringer.com/blog/linus-sebastian-addresses-error-handling-and-ethics-in-a-new-video)
 - [Giving up the iPad-Only Travel Dream](https://rogerstringer.com/blog/giving-up-the-ipad-only-travel-dream)
 - [Amazon is seeing some employees quit instead of moving to a new state as part of relocation mandate](https://rogerstringer.com/blog/amazon-employees-are-quitting-after-they-were-told-to-relocate-states)
@@ -29,8 +31,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [‘The Peripheral’ Canceled at Amazon Despite Season 2 Renewal](https://rogerstringer.com/blog/the-peripheral-canceled)
 - [Linus Tech Tips Taking Break Following Massive Controversy  &lpar;But only a one week break&rpar;](https://rogerstringer.com/blog/linus-tech-tips-taking-break-following-massive-controversy)
 - [Using “Ghost routes” in remix](https://rogerstringer.com/blog/ghost-routes-remix)
-- [Rice Cooker Chicken Noodle Soup](https://rogerstringer.com/blog/rice-cooker-chicken-noodle-soup)
-- [How to Block OpenAI’s Web Crawler from Crawling Your Site](https://rogerstringer.com/blog/how-to-block-openais-web-crawler)
 - [Inside-out grilled ham and cheese sandwiches](https://codedgeekery.com/blog/inside-out-grilled-ham-and-cheese-sandwiches)
 - [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
 <!-- BLOG-POST-LIST:END -->
