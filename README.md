@@ -22,6 +22,7 @@ I build a lot of things using many stacks, currently mostly working with React /
 
  <!-- BLOG-POST-LIST:START -->
 - [Microsoft is using malware-like pop-ups in Windows 11 to get people to ditch Google](https://rogerstringer.com/blog/microsoft-bing-popups-windows-11-malware)
+- [Jason Snell on the “The evolving world of iPhone marketing”](https://rogerstringer.com/blog/ultra-or-not)
 - [Apple Announces &#39;Wonderlust&#39; Event Expected to Feature iPhone 15, Apple Watch Series 9 and More](https://rogerstringer.com/blog/apple-september-12-event-announcement)
 - [Amazon acquires Fig, a startup building autocomplete for the command line](https://rogerstringer.com/blog/amazon-fig)
 - [Inside the Apple Vision Pro labs](https://rogerstringer.com/blog/inside-the-apple-vision-pro-labs)
@@ -30,7 +31,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [Giving up the iPad-Only Travel Dream](https://rogerstringer.com/blog/giving-up-the-ipad-only-travel-dream)
 - [Amazon is seeing some employees quit instead of moving to a new state as part of relocation mandate](https://rogerstringer.com/blog/amazon-employees-are-quitting-after-they-were-told-to-relocate-states)
 - [Microsoft kills Kinect.... &lpar;again&rpar;](https://rogerstringer.com/blog/microsoft-kills-kinect-again)
-- [To no one’s surprise, Rebranding to X Has Led to Decreased Downloads in App Store and Play Store](https://rogerstringer.com/blog/seufert-x-downloads)
 - [Inside-out grilled ham and cheese sandwiches](https://codedgeekery.com/blog/inside-out-grilled-ham-and-cheese-sandwiches)
 - [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
 <!-- BLOG-POST-LIST:END -->
