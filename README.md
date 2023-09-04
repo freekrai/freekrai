@@ -21,6 +21,7 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Cyberpunk 2077’s Only Getting One Expansion Because Its Old Tech Is Being Retired](https://rogerstringer.com/blog/yberpunk-2077-phantom-liberty-expansion-unreal-engine)
 - [Apple May Sell Optional iPhone 15 Pro USB-C Thunderbolt Cable](https://rogerstringer.com/blog/iphone-15-pro-usb-c-thunderbolt-cable)
 - [Microsoft is using malware-like pop-ups in Windows 11 to get people to ditch Google](https://rogerstringer.com/blog/microsoft-bing-popups-windows-11-malware)
 - [Jason Snell on the “The evolving world of iPhone marketing”](https://rogerstringer.com/blog/ultra-or-not)
@@ -30,7 +31,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [Amazon CEO reportedly told remote employees: ‘It’s probably not going to work out’](https://rogerstringer.com/blog/amazon-ceo-andy-jassy-remote-employees-return-to-office)
 - [Linus Sebastian addresses error handling and ethics in a new video](https://rogerstringer.com/blog/linus-sebastian-addresses-error-handling-and-ethics-in-a-new-video)
 - [Giving up the iPad-Only Travel Dream](https://rogerstringer.com/blog/giving-up-the-ipad-only-travel-dream)
-- [Amazon is seeing some employees quit instead of moving to a new state as part of relocation mandate](https://rogerstringer.com/blog/amazon-employees-are-quitting-after-they-were-told-to-relocate-states)
 - [Inside-out grilled ham and cheese sandwiches](https://codedgeekery.com/blog/inside-out-grilled-ham-and-cheese-sandwiches)
 - [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
 <!-- BLOG-POST-LIST:END -->
