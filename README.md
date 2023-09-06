@@ -21,7 +21,7 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
-- [Cyberpunk 2077’s Only Getting One Expansion Because Its Old Tech Is Being Retired](https://rogerstringer.com/blog/yberpunk-2077-phantom-liberty-expansion-unreal-engine)
+- [Cyberpunk 2077’s Only Getting One Expansion Because Its Old Tech Is Being Retired](https://rogerstringer.com/blog/cyberpunk-2077-phantom-liberty-expansion-unreal-engine)
 - [Apple May Sell Optional iPhone 15 Pro USB-C Thunderbolt Cable](https://rogerstringer.com/blog/iphone-15-pro-usb-c-thunderbolt-cable)
 - [Microsoft is using malware-like pop-ups in Windows 11 to get people to ditch Google](https://rogerstringer.com/blog/microsoft-bing-popups-windows-11-malware)
 - [Jason Snell on the “The evolving world of iPhone marketing”](https://rogerstringer.com/blog/ultra-or-not)
