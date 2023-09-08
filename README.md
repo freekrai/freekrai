@@ -21,8 +21,8 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
-- [X’s new terms of service insist that tweets are now posts](https://rogerstringer.com/blog/x-twitter-new-terms-of-service-tweets-posts-lawsuit-scraping)
 - [Where is Microsoft’s handheld Xbox?](https://rogerstringer.com/blog/where-is-microsofts-handheld-xbox)
+- [X’s new terms of service insist that tweets are now posts](https://rogerstringer.com/blog/x-twitter-new-terms-of-service-tweets-posts-lawsuit-scraping)
 - [Horace Dediu on &quot;the value of a customer&quot;](https://rogerstringer.com/blog/the-value-of-a-customer)
 - [Cyberpunk 2077’s Only Getting One Expansion Because Its Old Tech Is Being Retired](https://rogerstringer.com/blog/cyberpunk-2077-phantom-liberty-expansion-unreal-engine)
 - [Apple May Sell Optional iPhone 15 Pro USB-C Thunderbolt Cable](https://rogerstringer.com/blog/iphone-15-pro-usb-c-thunderbolt-cable)
