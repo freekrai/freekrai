@@ -21,6 +21,7 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [X’s new terms of service insist that tweets are now posts](https://rogerstringer.com/blog/x-twitter-new-terms-of-service-tweets-posts-lawsuit-scraping)
 - [Where is Microsoft’s handheld Xbox?](https://rogerstringer.com/blog/where-is-microsofts-handheld-xbox)
 - [Horace Dediu on &quot;the value of a customer&quot;](https://rogerstringer.com/blog/the-value-of-a-customer)
 - [Cyberpunk 2077’s Only Getting One Expansion Because Its Old Tech Is Being Retired](https://rogerstringer.com/blog/cyberpunk-2077-phantom-liberty-expansion-unreal-engine)
@@ -30,7 +31,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [Apple Announces &#39;Wonderlust&#39; Event Expected to Feature iPhone 15, Apple Watch Series 9 and More](https://rogerstringer.com/blog/apple-september-12-event-announcement)
 - [Amazon acquires Fig, a startup building autocomplete for the command line](https://rogerstringer.com/blog/amazon-fig)
 - [Inside the Apple Vision Pro labs](https://rogerstringer.com/blog/inside-the-apple-vision-pro-labs)
-- [Amazon CEO reportedly told remote employees: ‘It’s probably not going to work out’](https://rogerstringer.com/blog/amazon-ceo-andy-jassy-remote-employees-return-to-office)
 - [Inside-out grilled ham and cheese sandwiches](https://codedgeekery.com/blog/inside-out-grilled-ham-and-cheese-sandwiches)
 - [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
 <!-- BLOG-POST-LIST:END -->
