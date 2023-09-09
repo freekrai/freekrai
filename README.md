@@ -31,6 +31,8 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [Jason Snell on the “The evolving world of iPhone marketing”](https://rogerstringer.com/blog/ultra-or-not)
 - [Apple Announces &#39;Wonderlust&#39; Event Expected to Feature iPhone 15, Apple Watch Series 9 and More](https://rogerstringer.com/blog/apple-september-12-event-announcement)
 - [Amazon acquires Fig, a startup building autocomplete for the command line](https://rogerstringer.com/blog/amazon-fig)
+- [Inside-out grilled ham and cheese sandwiches](https://codedgeekery.com/blog/inside-out-grilled-ham-and-cheese-sandwiches)
+- [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
