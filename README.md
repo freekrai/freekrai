@@ -21,6 +21,7 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Dill Pickle Dip](https://rogerstringer.com/blog/dill-pickle-dip)
 - [Where is Microsoft’s handheld Xbox?](https://rogerstringer.com/blog/where-is-microsofts-handheld-xbox)
 - [DHH on &quot;Open source hooliganism and the TypeScript meltdown&quot;](https://rogerstringer.com/blog/open-source-hooliganism-and-the-typescript-meltdown)
 - [X’s new terms of service insist that tweets are now posts](https://rogerstringer.com/blog/x-twitter-new-terms-of-service-tweets-posts-lawsuit-scraping)
@@ -30,7 +31,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [Microsoft is using malware-like pop-ups in Windows 11 to get people to ditch Google](https://rogerstringer.com/blog/microsoft-bing-popups-windows-11-malware)
 - [Jason Snell on the “The evolving world of iPhone marketing”](https://rogerstringer.com/blog/ultra-or-not)
 - [Apple Announces &#39;Wonderlust&#39; Event Expected to Feature iPhone 15, Apple Watch Series 9 and More](https://rogerstringer.com/blog/apple-september-12-event-announcement)
-- [Amazon acquires Fig, a startup building autocomplete for the command line](https://rogerstringer.com/blog/amazon-fig)
 - [Inside-out grilled ham and cheese sandwiches](https://codedgeekery.com/blog/inside-out-grilled-ham-and-cheese-sandwiches)
 - [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
 <!-- BLOG-POST-LIST:END -->
