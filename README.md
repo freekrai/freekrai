@@ -21,6 +21,7 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Developers fight back against Unity&#39;s new pricing model](https://rogerstringer.com/blog/developers-fight-back-against-unitys-new-pricing-model)
 - [Fake Drake won&#39;t be eligible as Junos add AI guidelines to prevent robot takeover](https://rogerstringer.com/blog/fake-drake-wont-be-eligible-as-junos-add-ai-guidelines-to-prevent-robot-takeover)
 - [Proxying Plausible in Remix](https://rogerstringer.com/blog/proxying-plausible-in-remix)
 - [Why Unity&#39;s New Install Fees Are Spurring Massive Backlash Among Game Developers](https://rogerstringer.com/blog/why-unitys-new-install-fees-are-spurring-massive-backlash-among-game-developers)
@@ -30,7 +31,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [DHH on &quot;Open source hooliganism and the TypeScript meltdown&quot;](https://rogerstringer.com/blog/open-source-hooliganism-and-the-typescript-meltdown)
 - [X’s new terms of service insist that tweets are now posts](https://rogerstringer.com/blog/x-twitter-new-terms-of-service-tweets-posts-lawsuit-scraping)
 - [Horace Dediu on &quot;the value of a customer&quot;](https://rogerstringer.com/blog/the-value-of-a-customer)
-- [Cyberpunk 2077’s Only Getting One Expansion Because Its Old Tech Is Being Retired](https://rogerstringer.com/blog/cyberpunk-2077-phantom-liberty-expansion-unreal-engine)
 - [Inside-out grilled ham and cheese sandwiches](https://codedgeekery.com/blog/inside-out-grilled-ham-and-cheese-sandwiches)
 - [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
 <!-- BLOG-POST-LIST:END -->
