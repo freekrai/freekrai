@@ -21,6 +21,7 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Remix releases V2](https://rogerstringer.com/blog/remix-v2)
 - [The MacRumors iOS 17 guide](https://rogerstringer.com/blog/ios-17-ultimate-guide)
 - [Developers fight back against Unity&#39;s new pricing model](https://rogerstringer.com/blog/developers-fight-back-against-unitys-new-pricing-model)
 - [Fake Drake won&#39;t be eligible as Junos add AI guidelines to prevent robot takeover](https://rogerstringer.com/blog/fake-drake-wont-be-eligible-as-junos-add-ai-guidelines-to-prevent-robot-takeover)
@@ -30,7 +31,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [Dill Pickle Dip](https://rogerstringer.com/blog/dill-pickle-dip)
 - [Where is Microsoft’s handheld Xbox?](https://rogerstringer.com/blog/where-is-microsofts-handheld-xbox)
 - [DHH on &quot;Open source hooliganism and the TypeScript meltdown&quot;](https://rogerstringer.com/blog/open-source-hooliganism-and-the-typescript-meltdown)
-- [X’s new terms of service insist that tweets are now posts](https://rogerstringer.com/blog/x-twitter-new-terms-of-service-tweets-posts-lawsuit-scraping)
 - [Inside-out grilled ham and cheese sandwiches](https://codedgeekery.com/blog/inside-out-grilled-ham-and-cheese-sandwiches)
 - [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
 <!-- BLOG-POST-LIST:END -->
