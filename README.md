@@ -21,6 +21,7 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Writers Strike end](https://rogerstringer.com/blog/writers-strike-end)
 - [Unity announces its revamped pricing model after outcry](https://rogerstringer.com/blog/unity-announces-its-revamped-pricing-model-after-outcry)
 - [Remix releases V2](https://rogerstringer.com/blog/remix-v2)
 - [The MacRumors iOS 17 guide](https://rogerstringer.com/blog/ios-17-ultimate-guide)
@@ -30,7 +31,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [Why Unity&#39;s New Install Fees Are Spurring Massive Backlash Among Game Developers](https://rogerstringer.com/blog/why-unitys-new-install-fees-are-spurring-massive-backlash-among-game-developers)
 - [Making Sense of React Server Components](https://rogerstringer.com/blog/making-sense-of-react-server-components)
 - [Dill Pickle Dip](https://rogerstringer.com/blog/dill-pickle-dip)
-- [Where is Microsoft’s handheld Xbox?](https://rogerstringer.com/blog/where-is-microsofts-handheld-xbox)
 - [Inside-out grilled ham and cheese sandwiches](https://codedgeekery.com/blog/inside-out-grilled-ham-and-cheese-sandwiches)
 - [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
 <!-- BLOG-POST-LIST:END -->
