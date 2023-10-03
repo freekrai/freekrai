@@ -22,6 +22,7 @@ I build a lot of things using many stacks, currently mostly working with React /
 
  <!-- BLOG-POST-LIST:START -->
 - [Microsoft Discussed Selling Bing to Apple as Google Replacement](https://rogerstringer.com/blog/microsoft-discussed-selling-bing-to-apple-as-google-replacement)
+- [Biscuits and Gravy](https://rogerstringer.com/blog/biscuits-and-gravy)
 - [Writers Strike end](https://rogerstringer.com/blog/writers-strike-end)
 - [Unity announces its revamped pricing model after outcry](https://rogerstringer.com/blog/unity-announces-its-revamped-pricing-model-after-outcry)
 - [Remix releases V2](https://rogerstringer.com/blog/remix-v2)
@@ -30,7 +31,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [Fake Drake won&#39;t be eligible as Junos add AI guidelines to prevent robot takeover](https://rogerstringer.com/blog/fake-drake-wont-be-eligible-as-junos-add-ai-guidelines-to-prevent-robot-takeover)
 - [Proxying Plausible in Remix](https://rogerstringer.com/blog/proxying-plausible-in-remix)
 - [Why Unity&#39;s New Install Fees Are Spurring Massive Backlash Among Game Developers](https://rogerstringer.com/blog/why-unitys-new-install-fees-are-spurring-massive-backlash-among-game-developers)
-- [Making Sense of React Server Components](https://rogerstringer.com/blog/making-sense-of-react-server-components)
 - [Inside-out grilled ham and cheese sandwiches](https://codedgeekery.com/blog/inside-out-grilled-ham-and-cheese-sandwiches)
 - [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
 <!-- BLOG-POST-LIST:END -->
