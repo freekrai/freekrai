@@ -21,6 +21,7 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Sam Bankman-Fried found guilty on all seven criminal fraud counts](https://rogerstringer.com/blog/sam-bankman-fried-found-guilty-on-all-seven-criminal-fraud-counts)
 - [Firecracker beef rice bowl](https://rogerstringer.com/blog/firecracker-beef-rice-bowl)
 - [Effective Immediately, John Riccitiello is out at Unity](https://rogerstringer.com/blog/effective-immediately-john-riccitiello-is-out-at-unity)
 - [Microsoft Discussed Selling Bing to Apple as Google Replacement](https://rogerstringer.com/blog/microsoft-discussed-selling-bing-to-apple-as-google-replacement)
@@ -30,7 +31,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [Remix releases V2](https://rogerstringer.com/blog/remix-v2)
 - [The MacRumors iOS 17 guide](https://rogerstringer.com/blog/ios-17-ultimate-guide)
 - [Developers fight back against Unity&#39;s new pricing model](https://rogerstringer.com/blog/developers-fight-back-against-unitys-new-pricing-model)
-- [Fake Drake won&#39;t be eligible as Junos add AI guidelines to prevent robot takeover](https://rogerstringer.com/blog/fake-drake-wont-be-eligible-as-junos-add-ai-guidelines-to-prevent-robot-takeover)
 - [Inside-out grilled ham and cheese sandwiches](https://codedgeekery.com/blog/inside-out-grilled-ham-and-cheese-sandwiches)
 - [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
 <!-- BLOG-POST-LIST:END -->
