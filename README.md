@@ -21,6 +21,7 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Sam Altman fired as CEO of OpenAI](https://rogerstringer.com/blog/sam-altman-fired-as-ceo-of-open-ai)
 - [Hell freezes over – Apple Plans to support RCS messages from Android phones next year](https://rogerstringer.com/blog/apple-plans-to-support-rcs-messages-from-android-phones-next-year)
 - [Sam Bankman-Fried found guilty on all seven criminal fraud counts](https://rogerstringer.com/blog/sam-bankman-fried-found-guilty-on-all-seven-criminal-fraud-counts)
 - [Firecracker beef rice bowl](https://rogerstringer.com/blog/firecracker-beef-rice-bowl)
@@ -30,7 +31,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [Writers Strike end](https://rogerstringer.com/blog/writers-strike-end)
 - [Unity announces its revamped pricing model after outcry](https://rogerstringer.com/blog/unity-announces-its-revamped-pricing-model-after-outcry)
 - [Remix releases V2](https://rogerstringer.com/blog/remix-v2)
-- [The MacRumors iOS 17 guide](https://rogerstringer.com/blog/ios-17-ultimate-guide)
 - [Inside-out grilled ham and cheese sandwiches](https://codedgeekery.com/blog/inside-out-grilled-ham-and-cheese-sandwiches)
 - [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
 <!-- BLOG-POST-LIST:END -->
