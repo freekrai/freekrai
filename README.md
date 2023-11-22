@@ -21,6 +21,7 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Sam Altman back at OpenAI](https://rogerstringer.com/blog/sam-altman-back-at-open-ai)
 - [OpenAI fallout: Everything that&#39;s happened since Sam Altman&#39;s firing](https://rogerstringer.com/blog/openai-sam-altman-everything-you-need-to-know)
 - [Sam Altman fired as CEO of OpenAI](https://rogerstringer.com/blog/sam-altman-fired-as-ceo-of-open-ai)
 - [Hell freezes over – Apple Plans to support RCS messages from Android phones next year](https://rogerstringer.com/blog/apple-plans-to-support-rcs-messages-from-android-phones-next-year)
@@ -30,7 +31,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [Microsoft Discussed Selling Bing to Apple as Google Replacement](https://rogerstringer.com/blog/microsoft-discussed-selling-bing-to-apple-as-google-replacement)
 - [Biscuits and Gravy](https://rogerstringer.com/blog/biscuits-and-gravy)
 - [Writers Strike end](https://rogerstringer.com/blog/writers-strike-end)
-- [Unity announces its revamped pricing model after outcry](https://rogerstringer.com/blog/unity-announces-its-revamped-pricing-model-after-outcry)
 - [Inside-out grilled ham and cheese sandwiches](https://codedgeekery.com/blog/inside-out-grilled-ham-and-cheese-sandwiches)
 - [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
 <!-- BLOG-POST-LIST:END -->
