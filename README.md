@@ -21,18 +21,16 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
-- [Sam Altman Interview on being fired and rehired by OpenAI](https://rogerstringer.com/blog/sam-altman-interview-on-being-fired-and-rehired-by-open-ai)
-- [Sam Altman back at OpenAI](https://rogerstringer.com/blog/sam-altman-back-at-open-ai)
-- [OpenAI fallout: Everything that&#39;s happened since Sam Altman&#39;s firing](https://rogerstringer.com/blog/openai-sam-altman-everything-you-need-to-know)
-- [Sam Altman fired as CEO of OpenAI](https://rogerstringer.com/blog/sam-altman-fired-as-ceo-of-open-ai)
-- [Hell freezes over – Apple Plans to support RCS messages from Android phones next year](https://rogerstringer.com/blog/apple-plans-to-support-rcs-messages-from-android-phones-next-year)
-- [Sam Bankman-Fried found guilty on all seven criminal fraud counts](https://rogerstringer.com/blog/sam-bankman-fried-found-guilty-on-all-seven-criminal-fraud-counts)
-- [Firecracker beef rice bowl](https://rogerstringer.com/blog/firecracker-beef-rice-bowl)
-- [Effective Immediately, John Riccitiello is out at Unity](https://rogerstringer.com/blog/effective-immediately-john-riccitiello-is-out-at-unity)
-- [Microsoft Discussed Selling Bing to Apple as Google Replacement](https://rogerstringer.com/blog/microsoft-discussed-selling-bing-to-apple-as-google-replacement)
-- [Biscuits and Gravy](https://rogerstringer.com/blog/biscuits-and-gravy)
 - [Inside-out grilled ham and cheese sandwiches](https://codedgeekery.com/blog/inside-out-grilled-ham-and-cheese-sandwiches)
 - [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
+- [The End of Front-End Development?](https://codedgeekery.com/blog/the-end-of-front-end-development)
+- [Deploy Directus to Dokku](https://codedgeekery.com/blog/deploy-directus-to-dokku)
+- [The State of Databases for Serverless &amp; Edge In 2023](https://codedgeekery.com/blog/2023-backend)
+- [Chris Coyier: A “Perfect” CI Process](https://codedgeekery.com/blog/chris-coyier-a-perfect-ci-process)
+- [Back to Next.js](https://codedgeekery.com/blog/back-to-next)
+- [The evolution of scalable CSS](https://codedgeekery.com/blog/the-evolution-of-scalable-css)
+- [Kent C. Dodds on Full Stack Components](https://codedgeekery.com/blog/full-stack-components)
+- [Using Preact Signals with Fresh](https://codedgeekery.com/blog/using-preact-signals-with-fresh)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
