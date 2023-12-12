@@ -21,6 +21,7 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Epic win: Jury decides Google has illegal monopoly in app store fight](https://rogerstringer.com/blog/epic-google-trial-jury-verdict-monopoly-google-play)
 - [Apple Discontinuing the Standalone Itunes Movies and Tv Shows Apps in Tvos 17.2](https://rogerstringer.com/blog/itunes-movies-and-tv-shows-app-discontinued-apple-tv)
 - [Sam Altman Interview on being fired and rehired by OpenAI](https://rogerstringer.com/blog/sam-altman-interview-on-being-fired-and-rehired-by-open-ai)
 - [Sam Altman back at OpenAI](https://rogerstringer.com/blog/sam-altman-back-at-open-ai)
@@ -30,7 +31,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [Sam Bankman-Fried found guilty on all seven criminal fraud counts](https://rogerstringer.com/blog/sam-bankman-fried-found-guilty-on-all-seven-criminal-fraud-counts)
 - [Firecracker beef rice bowl](https://rogerstringer.com/blog/firecracker-beef-rice-bowl)
 - [Effective Immediately, John Riccitiello is out at Unity](https://rogerstringer.com/blog/effective-immediately-john-riccitiello-is-out-at-unity)
-- [Microsoft Discussed Selling Bing to Apple as Google Replacement](https://rogerstringer.com/blog/microsoft-discussed-selling-bing-to-apple-as-google-replacement)
 - [Inside-out grilled ham and cheese sandwiches](https://codedgeekery.com/blog/inside-out-grilled-ham-and-cheese-sandwiches)
 - [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
 <!-- BLOG-POST-LIST:END -->
