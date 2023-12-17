@@ -21,18 +21,18 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
-- [Epic win: Jury decides Google has illegal monopoly in app store fight](https://rogerstringer.com/blog/epic-google-trial-jury-verdict-monopoly-google-play)
-- [Apple Discontinuing the Standalone Itunes Movies and Tv Shows Apps in Tvos 17.2](https://rogerstringer.com/blog/itunes-movies-and-tv-shows-app-discontinued-apple-tv)
-- [Sam Altman Interview on being fired and rehired by OpenAI](https://rogerstringer.com/blog/sam-altman-interview-on-being-fired-and-rehired-by-open-ai)
-- [Sam Altman back at OpenAI](https://rogerstringer.com/blog/sam-altman-back-at-open-ai)
-- [OpenAI fallout: Everything that&#39;s happened since Sam Altman&#39;s firing](https://rogerstringer.com/blog/openai-sam-altman-everything-you-need-to-know)
-- [Sam Altman fired as CEO of OpenAI](https://rogerstringer.com/blog/sam-altman-fired-as-ceo-of-open-ai)
-- [Hell freezes over – Apple Plans to support RCS messages from Android phones next year](https://rogerstringer.com/blog/apple-plans-to-support-rcs-messages-from-android-phones-next-year)
-- [Sam Bankman-Fried found guilty on all seven criminal fraud counts](https://rogerstringer.com/blog/sam-bankman-fried-found-guilty-on-all-seven-criminal-fraud-counts)
-- [Firecracker beef rice bowl](https://rogerstringer.com/blog/firecracker-beef-rice-bowl)
-- [Effective Immediately, John Riccitiello is out at Unity](https://rogerstringer.com/blog/effective-immediately-john-riccitiello-is-out-at-unity)
-- [Inside-out grilled ham and cheese sandwiches](https://codedgeekery.com/blog/inside-out-grilled-ham-and-cheese-sandwiches)
-- [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
+- [Epic win: Jury decides Google has illegal monopoly in app store fight](https://chefbrainy.com/blog/epic-google-trial-jury-verdict-monopoly-google-play/)
+- [Apple Discontinuing the Standalone Itunes Movies and Tv Shows Apps in Tvos 17.2](https://chefbrainy.com/blog/itunes-movies-and-tv-shows-app-discontinued-apple-tv/)
+- [Sam Altman Interview on being fired and rehired by OpenAI](https://chefbrainy.com/blog/sam-altman-interview-on-being-fired-and-rehired-by-open-ai/)
+- [Sam Altman back at OpenAI](https://chefbrainy.com/blog/sam-altman-back-at-open-ai/)
+- [OpenAI fallout: Everything that&#39;s happened since Sam Altman&#39;s firing](https://chefbrainy.com/blog/openai-sam-altman-everything-you-need-to-know/)
+- [Sam Altman fired as CEO of OpenAI](https://chefbrainy.com/blog/sam-altman-fired-as-ceo-of-open-ai/)
+- [Hell freezes over – Apple Plans to support RCS messages from Android phones next year](https://chefbrainy.com/blog/apple-plans-to-support-rcs-messages-from-android-phones-next-year/)
+- [Sam Bankman-Fried found guilty on all seven criminal fraud counts](https://chefbrainy.com/blog/sam-bankman-fried-found-guilty-on-all-seven-criminal-fraud-counts/)
+- [Firecracker beef rice bowl](https://chefbrainy.com/blog/firecracker-beef-rice-bowl/)
+- [Effective Immediately, John Riccitiello is out at Unity](https://chefbrainy.com/blog/effective-immediately-john-riccitiello-is-out-at-unity/)
+- [Microsoft Discussed Selling Bing to Apple as Google Replacement](https://chefbrainy.com/blog/microsoft-discussed-selling-bing-to-apple-as-google-replacement/)
+- [Biscuits and Gravy](https://chefbrainy.com/blog/biscuits-and-gravy/)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
