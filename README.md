@@ -22,6 +22,7 @@ I build a lot of things using many stacks, currently mostly working with React /
 
  <!-- BLOG-POST-LIST:START -->
 - [Figma Adobe deal officially dead](https://chefbrainy.com/blog/figma-adobe-deal-officially-dead/)
+- [Apple to halt Apple Watch Series 9 and Apple Watch Ultra 2 sales in the US this week](https://chefbrainy.com/blog/apple-to-halt-apple-watch-series-9-and-apple-watch-ultra-2-sales-in-the-us-this-week/)
 - [Epic win: Jury decides Google has illegal monopoly in app store fight](https://chefbrainy.com/blog/epic-google-trial-jury-verdict-monopoly-google-play/)
 - [Apple Discontinuing the Standalone Itunes Movies and Tv Shows Apps in Tvos 17.2](https://chefbrainy.com/blog/itunes-movies-and-tv-shows-app-discontinued-apple-tv/)
 - [Sam Altman Interview on being fired and rehired by OpenAI](https://chefbrainy.com/blog/sam-altman-interview-on-being-fired-and-rehired-by-open-ai/)
@@ -32,7 +33,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [Sam Bankman-Fried found guilty on all seven criminal fraud counts](https://chefbrainy.com/blog/sam-bankman-fried-found-guilty-on-all-seven-criminal-fraud-counts/)
 - [Firecracker beef rice bowl](https://chefbrainy.com/blog/firecracker-beef-rice-bowl/)
 - [Effective Immediately, John Riccitiello is out at Unity](https://chefbrainy.com/blog/effective-immediately-john-riccitiello-is-out-at-unity/)
-- [Microsoft Discussed Selling Bing to Apple as Google Replacement](https://chefbrainy.com/blog/microsoft-discussed-selling-bing-to-apple-as-google-replacement/)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
