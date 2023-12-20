@@ -21,18 +21,16 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
-- [Figma Adobe deal officially dead](https://chefbrainy.com/blog/figma-adobe-deal-officially-dead/)
-- [Apple to halt Apple Watch Series 9 and Apple Watch Ultra 2 sales in the US this week](https://chefbrainy.com/blog/apple-to-halt-apple-watch-series-9-and-apple-watch-ultra-2-sales-in-the-us-this-week/)
-- [Epic win: Jury decides Google has illegal monopoly in app store fight](https://chefbrainy.com/blog/epic-google-trial-jury-verdict-monopoly-google-play/)
-- [Apple Discontinuing the Standalone Itunes Movies and Tv Shows Apps in Tvos 17.2](https://chefbrainy.com/blog/itunes-movies-and-tv-shows-app-discontinued-apple-tv/)
-- [Sam Altman Interview on being fired and rehired by OpenAI](https://chefbrainy.com/blog/sam-altman-interview-on-being-fired-and-rehired-by-open-ai/)
-- [Sam Altman back at OpenAI](https://chefbrainy.com/blog/sam-altman-back-at-open-ai/)
-- [OpenAI fallout: Everything that&#39;s happened since Sam Altman&#39;s firing](https://chefbrainy.com/blog/openai-sam-altman-everything-you-need-to-know/)
-- [Sam Altman fired as CEO of OpenAI](https://chefbrainy.com/blog/sam-altman-fired-as-ceo-of-open-ai/)
-- [Hell freezes over – Apple Plans to support RCS messages from Android phones next year](https://chefbrainy.com/blog/apple-plans-to-support-rcs-messages-from-android-phones-next-year/)
-- [Sam Bankman-Fried found guilty on all seven criminal fraud counts](https://chefbrainy.com/blog/sam-bankman-fried-found-guilty-on-all-seven-criminal-fraud-counts/)
-- [Firecracker beef rice bowl](https://chefbrainy.com/blog/firecracker-beef-rice-bowl/)
-- [Effective Immediately, John Riccitiello is out at Unity](https://chefbrainy.com/blog/effective-immediately-john-riccitiello-is-out-at-unity/)
+- [Inside-out grilled ham and cheese sandwiches](https://codedgeekery.com/blog/inside-out-grilled-ham-and-cheese-sandwiches)
+- [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
+- [The End of Front-End Development?](https://codedgeekery.com/blog/the-end-of-front-end-development)
+- [Deploy Directus to Dokku](https://codedgeekery.com/blog/deploy-directus-to-dokku)
+- [The State of Databases for Serverless &amp; Edge In 2023](https://codedgeekery.com/blog/2023-backend)
+- [Chris Coyier: A “Perfect” CI Process](https://codedgeekery.com/blog/chris-coyier-a-perfect-ci-process)
+- [Back to Next.js](https://codedgeekery.com/blog/back-to-next)
+- [The evolution of scalable CSS](https://codedgeekery.com/blog/the-evolution-of-scalable-css)
+- [Kent C. Dodds on Full Stack Components](https://codedgeekery.com/blog/full-stack-components)
+- [Using Preact Signals with Fresh](https://codedgeekery.com/blog/using-preact-signals-with-fresh)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
