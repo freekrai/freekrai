@@ -21,6 +21,7 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Adobe explains why it abandoned the Figma deal](https://chefbrainy.com/blog/adobe-explains-why-it-abandoned-the-figma-deal/)
 - [Figma Adobe deal officially dead](https://chefbrainy.com/blog/figma-adobe-deal-officially-dead/)
 - [Apple to halt Apple Watch Series 9 and Apple Watch Ultra 2 sales in the US this week](https://chefbrainy.com/blog/apple-to-halt-apple-watch-series-9-and-apple-watch-ultra-2-sales-in-the-us-this-week/)
 - [Epic win: Jury decides Google has illegal monopoly in app store fight](https://chefbrainy.com/blog/epic-google-trial-jury-verdict-monopoly-google-play/)
@@ -32,7 +33,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [Hell freezes over – Apple Plans to support RCS messages from Android phones next year](https://chefbrainy.com/blog/apple-plans-to-support-rcs-messages-from-android-phones-next-year/)
 - [Sam Bankman-Fried found guilty on all seven criminal fraud counts](https://chefbrainy.com/blog/sam-bankman-fried-found-guilty-on-all-seven-criminal-fraud-counts/)
 - [Firecracker beef rice bowl](https://chefbrainy.com/blog/firecracker-beef-rice-bowl/)
-- [Effective Immediately, John Riccitiello is out at Unity](https://chefbrainy.com/blog/effective-immediately-john-riccitiello-is-out-at-unity/)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
