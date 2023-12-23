@@ -21,6 +21,7 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Sam Altman: &quot;What I Wish Someone Had Told Me&quot;](https://chefbrainy.com/blog/what-i-wish-someone-had-told-me/)
 - [Adobe explains why it abandoned the Figma deal](https://chefbrainy.com/blog/adobe-explains-why-it-abandoned-the-figma-deal/)
 - [Figma Adobe deal officially dead](https://chefbrainy.com/blog/figma-adobe-deal-officially-dead/)
 - [Apple to halt Apple Watch Series 9 and Apple Watch Ultra 2 sales in the US this week](https://chefbrainy.com/blog/apple-to-halt-apple-watch-series-9-and-apple-watch-ultra-2-sales-in-the-us-this-week/)
@@ -32,7 +33,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [Sam Altman fired as CEO of OpenAI](https://chefbrainy.com/blog/sam-altman-fired-as-ceo-of-open-ai/)
 - [Hell freezes over – Apple Plans to support RCS messages from Android phones next year](https://chefbrainy.com/blog/apple-plans-to-support-rcs-messages-from-android-phones-next-year/)
 - [Sam Bankman-Fried found guilty on all seven criminal fraud counts](https://chefbrainy.com/blog/sam-bankman-fried-found-guilty-on-all-seven-criminal-fraud-counts/)
-- [Firecracker beef rice bowl](https://chefbrainy.com/blog/firecracker-beef-rice-bowl/)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
