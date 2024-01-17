@@ -21,6 +21,7 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Apple Watch redesigned without blood oxygen monitoring to avoid import ban](https://chefbrainy.com/blog/apple-watch-redesigned-without-blood-oxygen-monitoring-to-avoid-import-ban/)
 - [Tim Sweeney on the Supreme Court Ruling](https://chefbrainy.com/blog/sweeney/)
 - [Instagram’s co-founders are shutting down their Artifact news app](https://chefbrainy.com/blog/artifact-shutting-down/)
 - [John Gruber on Beeper’s Last Hoorah](https://chefbrainy.com/blog/beep-beep/)
@@ -32,7 +33,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [Epic win: Jury decides Google has illegal monopoly in app store fight](https://chefbrainy.com/blog/epic-google-trial-jury-verdict-monopoly-google-play/)
 - [Apple Discontinuing the Standalone Itunes Movies and Tv Shows Apps in Tvos 17.2](https://chefbrainy.com/blog/itunes-movies-and-tv-shows-app-discontinued-apple-tv/)
 - [Sam Altman Interview on being fired and rehired by OpenAI](https://chefbrainy.com/blog/sam-altman-interview-on-being-fired-and-rehired-by-open-ai/)
-- [Sam Altman back at OpenAI](https://chefbrainy.com/blog/sam-altman-back-at-open-ai/)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
