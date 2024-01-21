@@ -21,18 +21,18 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
-- [Apple Watch redesigned without blood oxygen monitoring to avoid import ban](https://chefbrainy.com/blog/apple-watch-redesigned-without-blood-oxygen-monitoring-to-avoid-import-ban/)
-- [Tim Sweeney on the Supreme Court Ruling](https://chefbrainy.com/blog/sweeney/)
-- [Instagram’s co-founders are shutting down their Artifact news app](https://chefbrainy.com/blog/artifact-shutting-down/)
-- [John Gruber on Beeper’s Last Hoorah](https://chefbrainy.com/blog/beep-beep/)
-- [Sam Altman: &quot;What I Wish Someone Had Told Me&quot;](https://chefbrainy.com/blog/what-i-wish-someone-had-told-me/)
-- [Adobe explains why it abandoned the Figma deal](https://chefbrainy.com/blog/adobe-explains-why-it-abandoned-the-figma-deal/)
-- [Jason Lengstorf: &quot;Why I&#39;ll choose Astro &lpar;almost&rpar; every time in 2024&quot;](https://chefbrainy.com/blog/why-choose-astro-almost-every-time-in-2024/)
-- [Figma Adobe deal officially dead](https://chefbrainy.com/blog/figma-adobe-deal-officially-dead/)
-- [Apple to halt Apple Watch Series 9 and Apple Watch Ultra 2 sales in the US this week](https://chefbrainy.com/blog/apple-to-halt-apple-watch-series-9-and-apple-watch-ultra-2-sales-in-the-us-this-week/)
-- [Epic win: Jury decides Google has illegal monopoly in app store fight](https://chefbrainy.com/blog/epic-google-trial-jury-verdict-monopoly-google-play/)
-- [Apple Discontinuing the Standalone Itunes Movies and Tv Shows Apps in Tvos 17.2](https://chefbrainy.com/blog/itunes-movies-and-tv-shows-app-discontinued-apple-tv/)
-- [Sam Altman Interview on being fired and rehired by OpenAI](https://chefbrainy.com/blog/sam-altman-interview-on-being-fired-and-rehired-by-open-ai/)
+- [Apple Watch redesigned without blood oxygen monitoring to avoid import ban](https://rogerstringer.com/blog/apple-watch-redesigned-without-blood-oxygen-monitoring-to-avoid-import-ban/)
+- [Tim Sweeney on the Supreme Court Ruling](https://rogerstringer.com/blog/sweeney/)
+- [Instagram’s co-founders are shutting down their Artifact news app](https://rogerstringer.com/blog/artifact-shutting-down/)
+- [John Gruber on Beeper’s Last Hoorah](https://rogerstringer.com/blog/beep-beep/)
+- [Sam Altman: &quot;What I Wish Someone Had Told Me&quot;](https://rogerstringer.com/blog/what-i-wish-someone-had-told-me/)
+- [Adobe explains why it abandoned the Figma deal](https://rogerstringer.com/blog/adobe-explains-why-it-abandoned-the-figma-deal/)
+- [Jason Lengstorf: &quot;Why I&#39;ll choose Astro &lpar;almost&rpar; every time in 2024&quot;](https://rogerstringer.com/blog/why-choose-astro-almost-every-time-in-2024/)
+- [Figma Adobe deal officially dead](https://rogerstringer.com/blog/figma-adobe-deal-officially-dead/)
+- [Apple to halt Apple Watch Series 9 and Apple Watch Ultra 2 sales in the US this week](https://rogerstringer.com/blog/apple-to-halt-apple-watch-series-9-and-apple-watch-ultra-2-sales-in-the-us-this-week/)
+- [Epic win: Jury decides Google has illegal monopoly in app store fight](https://rogerstringer.com/blog/epic-google-trial-jury-verdict-monopoly-google-play/)
+- [Apple Discontinuing the Standalone Itunes Movies and Tv Shows Apps in Tvos 17.2](https://rogerstringer.com/blog/itunes-movies-and-tv-shows-app-discontinued-apple-tv/)
+- [Sam Altman Interview on being fired and rehired by OpenAI](https://rogerstringer.com/blog/sam-altman-interview-on-being-fired-and-rehired-by-open-ai/)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
