@@ -21,7 +21,7 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
-- [Bill Gates Interviews Sam Altman about OpenAI’s Speedy Rise](https://rogerstringer.com/blog/bill-gates-interviews-sam-altman-about-open-ai-s-speedy-rise/)
+- [Bill Gates Interviews Sam Altman about OpenAI](https://rogerstringer.com/blog/bill-gates-interviews-sam-altman/)
 - [How to upgrade the hard drive on a Surface Pro 9](https://rogerstringer.com/blog/how-to-upgrade-the-hard-drive-on-a-surface-pro-9/)
 - [Here’s the new Apple tax every developer is going to hate](https://rogerstringer.com/blog/here-s-the-new-apple-tax-every-developer-is-going-to-hate/)
 - [Air Fryer Pepperoni Chips](https://rogerstringer.com/blog/air-fryer-pepperoni-chips/)
