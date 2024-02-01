@@ -21,6 +21,7 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [The Browser Company Announces Act II for Arc: ‘The Browser That Browses For You’](https://rogerstringer.com/blog/the-browser-company-announces-act-ii-for-arc-the-browser-that-browses-for-you/)
 - [Bill Gates Interviews Sam Altman about OpenAI](https://rogerstringer.com/blog/bill-gates-interviews-sam-altman/)
 - [How to upgrade the hard drive on a Surface Pro 9](https://rogerstringer.com/blog/how-to-upgrade-the-hard-drive-on-a-surface-pro-9/)
 - [Here’s the new Apple tax every developer is going to hate](https://rogerstringer.com/blog/here-s-the-new-apple-tax-every-developer-is-going-to-hate/)
@@ -32,7 +33,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [Sam Altman: &quot;What I Wish Someone Had Told Me&quot;](https://rogerstringer.com/blog/what-i-wish-someone-had-told-me/)
 - [Adobe explains why it abandoned the Figma deal](https://rogerstringer.com/blog/adobe-explains-why-it-abandoned-the-figma-deal/)
 - [Jason Lengstorf: &quot;Why I&#39;ll choose Astro &lpar;almost&rpar; every time in 2024&quot;](https://rogerstringer.com/blog/why-choose-astro-almost-every-time-in-2024/)
-- [Figma Adobe deal officially dead](https://rogerstringer.com/blog/figma-adobe-deal-officially-dead/)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
