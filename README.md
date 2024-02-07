@@ -22,6 +22,7 @@ I build a lot of things using many stacks, currently mostly working with React /
 
  <!-- BLOG-POST-LIST:START -->
 - [Mark Zuckerberg calls Apple’s DMA rules ‘so onerous’ he doubts any developer will opt in](https://rogerstringer.com/blog/mark-zuckerberg-calls-apples-dma-rules-so-onerous-he-doubts-any-developer-will-opt-in/)
+- [Adam Neumann is trying to buy WeWork](https://rogerstringer.com/blog/adam-neumann-is-trying-to-buy-we-work/)
 - [Snap is recalling and refunding every drone it ever sold](https://rogerstringer.com/blog/snap-is-recalling-and-refunding-every-drone-it-ever-sold/)
 - [The Browser Company Announces Act II for Arc: ‘The Browser That Browses For You’](https://rogerstringer.com/blog/the-browser-company-announces-act-ii-for-arc-the-browser-that-browses-for-you/)
 - [Bill Gates Interviews Sam Altman about OpenAI](https://rogerstringer.com/blog/bill-gates-interviews-sam-altman/)
@@ -32,7 +33,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [Tim Sweeney on the Supreme Court Ruling](https://rogerstringer.com/blog/sweeney/)
 - [Instagram’s co-founders are shutting down their Artifact news app](https://rogerstringer.com/blog/artifact-shutting-down/)
 - [John Gruber on Beeper’s Last Hoorah](https://rogerstringer.com/blog/beep-beep/)
-- [Sam Altman: &quot;What I Wish Someone Had Told Me&quot;](https://rogerstringer.com/blog/what-i-wish-someone-had-told-me/)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
