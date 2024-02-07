@@ -21,16 +21,18 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
-- [Inside-out grilled ham and cheese sandwiches](https://codedgeekery.com/blog/inside-out-grilled-ham-and-cheese-sandwiches)
-- [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
-- [The End of Front-End Development?](https://codedgeekery.com/blog/the-end-of-front-end-development)
-- [Deploy Directus to Dokku](https://codedgeekery.com/blog/deploy-directus-to-dokku)
-- [The State of Databases for Serverless &amp; Edge In 2023](https://codedgeekery.com/blog/2023-backend)
-- [Chris Coyier: A “Perfect” CI Process](https://codedgeekery.com/blog/chris-coyier-a-perfect-ci-process)
-- [Back to Next.js](https://codedgeekery.com/blog/back-to-next)
-- [The evolution of scalable CSS](https://codedgeekery.com/blog/the-evolution-of-scalable-css)
-- [Kent C. Dodds on Full Stack Components](https://codedgeekery.com/blog/full-stack-components)
-- [Using Preact Signals with Fresh](https://codedgeekery.com/blog/using-preact-signals-with-fresh)
+- [Mark Zuckerberg calls Apple’s DMA rules ‘so onerous’ he doubts any developer will opt in](https://rogerstringer.com/blog/mark-zuckerberg-calls-apples-dma-rules-so-onerous-he-doubts-any-developer-will-opt-in/)
+- [Snap is recalling and refunding every drone it ever sold](https://rogerstringer.com/blog/snap-is-recalling-and-refunding-every-drone-it-ever-sold/)
+- [The Browser Company Announces Act II for Arc: ‘The Browser That Browses For You’](https://rogerstringer.com/blog/the-browser-company-announces-act-ii-for-arc-the-browser-that-browses-for-you/)
+- [Bill Gates Interviews Sam Altman about OpenAI](https://rogerstringer.com/blog/bill-gates-interviews-sam-altman/)
+- [How to upgrade the hard drive on a Surface Pro 9](https://rogerstringer.com/blog/how-to-upgrade-the-hard-drive-on-a-surface-pro-9/)
+- [Here’s the new Apple tax every developer is going to hate](https://rogerstringer.com/blog/here-s-the-new-apple-tax-every-developer-is-going-to-hate/)
+- [Air Fryer Pepperoni Chips](https://rogerstringer.com/blog/air-fryer-pepperoni-chips/)
+- [Apple Watch redesigned without blood oxygen monitoring to avoid import ban](https://rogerstringer.com/blog/apple-watch-redesigned-without-blood-oxygen-monitoring-to-avoid-import-ban/)
+- [Tim Sweeney on the Supreme Court Ruling](https://rogerstringer.com/blog/sweeney/)
+- [Instagram’s co-founders are shutting down their Artifact news app](https://rogerstringer.com/blog/artifact-shutting-down/)
+- [John Gruber on Beeper’s Last Hoorah](https://rogerstringer.com/blog/beep-beep/)
+- [Sam Altman: &quot;What I Wish Someone Had Told Me&quot;](https://rogerstringer.com/blog/what-i-wish-someone-had-told-me/)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
