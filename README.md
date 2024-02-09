@@ -22,6 +22,7 @@ I build a lot of things using many stacks, currently mostly working with React /
 
  <!-- BLOG-POST-LIST:START -->
 - [Mark Zuckerberg calls Apple’s DMA rules ‘so onerous’ he doubts any developer will opt in](https://rogerstringer.com/blog/mark-zuckerberg-calls-apples-dma-rules-so-onerous-he-doubts-any-developer-will-opt-in/)
+- [Disney Buys Partial Stake in Epic Games for $1.5 Billion](https://rogerstringer.com/blog/disney-and-epic-games-fortnite/)
 - [Google Gemini &lpar;formerly known as Bard&rpar; Comes to Canada](https://rogerstringer.com/blog/google-gemini-canada/)
 - [Adam Neumann is trying to buy WeWork](https://rogerstringer.com/blog/adam-neumann-is-trying-to-buy-we-work/)
 - [Microsoft’s next big AI push is here after a year of Bing](https://rogerstringer.com/blog/microsoft-super-bowl-ad-ai-copilot/)
@@ -32,7 +33,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [Here’s the new Apple tax every developer is going to hate](https://rogerstringer.com/blog/here-s-the-new-apple-tax-every-developer-is-going-to-hate/)
 - [Air Fryer Pepperoni Chips](https://rogerstringer.com/blog/air-fryer-pepperoni-chips/)
 - [Apple Watch redesigned without blood oxygen monitoring to avoid import ban](https://rogerstringer.com/blog/apple-watch-redesigned-without-blood-oxygen-monitoring-to-avoid-import-ban/)
-- [Tim Sweeney on the Supreme Court Ruling](https://rogerstringer.com/blog/sweeney/)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
