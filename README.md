@@ -21,13 +21,13 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
-- [Mark Zuckerberg calls Apple’s DMA rules ‘so onerous’ he doubts any developer will opt in](https://rogerstringer.com/blog/mark-zuckerberg-calls-apples-dma-rules-so-onerous-he-doubts-any-developer-will-opt-in/)
 - [Disney Buys Partial Stake in Epic Games for $1.5 Billion](https://rogerstringer.com/blog/disney-and-epic-games-fortnite/)
 - [Google Gemini &lpar;formerly known as Bard&rpar; Comes to Canada](https://rogerstringer.com/blog/google-gemini-canada/)
 - [Adam Neumann is trying to buy WeWork](https://rogerstringer.com/blog/adam-neumann-is-trying-to-buy-we-work/)
 - [Microsoft’s next big AI push is here after a year of Bing](https://rogerstringer.com/blog/microsoft-super-bowl-ad-ai-copilot/)
 - [Snap is recalling and refunding every drone it ever sold](https://rogerstringer.com/blog/snap-is-recalling-and-refunding-every-drone-it-ever-sold/)
 - [The Browser Company Announces Act II for Arc: ‘The Browser That Browses For You’](https://rogerstringer.com/blog/the-browser-company-announces-act-ii-for-arc-the-browser-that-browses-for-you/)
+- [Mark Zuckerberg calls Apple’s DMA rules ‘so onerous’ he doubts any developer will opt in](https://rogerstringer.com/blog/mark-zuckerberg-calls-apples-dma-rules-so-onerous-he-doubts-any-developer-will-opt-in/)
 - [Bill Gates Interviews Sam Altman about OpenAI](https://rogerstringer.com/blog/bill-gates-interviews-sam-altman/)
 - [How to upgrade the hard drive on a Surface Pro 9](https://rogerstringer.com/blog/how-to-upgrade-the-hard-drive-on-a-surface-pro-9/)
 - [Here’s the new Apple tax every developer is going to hate](https://rogerstringer.com/blog/here-s-the-new-apple-tax-every-developer-is-going-to-hate/)
