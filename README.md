@@ -21,6 +21,7 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [OpenAI Unveils Sora - It&#39;s new Generative Text-to-Video Model](https://rogerstringer.com/blog/openai-sora/)
 - [Disney Buys Partial Stake in Epic Games for $1.5 Billion](https://rogerstringer.com/blog/disney-and-epic-games-fortnite/)
 - [Google Gemini &lpar;formerly known as Bard&rpar; Comes to Canada](https://rogerstringer.com/blog/google-gemini-canada/)
 - [Adam Neumann is trying to buy WeWork](https://rogerstringer.com/blog/adam-neumann-is-trying-to-buy-we-work/)
@@ -32,7 +33,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [How to upgrade the hard drive on a Surface Pro 9](https://rogerstringer.com/blog/how-to-upgrade-the-hard-drive-on-a-surface-pro-9/)
 - [Here’s the new Apple tax every developer is going to hate](https://rogerstringer.com/blog/here-s-the-new-apple-tax-every-developer-is-going-to-hate/)
 - [Air Fryer Pepperoni Chips](https://rogerstringer.com/blog/air-fryer-pepperoni-chips/)
-- [Apple Watch redesigned without blood oxygen monitoring to avoid import ban](https://rogerstringer.com/blog/apple-watch-redesigned-without-blood-oxygen-monitoring-to-avoid-import-ban/)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
