@@ -21,6 +21,8 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
+- [Yahoo lays off the leaders of Engadget](https://rogerstringer.com/blog/engadget-layoffs-tech-news-blogs-editorial-restructuring/)
+- [Apple Says Spotify Wants &#39;Limitless Access&#39; to App Store Tools Without Paying](https://rogerstringer.com/blog/apple-spotify-limitless-access-no-fees/)
 - [OpenAI Unveils Sora - It&#39;s new Generative Text-to-Video Model](https://rogerstringer.com/blog/openai-sora/)
 - [Disney Buys Partial Stake in Epic Games for $1.5 Billion](https://rogerstringer.com/blog/disney-and-epic-games-fortnite/)
 - [Google Gemini &lpar;formerly known as Bard&rpar; Comes to Canada](https://rogerstringer.com/blog/google-gemini-canada/)
@@ -31,8 +33,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [Mark Zuckerberg calls Apple’s DMA rules ‘so onerous’ he doubts any developer will opt in](https://rogerstringer.com/blog/mark-zuckerberg-calls-apples-dma-rules-so-onerous-he-doubts-any-developer-will-opt-in/)
 - [Bill Gates Interviews Sam Altman about OpenAI](https://rogerstringer.com/blog/bill-gates-interviews-sam-altman/)
 - [How to upgrade the hard drive on a Surface Pro 9](https://rogerstringer.com/blog/how-to-upgrade-the-hard-drive-on-a-surface-pro-9/)
-- [Here’s the new Apple tax every developer is going to hate](https://rogerstringer.com/blog/here-s-the-new-apple-tax-every-developer-is-going-to-hate/)
-- [Air Fryer Pepperoni Chips](https://rogerstringer.com/blog/air-fryer-pepperoni-chips/)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
