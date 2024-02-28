@@ -11,16 +11,25 @@ I build a lot of things using many stacks, currently mostly working with React /
 * 🧠  I'm learning to never stop learning. 
 * 🤝  I'm open to collaborating on interesting projects
 
+### :zap: Stats
+
+#### Github Stats
+  
+![](https://github-readme-stats-knowmad.vercel.app/api?username=freekrai&show_icons=true&count_private=true)
+  
+#### Github Streaks 
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=freekrai)
+
 ### Socials  
 
 <p align="left"> <a href="https://www.github.com/freekrai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://rogerstringer.com/rss.xml" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/freekrai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 <a href="https://github.com/sponsors/freekrai"> ❤️ Sponsor me on GitHub</a> or <a href="https://www.buymeacoffee.com/codedgeekery">☕ Buy Me A Coffee</a>
 
-<details>
-  <summary><u><b> Latest Blog posts </u></b></summary>  
+### Latest Blog Posts
 
- <!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->
 - [Yahoo lays off the leaders of Engadget](https://rogerstringer.com/blog/engadget-layoffs-tech-news-blogs-editorial-restructuring/)
 - [Apple Says Spotify Wants &#39;Limitless Access&#39; to App Store Tools Without Paying](https://rogerstringer.com/blog/apple-spotify-limitless-access-no-fees/)
 - [Spacecraft Makes First U.S. Moon Landing In Over 50 Years](https://rogerstringer.com/blog/spacecraft-makes-first-u-s-moon-landing-in-over-50-years/)
@@ -34,19 +43,7 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [Mark Zuckerberg calls Apple’s DMA rules ‘so onerous’ he doubts any developer will opt in](https://rogerstringer.com/blog/mark-zuckerberg-calls-apples-dma-rules-so-onerous-he-doubts-any-developer-will-opt-in/)
 - [Bill Gates Interviews Sam Altman about OpenAI](https://rogerstringer.com/blog/bill-gates-interviews-sam-altman/)
 <!-- BLOG-POST-LIST:END -->
-</details> 
 
-<details>
-  <summary><u><b>:zap: My Stats</b></u></summary>
-
-#### Github Stats
-  
-![](https://github-readme-stats-knowmad.vercel.app/api?username=freekrai&show_icons=true&count_private=true)
-  
-#### Github Streaks 
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=freekrai)
-</details>
 <!--
 #### Top Languages 
 ![](https://github-readme-stats-knowmad.vercel.app/api/top-langs/?username=freekrai&hide=null&count_private=true)
