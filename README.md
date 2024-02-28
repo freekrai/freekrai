@@ -21,13 +21,14 @@ I build a lot of things using many stacks, currently mostly working with React /
   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=freekrai)
 
-### Socials  
+### :card_index: Socials  
 
-<p align="left"> <a href="https://www.github.com/freekrai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://rogerstringer.com/rss.xml" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/freekrai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+- <a href="https://www.github.com/freekrai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> @freekrai</a>
+- <a href="https://rogerstringer.com/rss.xml" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /> RSS Feed</a>
+- <a href="https://www.twitter.com/freekrai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> @freekrai</a>
+- <a href="https://github.com/sponsors/freekrai"> ❤️ Sponsor me on GitHub</a> or <a href="https://www.buymeacoffee.com/codedgeekery">☕ Buy Me A Coffee</a>
 
-<a href="https://github.com/sponsors/freekrai"> ❤️ Sponsor me on GitHub</a> or <a href="https://www.buymeacoffee.com/codedgeekery">☕ Buy Me A Coffee</a>
-
-### Latest Blog Posts
+### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Yahoo lays off the leaders of Engadget](https://rogerstringer.com/blog/engadget-layoffs-tech-news-blogs-editorial-restructuring/)
