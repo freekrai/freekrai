@@ -21,18 +21,16 @@ I build a lot of things using many stacks, currently mostly working with React /
   <summary><u><b> Latest Blog posts </u></b></summary>  
 
  <!-- BLOG-POST-LIST:START -->
-- [Yahoo lays off the leaders of Engadget](https://rogerstringer.com/blog/engadget-layoffs-tech-news-blogs-editorial-restructuring/)
-- [Apple Says Spotify Wants &#39;Limitless Access&#39; to App Store Tools Without Paying](https://rogerstringer.com/blog/apple-spotify-limitless-access-no-fees/)
-- [Spacecraft Makes First U.S. Moon Landing In Over 50 Years](https://rogerstringer.com/blog/spacecraft-makes-first-u-s-moon-landing-in-over-50-years/)
-- [OpenAI Unveils Sora - It&#39;s new Generative Text-to-Video Model](https://rogerstringer.com/blog/openai-sora/)
-- [Disney Buys Partial Stake in Epic Games for $1.5 Billion](https://rogerstringer.com/blog/disney-and-epic-games-fortnite/)
-- [Google Gemini &lpar;formerly known as Bard&rpar; Comes to Canada](https://rogerstringer.com/blog/google-gemini-canada/)
-- [Adam Neumann is trying to buy WeWork](https://rogerstringer.com/blog/adam-neumann-is-trying-to-buy-we-work/)
-- [Microsoft’s next big AI push is here after a year of Bing](https://rogerstringer.com/blog/microsoft-super-bowl-ad-ai-copilot/)
-- [Snap is recalling and refunding every drone it ever sold](https://rogerstringer.com/blog/snap-is-recalling-and-refunding-every-drone-it-ever-sold/)
-- [The Browser Company Announces Act II for Arc: ‘The Browser That Browses For You’](https://rogerstringer.com/blog/the-browser-company-announces-act-ii-for-arc-the-browser-that-browses-for-you/)
-- [Mark Zuckerberg calls Apple’s DMA rules ‘so onerous’ he doubts any developer will opt in](https://rogerstringer.com/blog/mark-zuckerberg-calls-apples-dma-rules-so-onerous-he-doubts-any-developer-will-opt-in/)
-- [Bill Gates Interviews Sam Altman about OpenAI](https://rogerstringer.com/blog/bill-gates-interviews-sam-altman/)
+- [Inside-out grilled ham and cheese sandwiches](https://codedgeekery.com/blog/inside-out-grilled-ham-and-cheese-sandwiches)
+- [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
+- [The End of Front-End Development?](https://codedgeekery.com/blog/the-end-of-front-end-development)
+- [Deploy Directus to Dokku](https://codedgeekery.com/blog/deploy-directus-to-dokku)
+- [The State of Databases for Serverless &amp; Edge In 2023](https://codedgeekery.com/blog/2023-backend)
+- [Chris Coyier: A “Perfect” CI Process](https://codedgeekery.com/blog/chris-coyier-a-perfect-ci-process)
+- [Back to Next.js](https://codedgeekery.com/blog/back-to-next)
+- [The evolution of scalable CSS](https://codedgeekery.com/blog/the-evolution-of-scalable-css)
+- [Kent C. Dodds on Full Stack Components](https://codedgeekery.com/blog/full-stack-components)
+- [Using Preact Signals with Fresh](https://codedgeekery.com/blog/using-preact-signals-with-fresh)
 <!-- BLOG-POST-LIST:END -->
 </details> 
 
