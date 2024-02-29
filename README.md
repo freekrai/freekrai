@@ -31,6 +31,8 @@ I build a lot of things using many stacks, currently mostly working with React /
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft partners with Mistral](https://rogerstringer.com/blog/microsoft-mistral/)
+- [Apple cancels its autonomous electric car project and is laying off some workers](https://rogerstringer.com/blog/apple-cancels-electric-car-project-titan/)
 - [Yahoo lays off the leaders of Engadget](https://rogerstringer.com/blog/engadget-layoffs-tech-news-blogs-editorial-restructuring/)
 - [Apple Says Spotify Wants &#39;Limitless Access&#39; to App Store Tools Without Paying](https://rogerstringer.com/blog/apple-spotify-limitless-access-no-fees/)
 - [Spacecraft Makes First U.S. Moon Landing In Over 50 Years](https://rogerstringer.com/blog/spacecraft-makes-first-u-s-moon-landing-in-over-50-years/)
@@ -41,8 +43,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [Microsoft’s next big AI push is here after a year of Bing](https://rogerstringer.com/blog/microsoft-super-bowl-ad-ai-copilot/)
 - [Snap is recalling and refunding every drone it ever sold](https://rogerstringer.com/blog/snap-is-recalling-and-refunding-every-drone-it-ever-sold/)
 - [The Browser Company Announces Act II for Arc: ‘The Browser That Browses For You’](https://rogerstringer.com/blog/the-browser-company-announces-act-ii-for-arc-the-browser-that-browses-for-you/)
-- [Mark Zuckerberg calls Apple’s DMA rules ‘so onerous’ he doubts any developer will opt in](https://rogerstringer.com/blog/mark-zuckerberg-calls-apples-dma-rules-so-onerous-he-doubts-any-developer-will-opt-in/)
-- [Bill Gates Interviews Sam Altman about OpenAI](https://rogerstringer.com/blog/bill-gates-interviews-sam-altman/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
