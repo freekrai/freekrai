@@ -32,6 +32,7 @@ I build a lot of things using many stacks, currently mostly working with React /
 
 <!-- BLOG-POST-LIST:START -->
 - [Apple Terminated &lpar;then resinstated&rpar; Epic’s E.U. Developer Account](https://rogerstringer.com/blog/apple-epic-developer-account/)
+- [Rivian’s CEO talks R2 and R3 launch, and why he has ‘complete certainty’ EVs will win](https://rogerstringer.com/blog/rivian-r2-r3-r3x-ceo-interview-price-production-future/)
 - [Nintendo wins $2.4M in Switch emulator lawsuit, Yuzu to shut down](https://rogerstringer.com/blog/nintendo-2-4-million-yuzu-switch-emulator-settlement-lawsuit/)
 - [Microsoft partners with Mistral](https://rogerstringer.com/blog/microsoft-mistral/)
 - [Apple cancels its autonomous electric car project and is laying off some workers](https://rogerstringer.com/blog/apple-cancels-electric-car-project-titan/)
@@ -42,7 +43,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [Disney Buys Partial Stake in Epic Games for $1.5 Billion](https://rogerstringer.com/blog/disney-and-epic-games-fortnite/)
 - [Google Gemini &lpar;formerly known as Bard&rpar; Comes to Canada](https://rogerstringer.com/blog/google-gemini-canada/)
 - [Adam Neumann is trying to buy WeWork](https://rogerstringer.com/blog/adam-neumann-is-trying-to-buy-we-work/)
-- [Microsoft’s next big AI push is here after a year of Bing](https://rogerstringer.com/blog/microsoft-super-bowl-ad-ai-copilot/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
