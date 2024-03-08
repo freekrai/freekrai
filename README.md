@@ -31,6 +31,7 @@ I build a lot of things using many stacks, currently mostly working with React /
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Terminated Epic’s E.U. Developer Account](https://rogerstringer.com/blog/apple-epic-developer-account/)
 - [Nintendo wins $2.4M in Switch emulator lawsuit, Yuzu to shut down](https://rogerstringer.com/blog/nintendo-2-4-million-yuzu-switch-emulator-settlement-lawsuit/)
 - [Microsoft partners with Mistral](https://rogerstringer.com/blog/microsoft-mistral/)
 - [Apple cancels its autonomous electric car project and is laying off some workers](https://rogerstringer.com/blog/apple-cancels-electric-car-project-titan/)
@@ -42,7 +43,6 @@ I build a lot of things using many stacks, currently mostly working with React /
 - [Google Gemini &lpar;formerly known as Bard&rpar; Comes to Canada](https://rogerstringer.com/blog/google-gemini-canada/)
 - [Adam Neumann is trying to buy WeWork](https://rogerstringer.com/blog/adam-neumann-is-trying-to-buy-we-work/)
 - [Microsoft’s next big AI push is here after a year of Bing](https://rogerstringer.com/blog/microsoft-super-bowl-ad-ai-copilot/)
-- [Snap is recalling and refunding every drone it ever sold](https://rogerstringer.com/blog/snap-is-recalling-and-refunding-every-drone-it-ever-sold/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
