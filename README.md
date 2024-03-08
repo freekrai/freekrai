@@ -31,7 +31,7 @@ I build a lot of things using many stacks, currently mostly working with React /
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Terminated Epic’s E.U. Developer Account](https://rogerstringer.com/blog/apple-epic-developer-account/)
+- [Apple Terminated &lpar;then resinstated&rpar; Epic’s E.U. Developer Account](https://rogerstringer.com/blog/apple-epic-developer-account/)
 - [Nintendo wins $2.4M in Switch emulator lawsuit, Yuzu to shut down](https://rogerstringer.com/blog/nintendo-2-4-million-yuzu-switch-emulator-settlement-lawsuit/)
 - [Microsoft partners with Mistral](https://rogerstringer.com/blog/microsoft-mistral/)
 - [Apple cancels its autonomous electric car project and is laying off some workers](https://rogerstringer.com/blog/apple-cancels-electric-car-project-titan/)
