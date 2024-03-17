@@ -26,7 +26,7 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 - <a href="https://www.github.com/freekrai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> @freekrai</a>
 - <a href="https://rogerstringer.com/rss.xml" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /> RSS Feed</a>
 - <a href="https://www.twitter.com/freekrai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> @freekrai</a>
-- <a href="https://github.com/sponsors/freekrai"> ❤️ Sponsor me on GitHub</a> or <a href="https://www.buymeacoffee.com/codedgeekery">☕ Buy Me A Coffee</a>
+- <a href="https://github.com/sponsors/freekrai"> ❤️ Sponsor me on GitHub</a>
 
 ### :newspaper: Latest Blog Posts
 
