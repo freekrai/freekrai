@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roger 
 
-I'm a full-stack software engineer, devops engineer, author and dad from Canada.
+I'm a full-stack software engineer, author and dad from Canada.
 
-🔭 I’m currently working on multiple frontend and backend projects using React, Remix, Nextjs, Vue, Nodejs, and OpenAI 
+🔭 I’m currently working on multiple frontend and backend projects using Astro, React, Remix, Nextjs, Nodejs, and various AI integrations. 
 
-I build a lot of things using many stacks, currently mostly working with React / Remix / Nextjs and Nodejs with GraphQL APIs.  
+I build a lot of things using many stacks, currently mostly working with Astro / React / Remix / Nextjs and Nodejs with various APIs.  
 
 * 🌍  I'm based in Penticton, British Columbia, Canada 
 * 🖥️  See my portfolio at [Roger Stringer](https://rogerstringer.com) or [Coded Geekery](https://codedgeekery.com) 
