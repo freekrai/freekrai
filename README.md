@@ -31,6 +31,7 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stability AI CEO resigns because you’re &quot;not going to beat centralized AI with more centralized AI&quot;](https://rogerstringer.com/blog/stability-ai-ceo-resigns-because-youre-not-going-to-beat-centralized-ai-with-more-centralized-ai/)
 - [Jason Snell on Us V. Apple](https://rogerstringer.com/blog/u-s-versus-apple-a-first-reaction/)
 - [Apple Terminated &lpar;then resinstated&rpar; Epic’s E.U. Developer Account](https://rogerstringer.com/blog/apple-epic-developer-account/)
 - [Rivian’s CEO talks R2 and R3 launch, and why he has ‘complete certainty’ EVs will win](https://rogerstringer.com/blog/rivian-r2-r3-r3x-ceo-interview-price-production-future/)
@@ -42,7 +43,6 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 - [Spacecraft Makes First U.S. Moon Landing In Over 50 Years](https://rogerstringer.com/blog/spacecraft-makes-first-u-s-moon-landing-in-over-50-years/)
 - [OpenAI Unveils Sora - It&#39;s new Generative Text-to-Video Model](https://rogerstringer.com/blog/openai-sora/)
 - [Disney Buys Partial Stake in Epic Games for $1.5 Billion](https://rogerstringer.com/blog/disney-and-epic-games-fortnite/)
-- [Google Gemini &lpar;formerly known as Bard&rpar; Comes to Canada](https://rogerstringer.com/blog/google-gemini-canada/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
