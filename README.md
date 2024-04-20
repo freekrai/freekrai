@@ -31,6 +31,7 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla recalls all 3,878 Cybertrucks over faulty accelerator pedal](https://rogerstringer.com/blog/tesla-recall-cybertruck-faulty-accelerator-pedal/)
 - [Autocode Shutting Down on April 26, 2024](https://rogerstringer.com/blog/autocode-shutting-down/)
 - [How Should We Define ‘Open’ AI?](https://rogerstringer.com/blog/how-should-we-define-open-ai/)
 - [Stability AI CEO resigns because you’re &quot;not going to beat centralized AI with more centralized AI&quot;](https://rogerstringer.com/blog/stability-ai-ceo-resigns-because-youre-not-going-to-beat-centralized-ai-with-more-centralized-ai/)
@@ -42,7 +43,6 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 - [Apple cancels its autonomous electric car project and is laying off some workers](https://rogerstringer.com/blog/apple-cancels-electric-car-project-titan/)
 - [Yahoo lays off the leaders of Engadget](https://rogerstringer.com/blog/engadget-layoffs-tech-news-blogs-editorial-restructuring/)
 - [Apple Says Spotify Wants &#39;Limitless Access&#39; to App Store Tools Without Paying](https://rogerstringer.com/blog/apple-spotify-limitless-access-no-fees/)
-- [Spacecraft Makes First U.S. Moon Landing In Over 50 Years](https://rogerstringer.com/blog/spacecraft-makes-first-u-s-moon-landing-in-over-50-years/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
