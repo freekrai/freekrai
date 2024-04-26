@@ -31,6 +31,7 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What IBM’s Deal For HashiCorp Means For The Cloud Infra Battle](https://rogerstringer.com/blog/what-ibms-deal-for-hashi-corp-means-for-the-cloud-infra-battle/)
 - [Tesla recalls all 3,878 Cybertrucks over faulty accelerator pedal](https://rogerstringer.com/blog/tesla-recall-cybertruck-faulty-accelerator-pedal/)
 - [Autocode Shutting Down on April 26, 2024](https://rogerstringer.com/blog/autocode-shutting-down/)
 - [How Should We Define ‘Open’ AI?](https://rogerstringer.com/blog/how-should-we-define-open-ai/)
@@ -42,7 +43,6 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 - [Microsoft partners with Mistral](https://rogerstringer.com/blog/microsoft-mistral/)
 - [Apple cancels its autonomous electric car project and is laying off some workers](https://rogerstringer.com/blog/apple-cancels-electric-car-project-titan/)
 - [Yahoo lays off the leaders of Engadget](https://rogerstringer.com/blog/engadget-layoffs-tech-news-blogs-editorial-restructuring/)
-- [Apple Says Spotify Wants &#39;Limitless Access&#39; to App Store Tools Without Paying](https://rogerstringer.com/blog/apple-spotify-limitless-access-no-fees/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
