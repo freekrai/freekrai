@@ -31,18 +31,16 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What IBM’s Deal For HashiCorp Means For The Cloud Infra Battle](https://rogerstringer.com/blog/what-ibms-deal-for-hashi-corp-means-for-the-cloud-infra-battle/)
-- [Tesla recalls all 3,878 Cybertrucks over faulty accelerator pedal](https://rogerstringer.com/blog/tesla-recall-cybertruck-faulty-accelerator-pedal/)
-- [Autocode Shutting Down on April 26, 2024](https://rogerstringer.com/blog/autocode-shutting-down/)
-- [How Should We Define ‘Open’ AI?](https://rogerstringer.com/blog/how-should-we-define-open-ai/)
-- [Stability AI CEO resigns because you’re &quot;not going to beat centralized AI with more centralized AI&quot;](https://rogerstringer.com/blog/stability-ai-ceo-resigns-because-youre-not-going-to-beat-centralized-ai-with-more-centralized-ai/)
-- [Jason Snell on Us V. Apple](https://rogerstringer.com/blog/u-s-versus-apple-a-first-reaction/)
-- [Apple Terminated &lpar;then resinstated&rpar; Epic’s E.U. Developer Account](https://rogerstringer.com/blog/apple-epic-developer-account/)
-- [Rivian’s CEO talks R2 and R3 launch, and why he has ‘complete certainty’ EVs will win](https://rogerstringer.com/blog/rivian-r2-r3-r3x-ceo-interview-price-production-future/)
-- [Nintendo wins $2.4M in Switch emulator lawsuit, Yuzu to shut down](https://rogerstringer.com/blog/nintendo-2-4-million-yuzu-switch-emulator-settlement-lawsuit/)
-- [Microsoft partners with Mistral](https://rogerstringer.com/blog/microsoft-mistral/)
-- [Apple cancels its autonomous electric car project and is laying off some workers](https://rogerstringer.com/blog/apple-cancels-electric-car-project-titan/)
-- [Yahoo lays off the leaders of Engadget](https://rogerstringer.com/blog/engadget-layoffs-tech-news-blogs-editorial-restructuring/)
+- [Inside-out grilled ham and cheese sandwiches](https://codedgeekery.com/blog/inside-out-grilled-ham-and-cheese-sandwiches)
+- [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
+- [The End of Front-End Development?](https://codedgeekery.com/blog/the-end-of-front-end-development)
+- [Deploy Directus to Dokku](https://codedgeekery.com/blog/deploy-directus-to-dokku)
+- [The State of Databases for Serverless &amp; Edge In 2023](https://codedgeekery.com/blog/2023-backend)
+- [Chris Coyier: A “Perfect” CI Process](https://codedgeekery.com/blog/chris-coyier-a-perfect-ci-process)
+- [Back to Next.js](https://codedgeekery.com/blog/back-to-next)
+- [The evolution of scalable CSS](https://codedgeekery.com/blog/the-evolution-of-scalable-css)
+- [Kent C. Dodds on Full Stack Components](https://codedgeekery.com/blog/full-stack-components)
+- [Using Preact Signals with Fresh](https://codedgeekery.com/blog/using-preact-signals-with-fresh)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
