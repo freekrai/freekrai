@@ -31,18 +31,18 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google lays off staff from Flutter, Dart and Python teams weeks before its annual I/O developer conference](https://rogerstringer.com/blog/google-lays-off-staff-from-flutter-dart-python-weeks-before-its-developer-conference)
-- [What IBM’s Deal For HashiCorp Means For The Cloud Infra Battle](https://rogerstringer.com/blog/what-ibms-deal-for-hashi-corp-means-for-the-cloud-infra-battle)
-- [Tesla recalls all 3,878 Cybertrucks over faulty accelerator pedal](https://rogerstringer.com/blog/tesla-recall-cybertruck-faulty-accelerator-pedal)
-- [Autocode Shutting Down on April 26, 2024](https://rogerstringer.com/blog/autocode-shutting-down)
-- [How Should We Define ‘Open’ AI?](https://rogerstringer.com/blog/how-should-we-define-open-ai)
-- [Stability AI CEO resigns because you’re &quot;not going to beat centralized AI with more centralized AI&quot;](https://rogerstringer.com/blog/stability-ai-ceo-resigns-because-youre-not-going-to-beat-centralized-ai-with-more-centralized-ai)
-- [Jason Snell on Us V. Apple](https://rogerstringer.com/blog/u-s-versus-apple-a-first-reaction)
-- [Apple Terminated &lpar;then resinstated&rpar; Epic’s E.U. Developer Account](https://rogerstringer.com/blog/apple-epic-developer-account)
-- [Rivian’s CEO talks R2 and R3 launch, and why he has ‘complete certainty’ EVs will win](https://rogerstringer.com/blog/rivian-r2-r3-r3x-ceo-interview-price-production-future)
-- [Nintendo wins $2.4M in Switch emulator lawsuit, Yuzu to shut down](https://rogerstringer.com/blog/nintendo-2-4-million-yuzu-switch-emulator-settlement-lawsuit)
-- [Microsoft partners with Mistral](https://rogerstringer.com/blog/microsoft-mistral)
-- [Apple cancels its autonomous electric car project and is laying off some workers](https://rogerstringer.com/blog/apple-cancels-electric-car-project-titan)
+- [Google lays off staff from Flutter, Dart and Python teams weeks before its annual I/O developer conference](https://rogerstringer.com/blog/google-lays-off-staff-from-flutter-dart-python-weeks-before-its-developer-conference/)
+- [What IBM’s Deal For HashiCorp Means For The Cloud Infra Battle](https://rogerstringer.com/blog/what-ibms-deal-for-hashi-corp-means-for-the-cloud-infra-battle/)
+- [Tesla recalls all 3,878 Cybertrucks over faulty accelerator pedal](https://rogerstringer.com/blog/tesla-recall-cybertruck-faulty-accelerator-pedal/)
+- [Autocode Shutting Down on April 26, 2024](https://rogerstringer.com/blog/autocode-shutting-down/)
+- [How Should We Define ‘Open’ AI?](https://rogerstringer.com/blog/how-should-we-define-open-ai/)
+- [Stability AI CEO resigns because you’re &quot;not going to beat centralized AI with more centralized AI&quot;](https://rogerstringer.com/blog/stability-ai-ceo-resigns-because-youre-not-going-to-beat-centralized-ai-with-more-centralized-ai/)
+- [Jason Snell on Us V. Apple](https://rogerstringer.com/blog/u-s-versus-apple-a-first-reaction/)
+- [Apple Terminated &lpar;then resinstated&rpar; Epic’s E.U. Developer Account](https://rogerstringer.com/blog/apple-epic-developer-account/)
+- [Rivian’s CEO talks R2 and R3 launch, and why he has ‘complete certainty’ EVs will win](https://rogerstringer.com/blog/rivian-r2-r3-r3x-ceo-interview-price-production-future/)
+- [Nintendo wins $2.4M in Switch emulator lawsuit, Yuzu to shut down](https://rogerstringer.com/blog/nintendo-2-4-million-yuzu-switch-emulator-settlement-lawsuit/)
+- [Microsoft partners with Mistral](https://rogerstringer.com/blog/microsoft-mistral/)
+- [Apple cancels its autonomous electric car project and is laying off some workers](https://rogerstringer.com/blog/apple-cancels-electric-car-project-titan/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
