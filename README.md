@@ -31,6 +31,7 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Humane is looking for a buyer after the AI Pin’s underwhelming debut](https://rogerstringer.com/blog/humane-seeking-acquisition-rumor-ai-pin)
 - [It’s not just you, Next.js is getting harder to use](https://rogerstringer.com/blog/nextjs-challenges)
 - [The Sound of Software](https://rogerstringer.com/blog/the-sound-of-software)
 - [Google lays off staff from Flutter, Dart and Python teams weeks before its annual I/O developer conference](https://rogerstringer.com/blog/google-lays-off-staff-from-flutter-dart-python-weeks-before-its-developer-conference)
@@ -42,7 +43,6 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 - [Jason Snell on Us V. Apple](https://rogerstringer.com/blog/u-s-versus-apple-a-first-reaction)
 - [Apple Terminated &lpar;then resinstated&rpar; Epic’s E.U. Developer Account](https://rogerstringer.com/blog/apple-epic-developer-account)
 - [Rivian’s CEO talks R2 and R3 launch, and why he has ‘complete certainty’ EVs will win](https://rogerstringer.com/blog/rivian-r2-r3-r3x-ceo-interview-price-production-future)
-- [Nintendo wins $2.4M in Switch emulator lawsuit, Yuzu to shut down](https://rogerstringer.com/blog/nintendo-2-4-million-yuzu-switch-emulator-settlement-lawsuit)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
