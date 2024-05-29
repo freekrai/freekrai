@@ -31,6 +31,7 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Piccalilli](https://rogerstringer.com/blog/piccalilli)
 - [Giving this site another redesign](https://rogerstringer.com/blog/giving-this-site-another-redesign)
 - [Humane is looking for a buyer after the AI Pin’s underwhelming debut](https://rogerstringer.com/blog/humane-seeking-acquisition-rumor-ai-pin)
 - [Spotify&#39;s Car Thing will be bricked On December 9, 2024](https://rogerstringer.com/blog/spotify-car-thing-discontinued)
@@ -42,7 +43,6 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 - [Autocode Shutting Down on April 26, 2024](https://rogerstringer.com/blog/autocode-shutting-down)
 - [How Should We Define ‘Open’ AI?](https://rogerstringer.com/blog/how-should-we-define-open-ai)
 - [Stability AI CEO resigns because you’re &quot;not going to beat centralized AI with more centralized AI&quot;](https://rogerstringer.com/blog/stability-ai-ceo-resigns-because-youre-not-going-to-beat-centralized-ai-with-more-centralized-ai)
-- [Jason Snell on Us V. Apple](https://rogerstringer.com/blog/u-s-versus-apple-a-first-reaction)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
