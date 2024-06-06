@@ -31,6 +31,7 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Humane warns AI Pin owners to ‘immediately’ stop using its charging case](https://rogerstringer.com/blog/humane-ai-pin-battery-case-issue-warning)
 - [Piccalilli](https://rogerstringer.com/blog/piccalilli)
 - [Giving this site another redesign](https://rogerstringer.com/blog/giving-this-site-another-redesign)
 - [Humane is looking for a buyer after the AI Pin’s underwhelming debut](https://rogerstringer.com/blog/humane-seeking-acquisition-rumor-ai-pin)
@@ -42,7 +43,6 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 - [Tesla recalls all 3,878 Cybertrucks over faulty accelerator pedal](https://rogerstringer.com/blog/tesla-recall-cybertruck-faulty-accelerator-pedal)
 - [Autocode Shutting Down on April 26, 2024](https://rogerstringer.com/blog/autocode-shutting-down)
 - [How Should We Define ‘Open’ AI?](https://rogerstringer.com/blog/how-should-we-define-open-ai)
-- [Stability AI CEO resigns because you’re &quot;not going to beat centralized AI with more centralized AI&quot;](https://rogerstringer.com/blog/stability-ai-ceo-resigns-because-youre-not-going-to-beat-centralized-ai-with-more-centralized-ai)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
