@@ -31,6 +31,7 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Proxying Plausible in Astro](https://rogerstringer.com/blog/proxying-plausible-in-astro)
 - [M.G Siegler: &quot;Meta being in talks for &#39;Apple Intelligence&#39; isn&#39;t a huge shock&quot;](https://rogerstringer.com/blog/meta-apple-ai)
 - [Humane warns AI Pin owners to ‘immediately’ stop using its charging case](https://rogerstringer.com/blog/humane-ai-pin-battery-case-issue-warning)
 - [Piccalilli](https://rogerstringer.com/blog/piccalilli)
@@ -42,7 +43,6 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 - [Google lays off staff from Flutter, Dart and Python teams weeks before its annual I/O developer conference](https://rogerstringer.com/blog/google-lays-off-staff-from-flutter-dart-python-weeks-before-its-developer-conference)
 - [What IBM’s Deal For HashiCorp Means For The Cloud Infra Battle](https://rogerstringer.com/blog/what-ibms-deal-for-hashi-corp-means-for-the-cloud-infra-battle)
 - [Tesla recalls all 3,878 Cybertrucks over faulty accelerator pedal](https://rogerstringer.com/blog/tesla-recall-cybertruck-faulty-accelerator-pedal)
-- [Autocode Shutting Down on April 26, 2024](https://rogerstringer.com/blog/autocode-shutting-down)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
