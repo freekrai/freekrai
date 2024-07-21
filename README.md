@@ -31,6 +31,7 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google is trying to steal the Ray-Ban partnership from Meta](https://rogerstringer.com/blog/google-meta-ray-ban-essilorluxottica-partnership)
 - [Yuzu Kosho Paste](https://rogerstringer.com/blog/yuzu-kosho-paste)
 - [Apple Approves First Retro PC Emulator for iPhone, iPad, and Vision Pro](https://rogerstringer.com/blog/apple-approves-first-retro-pc-emulator-ios)
 - [Proxying Plausible in Astro](https://rogerstringer.com/blog/proxying-plausible-in-astro)
@@ -42,7 +43,6 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 - [Spotify&#39;s Car Thing will be bricked On December 9, 2024](https://rogerstringer.com/blog/spotify-car-thing-discontinued)
 - [It’s not just you, Next.js is getting harder to use](https://rogerstringer.com/blog/nextjs-challenges)
 - [The Sound of Software](https://rogerstringer.com/blog/the-sound-of-software)
-- [Google lays off staff from Flutter, Dart and Python teams weeks before its annual I/O developer conference](https://rogerstringer.com/blog/google-lays-off-staff-from-flutter-dart-python-weeks-before-its-developer-conference)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
