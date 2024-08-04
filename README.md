@@ -31,6 +31,7 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft says OpenAI is now a competitor in AI and search](https://rogerstringer.com/blog/microsoft-says-openai-is-now-a-competitor-in-ai-and-search)
 - [Marco Arment on &quot;Ten years of Overcast&quot;](https://rogerstringer.com/blog/marco-arment-on-ten-years-of-overcast)
 - [Google Chrome is no longer ‘deprecating third-party cookies’](https://rogerstringer.com/blog/google-chrome-is-no-longer-deprecating-third-party-cookies)
 - [Google is trying to steal the Ray-Ban partnership from Meta](https://rogerstringer.com/blog/google-meta-ray-ban-essilorluxottica-partnership)
@@ -42,7 +43,6 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 - [Piccalilli](https://rogerstringer.com/blog/piccalilli)
 - [Giving this site another redesign](https://rogerstringer.com/blog/giving-this-site-another-redesign)
 - [Humane is looking for a buyer after the AI Pin’s underwhelming debut](https://rogerstringer.com/blog/humane-seeking-acquisition-rumor-ai-pin)
-- [Spotify&#39;s Car Thing will be bricked On December 9, 2024](https://rogerstringer.com/blog/spotify-car-thing-discontinued)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
