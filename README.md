@@ -31,6 +31,7 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Humane’s daily returns are outpacing sales](https://rogerstringer.com/blog/humane-ai-pin-more-daily-returns-than-sales)
 - [‘You are a helpful mail assistant,’ and other Apple Intelligence instructions](https://rogerstringer.com/blog/you-are-a-helpful-mail-assistant-and-other-apple-intelligence-instructions)
 - [Microsoft says OpenAI is now a competitor in AI and search](https://rogerstringer.com/blog/microsoft-says-openai-is-now-a-competitor-in-ai-and-search)
 - [Marco Arment on &quot;Ten years of Overcast&quot;](https://rogerstringer.com/blog/marco-arment-on-ten-years-of-overcast)
@@ -42,7 +43,6 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 - [M.G Siegler: &quot;Meta being in talks for &#39;Apple Intelligence&#39; isn&#39;t a huge shock&quot;](https://rogerstringer.com/blog/meta-apple-ai)
 - [Humane warns AI Pin owners to ‘immediately’ stop using its charging case](https://rogerstringer.com/blog/humane-ai-pin-battery-case-issue-warning)
 - [Piccalilli](https://rogerstringer.com/blog/piccalilli)
-- [Giving this site another redesign](https://rogerstringer.com/blog/giving-this-site-another-redesign)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
