@@ -31,6 +31,7 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Disney gives up on trying to use Disney Plus excuse to settle a wrongful death lawsuit](https://rogerstringer.com/blog/disney-wrongful-death-lawsuit-waiving-arbitration)
 - [U.S. Said to Consider a Breakup of Google to Address Search Monopoly](https://rogerstringer.com/blog/google-monopoly-antitrust-justice-department)
 - [Humane’s daily returns are outpacing sales](https://rogerstringer.com/blog/humane-ai-pin-more-daily-returns-than-sales)
 - [‘You are a helpful mail assistant,’ and other Apple Intelligence instructions](https://rogerstringer.com/blog/you-are-a-helpful-mail-assistant-and-other-apple-intelligence-instructions)
@@ -42,7 +43,6 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 - [Apple Approves First Retro PC Emulator for iPhone, iPad, and Vision Pro](https://rogerstringer.com/blog/apple-approves-first-retro-pc-emulator-ios)
 - [Proxying Plausible in Astro](https://rogerstringer.com/blog/proxying-plausible-in-astro)
 - [M.G Siegler: &quot;Meta being in talks for &#39;Apple Intelligence&#39; isn&#39;t a huge shock&quot;](https://rogerstringer.com/blog/meta-apple-ai)
-- [Humane warns AI Pin owners to ‘immediately’ stop using its charging case](https://rogerstringer.com/blog/humane-ai-pin-battery-case-issue-warning)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
