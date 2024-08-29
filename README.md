@@ -31,18 +31,18 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Disney gives up on trying to use Disney Plus excuse to settle a wrongful death lawsuit](https://rogerstringer.com/blog/disney-wrongful-death-lawsuit-waiving-arbitration)
-- [U.S. Said to Consider a Breakup of Google to Address Search Monopoly](https://rogerstringer.com/blog/google-monopoly-antitrust-justice-department)
-- [Humane’s daily returns are outpacing sales](https://rogerstringer.com/blog/humane-ai-pin-more-daily-returns-than-sales)
-- [‘You are a helpful mail assistant,’ and other Apple Intelligence instructions](https://rogerstringer.com/blog/you-are-a-helpful-mail-assistant-and-other-apple-intelligence-instructions)
-- [Microsoft says OpenAI is now a competitor in AI and search](https://rogerstringer.com/blog/microsoft-says-openai-is-now-a-competitor-in-ai-and-search)
-- [Marco Arment on &quot;Ten years of Overcast&quot;](https://rogerstringer.com/blog/marco-arment-on-ten-years-of-overcast)
-- [Google Chrome is no longer ‘deprecating third-party cookies’](https://rogerstringer.com/blog/google-chrome-is-no-longer-deprecating-third-party-cookies)
-- [Google is trying to steal the Ray-Ban partnership from Meta](https://rogerstringer.com/blog/google-meta-ray-ban-essilorluxottica-partnership)
 - [Yuzu Kosho Paste](https://rogerstringer.com/blog/yuzu-kosho-paste)
 - [Apple Approves First Retro PC Emulator for iPhone, iPad, and Vision Pro](https://rogerstringer.com/blog/apple-approves-first-retro-pc-emulator-ios)
 - [Proxying Plausible in Astro](https://rogerstringer.com/blog/proxying-plausible-in-astro)
 - [M.G Siegler: &quot;Meta being in talks for &#39;Apple Intelligence&#39; isn&#39;t a huge shock&quot;](https://rogerstringer.com/blog/meta-apple-ai)
+- [Humane warns AI Pin owners to ‘immediately’ stop using its charging case](https://rogerstringer.com/blog/humane-ai-pin-battery-case-issue-warning)
+- [Piccalilli](https://rogerstringer.com/blog/piccalilli)
+- [Giving this site another redesign](https://rogerstringer.com/blog/giving-this-site-another-redesign)
+- [Humane is looking for a buyer after the AI Pin’s underwhelming debut](https://rogerstringer.com/blog/humane-seeking-acquisition-rumor-ai-pin)
+- [Spotify&#39;s Car Thing will be bricked On December 9, 2024](https://rogerstringer.com/blog/spotify-car-thing-discontinued)
+- [It’s not just you, Next.js is getting harder to use](https://rogerstringer.com/blog/nextjs-challenges)
+- [The Sound of Software](https://rogerstringer.com/blog/the-sound-of-software)
+- [Google lays off staff from Flutter, Dart and Python teams weeks before its annual I/O developer conference](https://rogerstringer.com/blog/google-lays-off-staff-from-flutter-dart-python-weeks-before-its-developer-conference)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
