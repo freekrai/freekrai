@@ -31,16 +31,18 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Inside-out grilled ham and cheese sandwiches](https://codedgeekery.com/blog/inside-out-grilled-ham-and-cheese-sandwiches)
-- [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
-- [The End of Front-End Development?](https://codedgeekery.com/blog/the-end-of-front-end-development)
-- [Deploy Directus to Dokku](https://codedgeekery.com/blog/deploy-directus-to-dokku)
-- [The State of Databases for Serverless &amp; Edge In 2023](https://codedgeekery.com/blog/2023-backend)
-- [Chris Coyier: A “Perfect” CI Process](https://codedgeekery.com/blog/chris-coyier-a-perfect-ci-process)
-- [Back to Next.js](https://codedgeekery.com/blog/back-to-next)
-- [The evolution of scalable CSS](https://codedgeekery.com/blog/the-evolution-of-scalable-css)
-- [Kent C. Dodds on Full Stack Components](https://codedgeekery.com/blog/full-stack-components)
-- [Using Preact Signals with Fresh](https://codedgeekery.com/blog/using-preact-signals-with-fresh)
+- [Disney gives up on trying to use Disney Plus excuse to settle a wrongful death lawsuit](https://rogerstringer.com/blog/disney-wrongful-death-lawsuit-waiving-arbitration)
+- [U.S. Said to Consider a Breakup of Google to Address Search Monopoly](https://rogerstringer.com/blog/google-monopoly-antitrust-justice-department)
+- [Humane’s daily returns are outpacing sales](https://rogerstringer.com/blog/humane-ai-pin-more-daily-returns-than-sales)
+- [‘You are a helpful mail assistant,’ and other Apple Intelligence instructions](https://rogerstringer.com/blog/you-are-a-helpful-mail-assistant-and-other-apple-intelligence-instructions)
+- [Microsoft says OpenAI is now a competitor in AI and search](https://rogerstringer.com/blog/microsoft-says-openai-is-now-a-competitor-in-ai-and-search)
+- [Google Chrome is no longer ‘deprecating third-party cookies’](https://rogerstringer.com/blog/google-chrome-is-no-longer-deprecating-third-party-cookies)
+- [Marco Arment on &quot;Ten years of Overcast&quot;](https://rogerstringer.com/blog/marco-arment-on-ten-years-of-overcast)
+- [Google is trying to steal the Ray-Ban partnership from Meta](https://rogerstringer.com/blog/google-meta-ray-ban-essilorluxottica-partnership)
+- [Yuzu Kosho Paste](https://rogerstringer.com/blog/yuzu-kosho-paste)
+- [Apple Approves First Retro PC Emulator for iPhone, iPad, and Vision Pro](https://rogerstringer.com/blog/apple-approves-first-retro-pc-emulator-ios)
+- [Proxying Plausible in Astro](https://rogerstringer.com/blog/proxying-plausible-in-astro)
+- [M.G Siegler: &quot;Meta being in talks for &#39;Apple Intelligence&#39; isn&#39;t a huge shock&quot;](https://rogerstringer.com/blog/meta-apple-ai)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
