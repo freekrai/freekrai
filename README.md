@@ -31,18 +31,16 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Yuzu Kosho Paste](https://rogerstringer.com/blog/yuzu-kosho-paste)
-- [Apple Approves First Retro PC Emulator for iPhone, iPad, and Vision Pro](https://rogerstringer.com/blog/apple-approves-first-retro-pc-emulator-ios)
-- [Proxying Plausible in Astro](https://rogerstringer.com/blog/proxying-plausible-in-astro)
-- [M.G Siegler: &quot;Meta being in talks for &#39;Apple Intelligence&#39; isn&#39;t a huge shock&quot;](https://rogerstringer.com/blog/meta-apple-ai)
-- [Humane warns AI Pin owners to ‘immediately’ stop using its charging case](https://rogerstringer.com/blog/humane-ai-pin-battery-case-issue-warning)
-- [Piccalilli](https://rogerstringer.com/blog/piccalilli)
-- [Giving this site another redesign](https://rogerstringer.com/blog/giving-this-site-another-redesign)
-- [Humane is looking for a buyer after the AI Pin’s underwhelming debut](https://rogerstringer.com/blog/humane-seeking-acquisition-rumor-ai-pin)
-- [Spotify&#39;s Car Thing will be bricked On December 9, 2024](https://rogerstringer.com/blog/spotify-car-thing-discontinued)
-- [It’s not just you, Next.js is getting harder to use](https://rogerstringer.com/blog/nextjs-challenges)
-- [The Sound of Software](https://rogerstringer.com/blog/the-sound-of-software)
-- [Google lays off staff from Flutter, Dart and Python teams weeks before its annual I/O developer conference](https://rogerstringer.com/blog/google-lays-off-staff-from-flutter-dart-python-weeks-before-its-developer-conference)
+- [Inside-out grilled ham and cheese sandwiches](https://codedgeekery.com/blog/inside-out-grilled-ham-and-cheese-sandwiches)
+- [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
+- [The End of Front-End Development?](https://codedgeekery.com/blog/the-end-of-front-end-development)
+- [Deploy Directus to Dokku](https://codedgeekery.com/blog/deploy-directus-to-dokku)
+- [The State of Databases for Serverless &amp; Edge In 2023](https://codedgeekery.com/blog/2023-backend)
+- [Chris Coyier: A “Perfect” CI Process](https://codedgeekery.com/blog/chris-coyier-a-perfect-ci-process)
+- [Back to Next.js](https://codedgeekery.com/blog/back-to-next)
+- [The evolution of scalable CSS](https://codedgeekery.com/blog/the-evolution-of-scalable-css)
+- [Kent C. Dodds on Full Stack Components](https://codedgeekery.com/blog/full-stack-components)
+- [Using Preact Signals with Fresh](https://codedgeekery.com/blog/using-preact-signals-with-fresh)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
