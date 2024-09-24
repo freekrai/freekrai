@@ -31,6 +31,7 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [iOS 18 bug in Messages causes repeated app crash, fix can require data loss](https://rogerstringer.com/blog/ios-18-messages-app-crash)
 - [Disney gives up on trying to use Disney Plus excuse to settle a wrongful death lawsuit](https://rogerstringer.com/blog/disney-wrongful-death-lawsuit-waiving-arbitration)
 - [U.S. Said to Consider a Breakup of Google to Address Search Monopoly](https://rogerstringer.com/blog/google-monopoly-antitrust-justice-department)
 - [Humane’s daily returns are outpacing sales](https://rogerstringer.com/blog/humane-ai-pin-more-daily-returns-than-sales)
@@ -42,7 +43,6 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 - [Yuzu Kosho Paste](https://rogerstringer.com/blog/yuzu-kosho-paste)
 - [Apple Approves First Retro PC Emulator for iPhone, iPad, and Vision Pro](https://rogerstringer.com/blog/apple-approves-first-retro-pc-emulator-ios)
 - [Proxying Plausible in Astro](https://rogerstringer.com/blog/proxying-plausible-in-astro)
-- [M.G Siegler: &quot;Meta being in talks for &#39;Apple Intelligence&#39; isn&#39;t a huge shock&quot;](https://rogerstringer.com/blog/meta-apple-ai)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
