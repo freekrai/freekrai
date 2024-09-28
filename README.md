@@ -31,7 +31,7 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [WordPress Vs. Wp Engine](https://rogerstringer.com/blog/wordpress-vs-wp-engine)
+- [WordPress Vs. WP Engine](https://rogerstringer.com/blog/wordpress-vs-wp-engine)
 - [iOS 18 bug in Messages causes repeated app crash, fix can require data loss](https://rogerstringer.com/blog/ios-18-messages-app-crash)
 - [Disney gives up on trying to use Disney Plus excuse to settle a wrongful death lawsuit](https://rogerstringer.com/blog/disney-wrongful-death-lawsuit-waiving-arbitration)
 - [U.S. Said to Consider a Breakup of Google to Address Search Monopoly](https://rogerstringer.com/blog/google-monopoly-antitrust-justice-department)
