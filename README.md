@@ -31,6 +31,7 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk makes bold claims about Tesla robotaxi in Hollywood backlot](https://rogerstringer.com/blog/elon-musk-makes-bold-claims-about-tesla-robotaxi-in-hollywood-backlot)
 - [WordPress vs WP Engine battle gets seriously stupid, with new login requirement](https://rogerstringer.com/blog/wordpress-vs-wp-engine-battle-gets-seriously-stupid-with-new-login-requirement)
 - [Matt Mullenweg: ‘WordPress.org just belongs to me’](https://rogerstringer.com/blog/matt-mullenweg-wordpress-org-wp-engine)
 - [WordPress Vs. WP Engine](https://rogerstringer.com/blog/wordpress-vs-wp-engine)
@@ -42,7 +43,6 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 - [Microsoft says OpenAI is now a competitor in AI and search](https://rogerstringer.com/blog/microsoft-says-openai-is-now-a-competitor-in-ai-and-search)
 - [Marco Arment on &quot;Ten years of Overcast&quot;](https://rogerstringer.com/blog/marco-arment-on-ten-years-of-overcast)
 - [Google Chrome is no longer ‘deprecating third-party cookies’](https://rogerstringer.com/blog/google-chrome-is-no-longer-deprecating-third-party-cookies)
-- [Google is trying to steal the Ray-Ban partnership from Meta](https://rogerstringer.com/blog/google-meta-ray-ban-essilorluxottica-partnership)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
