@@ -31,6 +31,7 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [M.G. Siegler on AI Bot Podcasts](https://rogerstringer.com/blog/notebookllm-podcasts)
 - [Elon Musk makes bold claims about Tesla robotaxi in Hollywood backlot](https://rogerstringer.com/blog/elon-musk-makes-bold-claims-about-tesla-robotaxi-in-hollywood-backlot)
 - [WordPress vs WP Engine battle gets seriously stupid, with new login requirement](https://rogerstringer.com/blog/wordpress-vs-wp-engine-battle-gets-seriously-stupid-with-new-login-requirement)
 - [Matt Mullenweg: ‘WordPress.org just belongs to me’](https://rogerstringer.com/blog/matt-mullenweg-wordpress-org-wp-engine)
@@ -42,7 +43,6 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 - [‘You are a helpful mail assistant,’ and other Apple Intelligence instructions](https://rogerstringer.com/blog/you-are-a-helpful-mail-assistant-and-other-apple-intelligence-instructions)
 - [Microsoft says OpenAI is now a competitor in AI and search](https://rogerstringer.com/blog/microsoft-says-openai-is-now-a-competitor-in-ai-and-search)
 - [Marco Arment on &quot;Ten years of Overcast&quot;](https://rogerstringer.com/blog/marco-arment-on-ten-years-of-overcast)
-- [Google Chrome is no longer ‘deprecating third-party cookies’](https://rogerstringer.com/blog/google-chrome-is-no-longer-deprecating-third-party-cookies)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
