@@ -31,6 +31,7 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wordpress Is In Trouble](https://rogerstringer.com/blog/wordpress-is-in-trouble)
 - [Using Vercel’s AI SDK with Astro](https://rogerstringer.com/blog/vercel-ai-sdk-astro)
 - [Wordpress&#39;s &quot;Holiday Break&quot;](https://rogerstringer.com/blog/wordpress-holiday-break)
 - [M.G. Siegler on AI Bot Podcasts](https://rogerstringer.com/blog/notebookllm-podcasts)
@@ -42,7 +43,6 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 - [Disney gives up on trying to use Disney Plus excuse to settle a wrongful death lawsuit](https://rogerstringer.com/blog/disney-wrongful-death-lawsuit-waiving-arbitration)
 - [U.S. Said to Consider a Breakup of Google to Address Search Monopoly](https://rogerstringer.com/blog/google-monopoly-antitrust-justice-department)
 - [Humane’s daily returns are outpacing sales](https://rogerstringer.com/blog/humane-ai-pin-more-daily-returns-than-sales)
-- [‘You are a helpful mail assistant,’ and other Apple Intelligence instructions](https://rogerstringer.com/blog/you-are-a-helpful-mail-assistant-and-other-apple-intelligence-instructions)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
