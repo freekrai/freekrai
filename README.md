@@ -31,6 +31,7 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok reportedly plans ‘immediate’ Sunday shutdown in the US if it’s banned](https://rogerstringer.com/blog/tiktok-shutdown-us-ban-supreme-court)
 - [Wordpress Is In Trouble](https://rogerstringer.com/blog/wordpress-is-in-trouble)
 - [Using Vercel’s AI SDK with Astro](https://rogerstringer.com/blog/vercel-ai-sdk-astro)
 - [Wordpress&#39;s &quot;Holiday Break&quot;](https://rogerstringer.com/blog/wordpress-holiday-break)
@@ -42,7 +43,6 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 - [iOS 18 bug in Messages causes repeated app crash, fix can require data loss](https://rogerstringer.com/blog/ios-18-messages-app-crash)
 - [Disney gives up on trying to use Disney Plus excuse to settle a wrongful death lawsuit](https://rogerstringer.com/blog/disney-wrongful-death-lawsuit-waiving-arbitration)
 - [U.S. Said to Consider a Breakup of Google to Address Search Monopoly](https://rogerstringer.com/blog/google-monopoly-antitrust-justice-department)
-- [Humane’s daily returns are outpacing sales](https://rogerstringer.com/blog/humane-ai-pin-more-daily-returns-than-sales)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
