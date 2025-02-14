@@ -32,7 +32,7 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 
 <!-- BLOG-POST-LIST:START -->
 - [Meta warns that it will fire leakers in leaked memo](https://rogerstringer.com/blog/meta-warns-leakers-leaked-memo)
-- [Welcome to the era of gangster tech regulation](https://rogerstringer.com/blog/rump-gangster-tech-regulation-corruption-grift)
+- [Welcome to the era of gangster tech regulation](https://rogerstringer.com/blog/trump-gangster-tech-regulation-corruption-grift)
 - [As the TikTok Ban comes into affect in the US, American TikTokers hold out hope.](https://rogerstringer.com/blog/as-the-tik-tok-ban-comes-into-affect-in-the-us-american-tik-tokers-hold-out-hope)
 - [TikTok reportedly plans ‘immediate’ Sunday shutdown in the US if it’s banned](https://rogerstringer.com/blog/tiktok-shutdown-us-ban-supreme-court)
 - [Wordpress Is In Trouble](https://rogerstringer.com/blog/wordpress-is-in-trouble)
