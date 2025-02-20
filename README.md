@@ -31,6 +31,7 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Humane’s AI Pin is dead, as HP buys startup’s assets for $116M](https://rogerstringer.com/blog/humanes-ai-pin-is-dead-as-hp-buys-startups-assets-for-116m)
 - [Meta warns that it will fire leakers in leaked memo](https://rogerstringer.com/blog/meta-warns-leakers-leaked-memo)
 - [Welcome to the era of gangster tech regulation](https://rogerstringer.com/blog/trump-gangster-tech-regulation-corruption-grift)
 - [As the TikTok Ban comes into affect in the US, American TikTokers hold out hope.](https://rogerstringer.com/blog/as-the-tik-tok-ban-comes-into-affect-in-the-us-american-tik-tokers-hold-out-hope)
@@ -42,7 +43,6 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 - [Elon Musk makes bold claims about Tesla robotaxi in Hollywood backlot](https://rogerstringer.com/blog/elon-musk-makes-bold-claims-about-tesla-robotaxi-in-hollywood-backlot)
 - [WordPress vs WP Engine battle gets seriously stupid, with new login requirement](https://rogerstringer.com/blog/wordpress-vs-wp-engine-battle-gets-seriously-stupid-with-new-login-requirement)
 - [Matt Mullenweg: ‘WordPress.org just belongs to me’](https://rogerstringer.com/blog/matt-mullenweg-wordpress-org-wp-engine)
-- [WordPress Vs. WP Engine](https://rogerstringer.com/blog/wordpress-vs-wp-engine)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
