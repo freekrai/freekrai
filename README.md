@@ -37,7 +37,7 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 - [As the TikTok Ban comes into affect in the US, American TikTokers hold out hope.](https://rogerstringer.com/blog/as-the-tik-tok-ban-comes-into-affect-in-the-us-american-tik-tokers-hold-out-hope)
 - [TikTok reportedly plans ‘immediate’ Sunday shutdown in the US if it’s banned](https://rogerstringer.com/blog/tiktok-shutdown-us-ban-supreme-court)
 - [Wordpress Is In Trouble](https://rogerstringer.com/blog/wordpress-is-in-trouble)
-- [Using Vercel’s AI SDK with Astro](https://rogerstringer.com/blog/vercel-ai-sdk-astro)
+- [Using Vercel’s AI SDK with Astro and HTMX](https://rogerstringer.com/blog/vercel-ai-sdk-astro)
 - [Wordpress&#39;s &quot;Holiday Break&quot;](https://rogerstringer.com/blog/wordpress-holiday-break)
 - [M.G. Siegler on AI Bot Podcasts](https://rogerstringer.com/blog/notebookllm-podcasts)
 - [Elon Musk makes bold claims about Tesla robotaxi in Hollywood backlot](https://rogerstringer.com/blog/elon-musk-makes-bold-claims-about-tesla-robotaxi-in-hollywood-backlot)
