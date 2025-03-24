@@ -31,16 +31,18 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Inside-out grilled ham and cheese sandwiches](https://codedgeekery.com/blog/inside-out-grilled-ham-and-cheese-sandwiches)
-- [&quot;How to continue making kerosene lamps on the eve of electricity&quot;](https://codedgeekery.com/blog/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity)
-- [The End of Front-End Development?](https://codedgeekery.com/blog/the-end-of-front-end-development)
-- [Deploy Directus to Dokku](https://codedgeekery.com/blog/deploy-directus-to-dokku)
-- [The State of Databases for Serverless &amp; Edge In 2023](https://codedgeekery.com/blog/2023-backend)
-- [Chris Coyier: A “Perfect” CI Process](https://codedgeekery.com/blog/chris-coyier-a-perfect-ci-process)
-- [Back to Next.js](https://codedgeekery.com/blog/back-to-next)
-- [The evolution of scalable CSS](https://codedgeekery.com/blog/the-evolution-of-scalable-css)
-- [Kent C. Dodds on Full Stack Components](https://codedgeekery.com/blog/full-stack-components)
-- [Using Preact Signals with Fresh](https://codedgeekery.com/blog/using-preact-signals-with-fresh)
+- [Humane’s AI Pin is dead, as HP buys startup’s assets for $116M](https://rogerstringer.com/blog/humanes-ai-pin-is-dead-as-hp-buys-startups-assets-for-116m)
+- [Meta warns that it will fire leakers in leaked memo](https://rogerstringer.com/blog/meta-warns-leakers-leaked-memo)
+- [Welcome to the era of gangster tech regulation](https://rogerstringer.com/blog/trump-gangster-tech-regulation-corruption-grift)
+- [As the TikTok Ban comes into affect in the US, American TikTokers hold out hope.](https://rogerstringer.com/blog/as-the-tik-tok-ban-comes-into-affect-in-the-us-american-tik-tokers-hold-out-hope)
+- [TikTok reportedly plans ‘immediate’ Sunday shutdown in the US if it’s banned](https://rogerstringer.com/blog/tiktok-shutdown-us-ban-supreme-court)
+- [Wordpress Is In Trouble](https://rogerstringer.com/blog/wordpress-is-in-trouble)
+- [Using Vercel’s AI SDK with Astro and HTMX](https://rogerstringer.com/blog/vercel-ai-sdk-astro)
+- [Wordpress&#39;s &quot;Holiday Break&quot;](https://rogerstringer.com/blog/wordpress-holiday-break)
+- [M.G. Siegler on AI Bot Podcasts](https://rogerstringer.com/blog/notebookllm-podcasts)
+- [Elon Musk makes bold claims about Tesla robotaxi in Hollywood backlot](https://rogerstringer.com/blog/elon-musk-makes-bold-claims-about-tesla-robotaxi-in-hollywood-backlot)
+- [WordPress vs WP Engine battle gets seriously stupid, with new login requirement](https://rogerstringer.com/blog/wordpress-vs-wp-engine-battle-gets-seriously-stupid-with-new-login-requirement)
+- [Matt Mullenweg: ‘WordPress.org just belongs to me’](https://rogerstringer.com/blog/matt-mullenweg-wordpress-org-wp-engine)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
