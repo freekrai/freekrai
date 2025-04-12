@@ -1,15 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roger 
 
-I'm a full-stack software engineer, author and dad from Canada.
+I'm a Product Engineer, author and dad from Canada, with over 2 decades in the field.
 
 🔭 I’m currently working on multiple frontend and backend projects using Astro, React, Remix, Nextjs, Nodejs, and various AI integrations. 
 
 I build a lot of things using many stacks, currently mostly working with Astro / React / Remix / Nextjs and Nodejs with various APIs.  
 
 * 🌍  I'm based in Penticton, British Columbia, Canada 
-* 🖥️  See my portfolio at [Roger Stringer](https://rogerstringer.com) or [Coded Geekery](https://codedgeekery.com) 
+* 🖥️  See my portfolio at [Roger Stringer](https://rogerstringer.com)
 * 🧠  I'm learning to never stop learning. 
 * 🤝  I'm open to collaborating on interesting projects
+
+I'm also a big camping and hiking enthusiast. When I'm not hanging out with my family or at the computer, or at a coffee shop, you can find me camping or hiking somewhere in the mountains around the Okanagan valley where I live.
 
 ### :zap: Stats
 
@@ -25,7 +27,7 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 
 - <a href="https://www.github.com/freekrai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> @freekrai</a>
 - <a href="https://rogerstringer.com/rss.xml" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /> RSS Feed</a>
-- <a href="https://www.twitter.com/freekrai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> @freekrai</a>
+- <a href="https://x/freekrai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> @freekrai</a>
 - <a href="https://github.com/sponsors/freekrai"> ❤️ Sponsor me on GitHub</a>
 
 ### :newspaper: Latest Blog Posts
