@@ -7,7 +7,7 @@ I'm a Product Engineer, author and dad from Canada, with over 2 decades in the f
 I build a lot of things using many stacks, currently mostly working with Astro / React / Remix / Nextjs and Nodejs with various APIs.  
 
 * 🌍  I'm based in Penticton, British Columbia, Canada 
-* 🖥️  See my portfolio at [Roger Stringer](https://rogerstringer.com)
+* 🖥️  Read my blog at [Roger Stringer](https://rogerstringer.com)
 * 🧠  I'm learning to never stop learning. 
 * 🤝  I'm open to collaborating on interesting projects
 
