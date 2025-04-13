@@ -35,9 +35,6 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 <!-- BLOG-POST-LIST:START -->
 - [Humane’s AI Pin is dead, as HP buys startup’s assets for $116M](https://rogerstringer.com/blog/humanes-ai-pin-is-dead-as-hp-buys-startups-assets-for-116m)
 - [Meta warns that it will fire leakers in leaked memo](https://rogerstringer.com/blog/meta-warns-leakers-leaked-memo)
-- [Welcome to the era of gangster tech regulation](https://rogerstringer.com/blog/trump-gangster-tech-regulation-corruption-grift)
-- [As the TikTok Ban comes into affect in the US, American TikTokers hold out hope.](https://rogerstringer.com/blog/as-the-tik-tok-ban-comes-into-affect-in-the-us-american-tik-tokers-hold-out-hope)
-- [TikTok reportedly plans ‘immediate’ Sunday shutdown in the US if it’s banned](https://rogerstringer.com/blog/tiktok-shutdown-us-ban-supreme-court)
 - [Wordpress Is In Trouble](https://rogerstringer.com/blog/wordpress-is-in-trouble)
 - [Using Vercel’s AI SDK with Astro and HTMX](https://rogerstringer.com/blog/vercel-ai-sdk-astro)
 - [Wordpress&#39;s &quot;Holiday Break&quot;](https://rogerstringer.com/blog/wordpress-holiday-break)
@@ -45,6 +42,9 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 - [Elon Musk makes bold claims about Tesla robotaxi in Hollywood backlot](https://rogerstringer.com/blog/elon-musk-makes-bold-claims-about-tesla-robotaxi-in-hollywood-backlot)
 - [WordPress vs WP Engine battle gets seriously stupid, with new login requirement](https://rogerstringer.com/blog/wordpress-vs-wp-engine-battle-gets-seriously-stupid-with-new-login-requirement)
 - [Matt Mullenweg: ‘WordPress.org just belongs to me’](https://rogerstringer.com/blog/matt-mullenweg-wordpress-org-wp-engine)
+- [WordPress Vs. WP Engine](https://rogerstringer.com/blog/wordpress-vs-wp-engine)
+- [iOS 18 bug in Messages causes repeated app crash, fix can require data loss](https://rogerstringer.com/blog/ios-18-messages-app-crash)
+- [Disney gives up on trying to use Disney Plus excuse to settle a wrongful death lawsuit](https://rogerstringer.com/blog/disney-wrongful-death-lawsuit-waiving-arbitration)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
