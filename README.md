@@ -33,6 +33,7 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI looked at buying Cursor creator before turning to AI coding rival Windsurf](https://rogerstringer.com/blog/openai-looked-at-cursor-before-considering-deal-with-rival-windsurf)
 - [OpenAI is reportedly in talks to buy Windsurf for $3B, with news expected later this week](https://rogerstringer.com/blog/open-ai-is-reportedly-in-talks-to-buy-windsurf-for-3-b-with-news-expected-later-this-week)
 - [Humane’s AI Pin is dead, as HP buys startup’s assets for $116M](https://rogerstringer.com/blog/humanes-ai-pin-is-dead-as-hp-buys-startups-assets-for-116m)
 - [Meta warns that it will fire leakers in leaked memo](https://rogerstringer.com/blog/meta-warns-leakers-leaked-memo)
@@ -44,7 +45,6 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 - [WordPress vs WP Engine battle gets seriously stupid, with new login requirement](https://rogerstringer.com/blog/wordpress-vs-wp-engine-battle-gets-seriously-stupid-with-new-login-requirement)
 - [Matt Mullenweg: ‘WordPress.org just belongs to me’](https://rogerstringer.com/blog/matt-mullenweg-wordpress-org-wp-engine)
 - [WordPress Vs. WP Engine](https://rogerstringer.com/blog/wordpress-vs-wp-engine)
-- [iOS 18 bug in Messages causes repeated app crash, fix can require data loss](https://rogerstringer.com/blog/ios-18-messages-app-crash)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
