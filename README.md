@@ -33,6 +33,7 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Seeks to Pause &#39;Extraordinary&#39; App Store Ruling in Epic Games Battle](https://rogerstringer.com/blog/apple-appeals-app-store-ruling-epic-games)
 - [Epic says Fortnite is coming back to iOS in the US](https://rogerstringer.com/blog/fortnite-ios-apple-app-store-us-return)
 - [OpenAI looked at buying Cursor creator before turning to AI coding rival Windsurf](https://rogerstringer.com/blog/openai-looked-at-cursor-before-considering-deal-with-rival-windsurf)
 - [OpenAI is reportedly in talks to buy Windsurf for $3B, with news expected later this week](https://rogerstringer.com/blog/open-ai-is-reportedly-in-talks-to-buy-windsurf-for-3-b-with-news-expected-later-this-week)
@@ -44,7 +45,6 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 - [M.G. Siegler on AI Bot Podcasts](https://rogerstringer.com/blog/notebookllm-podcasts)
 - [Elon Musk makes bold claims about Tesla robotaxi in Hollywood backlot](https://rogerstringer.com/blog/elon-musk-makes-bold-claims-about-tesla-robotaxi-in-hollywood-backlot)
 - [WordPress vs WP Engine battle gets seriously stupid, with new login requirement](https://rogerstringer.com/blog/wordpress-vs-wp-engine-battle-gets-seriously-stupid-with-new-login-requirement)
-- [Matt Mullenweg: ‘WordPress.org just belongs to me’](https://rogerstringer.com/blog/matt-mullenweg-wordpress-org-wp-engine)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
