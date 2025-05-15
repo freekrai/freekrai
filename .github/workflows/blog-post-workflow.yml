@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@1.7.8
         with:
           max_post_count: "12"
-          feed_list: "https://rogerstringer.com/rss.xml,https://codedgeekery.com/feed.xml"
+          feed_list: "https://rogerstringer.com/rss.xml,https://rogerstringer.com/bookmarks/rss.xml,https://codedgeekery.com/feed.xml"
