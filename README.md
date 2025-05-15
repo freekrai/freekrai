@@ -47,6 +47,11 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 - [WordPress vs WP Engine battle gets seriously stupid, with new login requirement](https://rogerstringer.com/blog/wordpress-vs-wp-engine-battle-gets-seriously-stupid-with-new-login-requirement)
 <!-- BLOG-POST-LIST:END -->
 
+### 🔖 Latest Bookmarks
+
+<!-- BOOKMARKS-LIST:START -->
+<!-- BOOKMARKS-LIST:END -->
+
 <!--
 #### Top Languages 
 ![](https://github-readme-stats-knowmad.vercel.app/api/top-langs/?username=freekrai&hide=null&count_private=true)
