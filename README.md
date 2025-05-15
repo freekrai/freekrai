@@ -33,18 +33,18 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to write error messages that actually help users rather than frustrate them](https://rogerstringer.com/bookmarks/how-to-write-error-messages-that-actually-help-users-rather-than-frustrate-them)
 - [Apple Seeks to Pause &#39;Extraordinary&#39; App Store Ruling in Epic Games Battle](https://rogerstringer.com/blog/apple-appeals-app-store-ruling-epic-games)
+- [FastMCP: A TypeScript framework for building MCP servers.](https://rogerstringer.com/bookmarks/fastmcp)
 - [Epic says Fortnite is coming back to iOS in the US](https://rogerstringer.com/blog/fortnite-ios-apple-app-store-us-return)
+- [Designing free trials that actually convert](https://rogerstringer.com/bookmarks/designing-free-trials-tips)
+- [Avoiding Skill Atrophy in the Age of AI](https://rogerstringer.com/bookmarks/avoiding-skill-atrophy-in-the-age-of-ai)
 - [OpenAI looked at buying Cursor creator before turning to AI coding rival Windsurf](https://rogerstringer.com/blog/openai-looked-at-cursor-before-considering-deal-with-rival-windsurf)
-- [OpenAI is reportedly in talks to buy Windsurf for $3B, with news expected later this week](https://rogerstringer.com/blog/open-ai-is-reportedly-in-talks-to-buy-windsurf-for-3-b-with-news-expected-later-this-week)
-- [Humane’s AI Pin is dead, as HP buys startup’s assets for $116M](https://rogerstringer.com/blog/humanes-ai-pin-is-dead-as-hp-buys-startups-assets-for-116m)
-- [Meta warns that it will fire leakers in leaked memo](https://rogerstringer.com/blog/meta-warns-leakers-leaked-memo)
-- [Wordpress Is In Trouble](https://rogerstringer.com/blog/wordpress-is-in-trouble)
-- [Using Vercel’s AI SDK with Astro and HTMX](https://rogerstringer.com/blog/vercel-ai-sdk-astro)
-- [Wordpress&#39;s &quot;Holiday Break&quot;](https://rogerstringer.com/blog/wordpress-holiday-break)
-- [M.G. Siegler on AI Bot Podcasts](https://rogerstringer.com/blog/notebookllm-podcasts)
-- [Elon Musk makes bold claims about Tesla robotaxi in Hollywood backlot](https://rogerstringer.com/blog/elon-musk-makes-bold-claims-about-tesla-robotaxi-in-hollywood-backlot)
-- [WordPress vs WP Engine battle gets seriously stupid, with new login requirement](https://rogerstringer.com/blog/wordpress-vs-wp-engine-battle-gets-seriously-stupid-with-new-login-requirement)
+- [Marker](https://rogerstringer.com/bookmarks/marker)
+- [Hacker Laws: Laws, Theories, Principles and Patterns that developers will find useful.](https://rogerstringer.com/bookmarks/hacker-laws)
+- [Should a Tech Lead Prepare AI Instructions for the Team?](https://rogerstringer.com/bookmarks/should-a-tech-lead-prepare-ai-instructions-for-the-team)
+- [Sync Engines are the Future](https://rogerstringer.com/bookmarks/sync-engines-are-the-future)
+- [JSX Over The Wire](https://rogerstringer.com/bookmarks/jsx-over-the-wire)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
