@@ -33,6 +33,7 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Vibe Code](https://rogerstringer.com/blog/how-i-vibe-code)
 - [Databricks is buying database startup Neon for about $1 billion](https://rogerstringer.com/blog/databricks-neon)
 - [How to write error messages that actually help users rather than frustrate them](https://rogerstringer.com/bookmarks/how-to-write-error-messages-that-actually-help-users-rather-than-frustrate-them)
 - [Apple Seeks to Pause &#39;Extraordinary&#39; App Store Ruling in Epic Games Battle](https://rogerstringer.com/blog/apple-appeals-app-store-ruling-epic-games)
@@ -44,7 +45,6 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 - [Marker](https://rogerstringer.com/bookmarks/marker)
 - [Hacker Laws: Laws, Theories, Principles and Patterns that developers will find useful.](https://rogerstringer.com/bookmarks/hacker-laws)
 - [Should a Tech Lead Prepare AI Instructions for the Team?](https://rogerstringer.com/bookmarks/should-a-tech-lead-prepare-ai-instructions-for-the-team)
-- [Sync Engines are the Future](https://rogerstringer.com/bookmarks/sync-engines-are-the-future)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
