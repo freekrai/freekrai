@@ -33,6 +33,7 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [You can style alt text like any other text](https://rogerstringer.com/bookmarks/you-can-style-alt-text-like-any-other-text)
 - [How I Vibe Code](https://rogerstringer.com/blog/how-i-vibe-code)
 - [Databricks is buying database startup Neon for about $1 billion](https://rogerstringer.com/blog/databricks-neon)
 - [How to write error messages that actually help users rather than frustrate them](https://rogerstringer.com/bookmarks/how-to-write-error-messages-that-actually-help-users-rather-than-frustrate-them)
@@ -44,7 +45,6 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 - [OpenAI looked at buying Cursor creator before turning to AI coding rival Windsurf](https://rogerstringer.com/blog/openai-looked-at-cursor-before-considering-deal-with-rival-windsurf)
 - [Marker](https://rogerstringer.com/bookmarks/marker)
 - [Hacker Laws: Laws, Theories, Principles and Patterns that developers will find useful.](https://rogerstringer.com/bookmarks/hacker-laws)
-- [Should a Tech Lead Prepare AI Instructions for the Team?](https://rogerstringer.com/bookmarks/should-a-tech-lead-prepare-ai-instructions-for-the-team)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
