@@ -33,6 +33,7 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mozilla is killing Pocket](https://rogerstringer.com/blog/mozilla-is-killing-pocket)
 - [You can style alt text like any other text](https://rogerstringer.com/bookmarks/you-can-style-alt-text-like-any-other-text)
 - [Why Most Startups Fail at SaaS Content Marketing &lpar;And How to Fix It&rpar;](https://rogerstringer.com/bookmarks/why-most-startups-fail-at-saas-content-marketing-and-how-to-fix-it)
 - [How I Vibe Code](https://rogerstringer.com/blog/how-i-vibe-code)
@@ -44,7 +45,6 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 - [Designing free trials that actually convert](https://rogerstringer.com/bookmarks/designing-free-trials-tips)
 - [Avoiding Skill Atrophy in the Age of AI](https://rogerstringer.com/bookmarks/avoiding-skill-atrophy-in-the-age-of-ai)
 - [OpenAI looked at buying Cursor creator before turning to AI coding rival Windsurf](https://rogerstringer.com/blog/openai-looked-at-cursor-before-considering-deal-with-rival-windsurf)
-- [Marker](https://rogerstringer.com/bookmarks/marker)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
