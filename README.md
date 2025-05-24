@@ -42,7 +42,7 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 - [Never Just](https://rogerstringer.com/bookmarks/never-just)
 - [Apple Seeks to Pause &#39;Extraordinary&#39; App Store Ruling in Epic Games Battle](https://rogerstringer.com/blog/apple-appeals-app-store-ruling-epic-games)
 - [no hello](https://rogerstringer.com/bookmarks/no-hello)
-- [Don&#39;t ask to ask, just ask](https://rogerstringer.com/bookmarks/don-t-ask-to-ask-just-ask)
+- [Don&#39;t ask to ask, just ask](https://rogerstringer.com/bookmarks/dont-ask-to-ask-just-ask)
 - [FastMCP: A TypeScript framework for building MCP servers.](https://rogerstringer.com/bookmarks/fastmcp)
 - [How to write error messages that actually help users rather than frustrate them](https://rogerstringer.com/bookmarks/how-to-write-error-messages-that-actually-help-users-rather-than-frustrate-them)
 <!-- BLOG-POST-LIST:END -->
