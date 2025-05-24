@@ -38,13 +38,13 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 - [Why Most Startups Fail at SaaS Content Marketing &lpar;And How to Fix It&rpar;](https://rogerstringer.com/bookmarks/why-most-startups-fail-at-saas-content-marketing-and-how-to-fix-it)
 - [How I Vibe Code](https://rogerstringer.com/blog/how-i-vibe-code)
 - [Databricks is buying database startup Neon for about $1 billion](https://rogerstringer.com/blog/databricks-neon)
+- [The XY Problem](https://rogerstringer.com/bookmarks/the-xy-problem)
+- [Never Just](https://rogerstringer.com/bookmarks/never-just)
 - [Apple Seeks to Pause &#39;Extraordinary&#39; App Store Ruling in Epic Games Battle](https://rogerstringer.com/blog/apple-appeals-app-store-ruling-epic-games)
+- [no hello](https://rogerstringer.com/bookmarks/no-hello)
+- [Don&#39;t ask to ask, just ask](https://rogerstringer.com/bookmarks/don-t-ask-to-ask-just-ask)
 - [FastMCP: A TypeScript framework for building MCP servers.](https://rogerstringer.com/bookmarks/fastmcp)
 - [How to write error messages that actually help users rather than frustrate them](https://rogerstringer.com/bookmarks/how-to-write-error-messages-that-actually-help-users-rather-than-frustrate-them)
-- [Epic says Fortnite is coming back to iOS in the US](https://rogerstringer.com/blog/fortnite-ios-apple-app-store-us-return)
-- [Designing free trials that actually convert](https://rogerstringer.com/bookmarks/designing-free-trials-tips)
-- [Avoiding Skill Atrophy in the Age of AI](https://rogerstringer.com/bookmarks/avoiding-skill-atrophy-in-the-age-of-ai)
-- [OpenAI looked at buying Cursor creator before turning to AI coding rival Windsurf](https://rogerstringer.com/blog/openai-looked-at-cursor-before-considering-deal-with-rival-windsurf)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
