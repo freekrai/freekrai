@@ -33,7 +33,9 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude 4](https://rogerstringer.com/blog/claude-4)
 - [Mozilla is killing Pocket](https://rogerstringer.com/blog/mozilla-is-killing-pocket)
+- [MG Siegler, Predicting Epic’s Win in the Fight to Get Fortnite Back in the App Store](https://rogerstringer.com/blog/siegler-sweeney-fortnite-bank-shot)
 - [You can style alt text like any other text](https://rogerstringer.com/bookmarks/you-can-style-alt-text-like-any-other-text)
 - [Why Most Startups Fail at SaaS Content Marketing &lpar;And How to Fix It&rpar;](https://rogerstringer.com/bookmarks/why-most-startups-fail-at-saas-content-marketing-and-how-to-fix-it)
 - [How I Vibe Code](https://rogerstringer.com/blog/how-i-vibe-code)
@@ -43,8 +45,6 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 - [Apple Seeks to Pause &#39;Extraordinary&#39; App Store Ruling in Epic Games Battle](https://rogerstringer.com/blog/apple-appeals-app-store-ruling-epic-games)
 - [no hello](https://rogerstringer.com/bookmarks/no-hello)
 - [Don&#39;t ask to ask, just ask](https://rogerstringer.com/bookmarks/dont-ask-to-ask-just-ask)
-- [FastMCP: A TypeScript framework for building MCP servers.](https://rogerstringer.com/bookmarks/fastmcp)
-- [How to write error messages that actually help users rather than frustrate them](https://rogerstringer.com/bookmarks/how-to-write-error-messages-that-actually-help-users-rather-than-frustrate-them)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
