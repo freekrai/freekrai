@@ -33,6 +33,7 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wake up, Remix!](https://rogerstringer.com/blog/wake-up-remix)
 - [Claude 4](https://rogerstringer.com/blog/claude-4)
 - [Mozilla is killing Pocket](https://rogerstringer.com/blog/mozilla-is-killing-pocket)
 - [MG Siegler, Predicting Epic’s Win in the Fight to Get Fortnite Back in the App Store](https://rogerstringer.com/blog/siegler-sweeney-fortnite-bank-shot)
@@ -44,7 +45,6 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 - [Never Just](https://rogerstringer.com/bookmarks/never-just)
 - [Apple Seeks to Pause &#39;Extraordinary&#39; App Store Ruling in Epic Games Battle](https://rogerstringer.com/blog/apple-appeals-app-store-ruling-epic-games)
 - [no hello](https://rogerstringer.com/bookmarks/no-hello)
-- [Don&#39;t ask to ask, just ask](https://rogerstringer.com/bookmarks/dont-ask-to-ask-just-ask)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
