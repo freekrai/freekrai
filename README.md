@@ -33,6 +33,7 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop Over-thinking AI Subscriptions](https://rogerstringer.com/bookmarks/stop-over-thinking-ai-subscriptions)
 - [Job interview questions engineers should ask &lpar;but don&#39;t&rpar;](https://rogerstringer.com/bookmarks/job-interview-questions-engineers-should-ask)
 - [Wake up, Remix!](https://rogerstringer.com/blog/wake-up-remix)
 - [Claude 4](https://rogerstringer.com/blog/claude-4)
@@ -44,7 +45,6 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 - [Databricks is buying database startup Neon for about $1 billion](https://rogerstringer.com/blog/databricks-neon)
 - [The XY Problem](https://rogerstringer.com/bookmarks/the-xy-problem)
 - [Never Just](https://rogerstringer.com/bookmarks/never-just)
-- [Apple Seeks to Pause &#39;Extraordinary&#39; App Store Ruling in Epic Games Battle](https://rogerstringer.com/blog/apple-appeals-app-store-ruling-epic-games)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
