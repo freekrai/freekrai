@@ -33,6 +33,7 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DeskHog: A developer toy from PostHog](https://rogerstringer.com/bookmarks/desk-hog-a-developer-toy-from-post-hog)
 - [Stop Over-thinking AI Subscriptions](https://rogerstringer.com/bookmarks/stop-over-thinking-ai-subscriptions)
 - [Job interview questions engineers should ask &lpar;but don&#39;t&rpar;](https://rogerstringer.com/bookmarks/job-interview-questions-engineers-should-ask)
 - [Wake up, Remix!](https://rogerstringer.com/blog/wake-up-remix)
@@ -44,7 +45,6 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 - [How I Vibe Code](https://rogerstringer.com/blog/how-i-vibe-code)
 - [Databricks is buying database startup Neon for about $1 billion](https://rogerstringer.com/blog/databricks-neon)
 - [The XY Problem](https://rogerstringer.com/bookmarks/the-xy-problem)
-- [Never Just](https://rogerstringer.com/bookmarks/never-just)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
