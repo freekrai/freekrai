@@ -33,7 +33,7 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Taskmaster](https://rogerstringer.com/bookmarks/taskmaster)
+- [Task Master](https://rogerstringer.com/bookmarks/taskmaster)
 - [Resilient Import Maps - Better Theme Development and Beyond](https://rogerstringer.com/bookmarks/resilient-import-maps)
 - [DeskHog: A developer toy from PostHog](https://rogerstringer.com/bookmarks/desk-hog-a-developer-toy-from-post-hog)
 - [Stop Over-thinking AI Subscriptions](https://rogerstringer.com/bookmarks/stop-over-thinking-ai-subscriptions)
