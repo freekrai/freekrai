@@ -33,6 +33,7 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A new path forward for WordPress, and for the open web](https://rogerstringer.com/blog/a-new-path-forward-for-wordpress-and-for-the-open-web)
 - [Task Master](https://rogerstringer.com/bookmarks/taskmaster)
 - [Resilient Import Maps - Better Theme Development and Beyond](https://rogerstringer.com/bookmarks/resilient-import-maps)
 - [DeskHog: A developer toy from PostHog](https://rogerstringer.com/bookmarks/desk-hog-a-developer-toy-from-post-hog)
@@ -44,7 +45,6 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 - [MG Siegler, Predicting Epic’s Win in the Fight to Get Fortnite Back in the App Store](https://rogerstringer.com/blog/siegler-sweeney-fortnite-bank-shot)
 - [You can style alt text like any other text](https://rogerstringer.com/bookmarks/you-can-style-alt-text-like-any-other-text)
 - [Why Most Startups Fail at SaaS Content Marketing &lpar;And How to Fix It&rpar;](https://rogerstringer.com/bookmarks/why-most-startups-fail-at-saas-content-marketing-and-how-to-fix-it)
-- [How I Vibe Code](https://rogerstringer.com/blog/how-i-vibe-code)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
