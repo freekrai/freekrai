@@ -34,6 +34,7 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 
 <!-- BLOG-POST-LIST:START -->
 - [HTMZ](https://rogerstringer.com/bookmarks/htmz)
+- [Debugging with Cursor as Your Rubber Ducky](https://rogerstringer.com/bookmarks/debugging-with-cursor-as-your-rubber-ducky)
 - [v0 workflows](https://rogerstringer.com/bookmarks/v0-workflows)
 - [A new path forward for WordPress, and for the open web](https://rogerstringer.com/blog/a-new-path-forward-for-wordpress-and-for-the-open-web)
 - [Task Master](https://rogerstringer.com/bookmarks/taskmaster)
@@ -44,7 +45,6 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 - [Wake up, Remix!](https://rogerstringer.com/blog/wake-up-remix)
 - [Claude 4](https://rogerstringer.com/blog/claude-4)
 - [Mozilla is killing Pocket](https://rogerstringer.com/blog/mozilla-is-killing-pocket)
-- [MG Siegler, Predicting Epic’s Win in the Fight to Get Fortnite Back in the App Store](https://rogerstringer.com/blog/siegler-sweeney-fortnite-bank-shot)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
