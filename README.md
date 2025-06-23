@@ -34,6 +34,8 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 
 <!-- BLOG-POST-LIST:START -->
 - [The Curious Case of Apple and Perplexity: Do They Need Each Other?](https://rogerstringer.com/blog/the-curious-case-of-apple-and-perplexity)
+- [Write Like Your Talk](https://rogerstringer.com/bookmarks/write-like-your-talk)
+- [The Day You Became a Better Writer](https://rogerstringer.com/bookmarks/the-day-you-became-a-better-writer)
 - [HTMZ](https://rogerstringer.com/bookmarks/htmz)
 - [Debugging with Cursor as Your Rubber Ducky](https://rogerstringer.com/bookmarks/debugging-with-cursor-as-your-rubber-ducky)
 - [v0 workflows](https://rogerstringer.com/bookmarks/v0-workflows)
@@ -43,8 +45,6 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 - [DeskHog: A developer toy from PostHog](https://rogerstringer.com/bookmarks/desk-hog-a-developer-toy-from-post-hog)
 - [Stop Over-thinking AI Subscriptions](https://rogerstringer.com/bookmarks/stop-over-thinking-ai-subscriptions)
 - [Job interview questions engineers should ask &lpar;but don&#39;t&rpar;](https://rogerstringer.com/bookmarks/job-interview-questions-engineers-should-ask)
-- [Wake up, Remix!](https://rogerstringer.com/blog/wake-up-remix)
-- [Claude 4](https://rogerstringer.com/blog/claude-4)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
