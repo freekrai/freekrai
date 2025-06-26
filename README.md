@@ -33,6 +33,7 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [KelpUI](https://rogerstringer.com/bookmarks/kelpui)
 - [The Curious Case of Apple and Perplexity: Do They Need Each Other?](https://rogerstringer.com/blog/the-curious-case-of-apple-and-perplexity)
 - [Write Like Your Talk](https://rogerstringer.com/bookmarks/write-like-your-talk)
 - [The Day You Became a Better Writer](https://rogerstringer.com/bookmarks/the-day-you-became-a-better-writer)
@@ -44,7 +45,6 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 - [Resilient Import Maps - Better Theme Development and Beyond](https://rogerstringer.com/bookmarks/resilient-import-maps)
 - [DeskHog: A developer toy from PostHog](https://rogerstringer.com/bookmarks/desk-hog-a-developer-toy-from-post-hog)
 - [Stop Over-thinking AI Subscriptions](https://rogerstringer.com/bookmarks/stop-over-thinking-ai-subscriptions)
-- [Job interview questions engineers should ask &lpar;but don&#39;t&rpar;](https://rogerstringer.com/bookmarks/job-interview-questions-engineers-should-ask)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
