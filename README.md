@@ -33,6 +33,7 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Prefer Gaps To Margins](https://rogerstringer.com/bookmarks/prefer-gaps-to-margins)
 - [Passkeys for Normal People](https://rogerstringer.com/bookmarks/passkeys-for-normal-people)
 - [KelpUI](https://rogerstringer.com/bookmarks/kelpui)
 - [The Curious Case of Apple and Perplexity: Do They Need Each Other?](https://rogerstringer.com/blog/the-curious-case-of-apple-and-perplexity)
@@ -44,7 +45,6 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 - [A new path forward for WordPress, and for the open web](https://rogerstringer.com/blog/a-new-path-forward-for-wordpress-and-for-the-open-web)
 - [Task Master](https://rogerstringer.com/bookmarks/taskmaster)
 - [Resilient Import Maps - Better Theme Development and Beyond](https://rogerstringer.com/bookmarks/resilient-import-maps)
-- [DeskHog: A developer toy from PostHog](https://rogerstringer.com/bookmarks/desk-hog-a-developer-toy-from-post-hog)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
