@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roger 
 
-I'm a Product Engineer, author and dad from Canada, with over 2 decades in the field.
+I'm a Product Engineer, AI Automation Engineer, author and dad from Canada, with over 2 decades in the field.
 
 🔭 I’m currently working on multiple frontend and backend projects using Astro, React, Remix, Nextjs, Nodejs, and various AI integrations. 
 
