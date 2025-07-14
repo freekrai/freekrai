@@ -33,6 +33,7 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Windsurf&#39;s New Chapter](https://rogerstringer.com/blog/windsurfs-new-chapter)
 - [OpenAI’s Windsurf deal is off — and Windsurf’s CEO is going to Google](https://rogerstringer.com/blog/google-windsurf-ceo-openai)
 - [Comlink](https://rogerstringer.com/bookmarks/comlink)
 - [Prefer Gaps To Margins](https://rogerstringer.com/bookmarks/prefer-gaps-to-margins)
@@ -44,7 +45,6 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 - [HTMZ](https://rogerstringer.com/bookmarks/htmz)
 - [Debugging with Cursor as Your Rubber Ducky](https://rogerstringer.com/bookmarks/debugging-with-cursor-as-your-rubber-ducky)
 - [v0 workflows](https://rogerstringer.com/bookmarks/v0-workflows)
-- [A new path forward for WordPress, and for the open web](https://rogerstringer.com/blog/a-new-path-forward-for-wordpress-and-for-the-open-web)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
