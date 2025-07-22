@@ -33,6 +33,7 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Replit AI agent deletes user&#39;s entire production database](https://rogerstringer.com/blog/replit-ai-agent-deletes-users-entire-production-database)
 - [Windsurf&#39;s New Chapter](https://rogerstringer.com/blog/windsurfs-new-chapter)
 - [OpenAI’s Windsurf deal is off — and Windsurf’s CEO is going to Google](https://rogerstringer.com/blog/google-windsurf-ceo-openai)
 - [Comlink](https://rogerstringer.com/bookmarks/comlink)
@@ -44,7 +45,6 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 - [The Day You Became a Better Writer](https://rogerstringer.com/bookmarks/the-day-you-became-a-better-writer)
 - [HTMZ](https://rogerstringer.com/bookmarks/htmz)
 - [Debugging with Cursor as Your Rubber Ducky](https://rogerstringer.com/bookmarks/debugging-with-cursor-as-your-rubber-ducky)
-- [v0 workflows](https://rogerstringer.com/bookmarks/v0-workflows)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
