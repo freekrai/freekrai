@@ -33,6 +33,7 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AGENTS.md](https://rogerstringer.com/bookmarks/agents-md)
 - [Play for the Front of the Jersey](https://rogerstringer.com/bookmarks/play-for-the-front-of-the-jersey)
 - [Self-Hosting n8n on Railway](https://rogerstringer.com/blog/self-hosting-n8n-on-railway)
 - [Crash course on Figma for Developers](https://rogerstringer.com/bookmarks/crash-course-on-figma-for-developers)
@@ -44,7 +45,6 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 - [Passkeys for Normal People](https://rogerstringer.com/bookmarks/passkeys-for-normal-people)
 - [KelpUI](https://rogerstringer.com/bookmarks/kelpui)
 - [The Curious Case of Apple and Perplexity: Do They Need Each Other?](https://rogerstringer.com/blog/the-curious-case-of-apple-and-perplexity)
-- [Write Like Your Talk](https://rogerstringer.com/bookmarks/write-like-your-talk)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
