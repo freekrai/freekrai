@@ -33,18 +33,18 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AGENTS.md](https://rogerstringer.com/bookmarks/agents-md)
-- [Play for the Front of the Jersey](https://rogerstringer.com/bookmarks/play-for-the-front-of-the-jersey)
-- [Self-Hosting n8n on Railway](https://rogerstringer.com/blog/self-hosting-n8n-on-railway)
-- [Crash course on Figma for Developers](https://rogerstringer.com/bookmarks/crash-course-on-figma-for-developers)
-- [Replit AI agent deletes user&#39;s entire production database](https://rogerstringer.com/blog/replit-ai-agent-deletes-users-entire-production-database)
-- [Windsurf&#39;s New Chapter](https://rogerstringer.com/blog/windsurfs-new-chapter)
-- [OpenAI’s Windsurf deal is off — and Windsurf’s CEO is going to Google](https://rogerstringer.com/blog/google-windsurf-ceo-openai)
-- [Comlink](https://rogerstringer.com/bookmarks/comlink)
-- [Prefer Gaps To Margins](https://rogerstringer.com/bookmarks/prefer-gaps-to-margins)
-- [Passkeys for Normal People](https://rogerstringer.com/bookmarks/passkeys-for-normal-people)
-- [KelpUI](https://rogerstringer.com/bookmarks/kelpui)
-- [The Curious Case of Apple and Perplexity: Do They Need Each Other?](https://rogerstringer.com/blog/the-curious-case-of-apple-and-perplexity)
+- [Happy - Claude Code Mobile Client](https://rogerstringer.com/bookmarks/happy)
+- [oh-my-claudecode](https://rogerstringer.com/bookmarks/oh-my-claudecode)
+- [Ship the policy, not the code](https://rogerstringer.com/bookmarks/ship-the-policy-not-the-code)
+- [Mastering n8n](https://rogerstringer.com/guides/mastering-n8n)
+- [Build vs. Buy in the AI Era](https://rogerstringer.com/guides/build-vs-buy-in-the-ai-era)
+- [Technical Due Diligence](https://rogerstringer.com/guides/technical-due-diligence)
+- [Postgres for App Developers](https://rogerstringer.com/guides/postgres-for-app-developers)
+- [Auth, Done Right](https://rogerstringer.com/guides/auth-done-right)
+- [Background Jobs &amp; Queues](https://rogerstringer.com/guides/background-jobs-and-queues)
+- [The Boring Stack: Ship on a Single VPS](https://rogerstringer.com/guides/the-boring-stack)
+- [Roll Your Own Coding Agent](https://rogerstringer.com/guides/roll-your-own-coding-agent)
+- [The First 90 Days](https://rogerstringer.com/guides/the-first-90-days)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
