@@ -33,6 +33,7 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Agent Skills: A Field Guide to the Third Pillar](https://rogerstringer.com/guides/agent-skills-field-guide)
 - [The Agent&#39;s Self: A Field Guide to Personality &amp; Identity](https://rogerstringer.com/guides/agent-self-personality-identity)
 - [Happy - Claude Code Mobile Client](https://rogerstringer.com/bookmarks/happy)
 - [oh-my-claudecode](https://rogerstringer.com/bookmarks/oh-my-claudecode)
@@ -44,7 +45,6 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 - [Auth, Done Right](https://rogerstringer.com/guides/auth-done-right)
 - [Background Jobs &amp; Queues](https://rogerstringer.com/guides/background-jobs-and-queues)
 - [The Boring Stack: Ship on a Single VPS](https://rogerstringer.com/guides/the-boring-stack)
-- [Roll Your Own Coding Agent](https://rogerstringer.com/guides/roll-your-own-coding-agent)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
