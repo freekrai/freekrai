@@ -33,18 +33,18 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Agentic Playbook](https://rogerstringer.com/guides/the-agentic-playbook)
+- [QA in the Era of AI](https://rogerstringer.com/guides/qa-in-the-era-of-ai)
 - [Talk to Your Datastar Chat: Voice Input with the Web Speech API](https://rogerstringer.com/blog/voice-input-datastar-chat-web-speech-api)
 - [Agent Skills: A Field Guide to the Third Pillar](https://rogerstringer.com/guides/agent-skills-field-guide)
 - [The Agent&#39;s Self: A Field Guide to Personality &amp; Identity](https://rogerstringer.com/guides/agent-self-personality-identity)
 - [Happy - Claude Code Mobile Client](https://rogerstringer.com/bookmarks/happy)
 - [oh-my-claudecode](https://rogerstringer.com/bookmarks/oh-my-claudecode)
 - [Ship the policy, not the code](https://rogerstringer.com/bookmarks/ship-the-policy-not-the-code)
-- [Mastering n8n](https://rogerstringer.com/guides/mastering-n8n)
-- [Build vs. Buy in the AI Era](https://rogerstringer.com/guides/build-vs-buy-in-the-ai-era)
-- [Technical Due Diligence](https://rogerstringer.com/guides/technical-due-diligence)
+- [The 70/30 Engineer](https://rogerstringer.com/guides/the-70-30-engineer)
+- [Mastering Directus](https://rogerstringer.com/guides/mastering-directus)
+- [Roll Your Own Coding Agent](https://rogerstringer.com/guides/roll-your-own-coding-agent)
 - [Postgres for App Developers](https://rogerstringer.com/guides/postgres-for-app-developers)
-- [Auth, Done Right](https://rogerstringer.com/guides/auth-done-right)
-- [Background Jobs &amp; Queues](https://rogerstringer.com/guides/background-jobs-and-queues)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
