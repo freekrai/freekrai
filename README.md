@@ -33,6 +33,8 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Render JSX to images. Skip the browser.](https://rogerstringer.com/bookmarks/render-jsx-to-images-skip-the-browser)
+- [Your Astro API Route Can Be an MCP Server](https://rogerstringer.com/blog/mcp-server-astro-api-routes)
 - [The Agentic Playbook](https://rogerstringer.com/guides/the-agentic-playbook)
 - [QA in the Era of AI](https://rogerstringer.com/guides/qa-in-the-era-of-ai)
 - [Talk to Your Datastar Chat: Voice Input with the Web Speech API](https://rogerstringer.com/blog/voice-input-datastar-chat-web-speech-api)
@@ -43,8 +45,6 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 - [Ship the policy, not the code](https://rogerstringer.com/bookmarks/ship-the-policy-not-the-code)
 - [The 70/30 Engineer](https://rogerstringer.com/guides/the-70-30-engineer)
 - [Mastering Directus](https://rogerstringer.com/guides/mastering-directus)
-- [Roll Your Own Coding Agent](https://rogerstringer.com/guides/roll-your-own-coding-agent)
-- [Postgres for App Developers](https://rogerstringer.com/guides/postgres-for-app-developers)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
