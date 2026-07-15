@@ -33,6 +33,7 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Hermes](https://rogerstringer.com/guides/mastering-hermes)
 - [Loop Engineering: Designing Agents That Run Themselves](https://rogerstringer.com/guides/loop-engineering)
 - [Render JSX to images. Skip the browser.](https://rogerstringer.com/bookmarks/render-jsx-to-images-skip-the-browser)
 - [Your Astro API Route Can Be an MCP Server](https://rogerstringer.com/blog/mcp-server-astro-api-routes)
@@ -44,7 +45,6 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 - [Happy - Claude Code Mobile Client](https://rogerstringer.com/bookmarks/happy)
 - [oh-my-claudecode](https://rogerstringer.com/bookmarks/oh-my-claudecode)
 - [Ship the policy, not the code](https://rogerstringer.com/bookmarks/ship-the-policy-not-the-code)
-- [The 70/30 Engineer](https://rogerstringer.com/guides/the-70-30-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
