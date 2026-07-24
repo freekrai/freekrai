@@ -33,6 +33,7 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Project Management: Shipping Software When Agents Write the Code](https://rogerstringer.com/guides/ai-project-management)
 - [Context Engineering for Production Agents: Sources, Boundaries, and Evaluation](https://rogerstringer.com/blog/context-engineering-production-agents)
 - [Mastering Hermes](https://rogerstringer.com/guides/mastering-hermes)
 - [Loop Engineering: Designing Agents That Run Themselves](https://rogerstringer.com/guides/loop-engineering)
@@ -41,10 +42,9 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 - [The Agentic Playbook](https://rogerstringer.com/guides/the-agentic-playbook)
 - [QA in the Era of AI](https://rogerstringer.com/guides/qa-in-the-era-of-ai)
 - [Talk to Your Datastar Chat: Voice Input with the Web Speech API](https://rogerstringer.com/blog/voice-input-datastar-chat-web-speech-api)
+- [Self-Hosting the Agentic Stack: A Field Guide](https://rogerstringer.com/guides/self-hosting-the-agentic-stack)
 - [Agent Skills: A Field Guide to the Third Pillar](https://rogerstringer.com/guides/agent-skills-field-guide)
 - [The Agent&#39;s Self: A Field Guide to Personality &amp; Identity](https://rogerstringer.com/guides/agent-self-personality-identity)
-- [Happy - Claude Code Mobile Client](https://rogerstringer.com/bookmarks/happy)
-- [oh-my-claudecode](https://rogerstringer.com/bookmarks/oh-my-claudecode)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
