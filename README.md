@@ -33,6 +33,8 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Your code is your responsibility, even if AI wrote it](https://rogerstringer.com/bookmarks/your-code-is-your-responsibility-even-if-ai-wrote-it)
+- [No Meat Proxy](https://rogerstringer.com/bookmarks/no-meat-proxy)
 - [AI Project Management: Shipping Software When Agents Write the Code](https://rogerstringer.com/guides/ai-project-management)
 - [Context Engineering for Production Agents: Sources, Boundaries, and Evaluation](https://rogerstringer.com/blog/context-engineering-production-agents)
 - [Mastering Hermes](https://rogerstringer.com/guides/mastering-hermes)
@@ -43,8 +45,6 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 - [The Agentic Playbook](https://rogerstringer.com/guides/the-agentic-playbook)
 - [QA in the Era of AI](https://rogerstringer.com/guides/qa-in-the-era-of-ai)
 - [Talk to Your Datastar Chat: Voice Input with the Web Speech API](https://rogerstringer.com/blog/voice-input-datastar-chat-web-speech-api)
-- [Self-Hosting the Agentic Stack: A Field Guide](https://rogerstringer.com/guides/self-hosting-the-agentic-stack)
-- [Agent Guardrails: A Field Guide to Safety &amp; Permissions](https://rogerstringer.com/guides/agent-guardrails-field-guide)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
