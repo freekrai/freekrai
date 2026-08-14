@@ -34,6 +34,7 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 
 <!-- BLOG-POST-LIST:START -->
 - [celld: self-hosted, distributed Durable Objects](https://rogerstringer.com/bookmarks/celld-self-hosted-distributed-durable-objects)
+- [GTM Engineering with Agents: A Field Guide to Automating the Funnel](https://rogerstringer.com/guides/gtm-engineering-with-agents)
 - [Your code is your responsibility, even if AI wrote it](https://rogerstringer.com/bookmarks/your-code-is-your-responsibility-even-if-ai-wrote-it)
 - [No Meat Proxy](https://rogerstringer.com/bookmarks/no-meat-proxy)
 - [AI Project Management: Shipping Software When Agents Write the Code](https://rogerstringer.com/guides/ai-project-management)
@@ -44,7 +45,6 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 - [Render JSX to images. Skip the browser.](https://rogerstringer.com/bookmarks/render-jsx-to-images-skip-the-browser)
 - [Your Astro API Route Can Be an MCP Server](https://rogerstringer.com/blog/mcp-server-astro-api-routes)
 - [The Agentic Playbook](https://rogerstringer.com/guides/the-agentic-playbook)
-- [QA in the Era of AI](https://rogerstringer.com/guides/qa-in-the-era-of-ai)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
