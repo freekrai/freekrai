@@ -33,6 +33,7 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [celld: self-hosted, distributed Durable Objects](https://rogerstringer.com/bookmarks/celld-self-hosted-distributed-durable-objects)
 - [Your code is your responsibility, even if AI wrote it](https://rogerstringer.com/bookmarks/your-code-is-your-responsibility-even-if-ai-wrote-it)
 - [No Meat Proxy](https://rogerstringer.com/bookmarks/no-meat-proxy)
 - [AI Project Management: Shipping Software When Agents Write the Code](https://rogerstringer.com/guides/ai-project-management)
@@ -44,7 +45,6 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 - [Your Astro API Route Can Be an MCP Server](https://rogerstringer.com/blog/mcp-server-astro-api-routes)
 - [The Agentic Playbook](https://rogerstringer.com/guides/the-agentic-playbook)
 - [QA in the Era of AI](https://rogerstringer.com/guides/qa-in-the-era-of-ai)
-- [Talk to Your Datastar Chat: Voice Input with the Web Speech API](https://rogerstringer.com/blog/voice-input-datastar-chat-web-speech-api)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
