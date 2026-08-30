@@ -33,6 +33,7 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build an Agent QA Loop That Files Its Own GitHub Issues](https://rogerstringer.com/blog/agent-qa-loop-github-issues)
 - [Everything I know about good API design](https://rogerstringer.com/bookmarks/everything-i-know-about-good-api-design)
 - [celld: self-hosted, distributed Durable Objects](https://rogerstringer.com/bookmarks/celld-self-hosted-distributed-durable-objects)
 - [GTM Engineering with Agents: A Field Guide to Automating the Funnel](https://rogerstringer.com/guides/gtm-engineering-with-agents)
@@ -44,7 +45,6 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 - [Agent Memory: A Field Guide](https://rogerstringer.com/guides/agent-memory-field-guide)
 - [Loop Engineering: Designing Agents That Run Themselves](https://rogerstringer.com/guides/loop-engineering)
 - [Render JSX to images. Skip the browser.](https://rogerstringer.com/bookmarks/render-jsx-to-images-skip-the-browser)
-- [Your Astro API Route Can Be an MCP Server](https://rogerstringer.com/blog/mcp-server-astro-api-routes)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
