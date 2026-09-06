@@ -33,6 +33,7 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Agentic OS in Practice: Running Multiple Agents Without Losing Control](https://rogerstringer.com/blog/agentic-os-in-practice)
 - [Your AI Agent Needs a Definition of Done](https://rogerstringer.com/blog/agent-definition-of-done)
 - [Setting Up Dozzle with Auth on Coolify](https://rogerstringer.com/blog/setting-up-dozzle-with-auth-on-coolify)
 - [How to Build an Agent QA Loop That Files Its Own GitHub Issues](https://rogerstringer.com/blog/agent-qa-loop-github-issues)
@@ -44,7 +45,6 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 - [AI Project Management: Shipping Software When Agents Write the Code](https://rogerstringer.com/guides/ai-project-management)
 - [Context Engineering for Production Agents: Sources, Boundaries, and Evaluation](https://rogerstringer.com/blog/context-engineering-production-agents)
 - [Mastering Hermes](https://rogerstringer.com/guides/mastering-hermes)
-- [Agent Memory: A Field Guide](https://rogerstringer.com/guides/agent-memory-field-guide)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
