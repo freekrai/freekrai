@@ -33,6 +33,7 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Migrating this site to EmDash](https://rogerstringer.com/blog/migrating-this-site-emdash)
 - [Mastering EmDash: Setup, Migration, Hosting, and Databases for the Astro-Native CMS](https://rogerstringer.com/guides/mastering-emdash)
 - [Get Butters: A Quick Events Dashboard](https://rogerstringer.com/blog/getbutters)
 - [The Agentic OS in Practice: Running Multiple Agents Without Losing Control](https://rogerstringer.com/blog/agentic-os-in-practice)
@@ -44,7 +45,6 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 - [GTM Engineering with Agents: A Field Guide to Automating the Funnel](https://rogerstringer.com/guides/gtm-engineering-with-agents)
 - [Your code is your responsibility, even if AI wrote it](https://rogerstringer.com/bookmarks/your-code-is-your-responsibility-even-if-ai-wrote-it)
 - [No Meat Proxy](https://rogerstringer.com/bookmarks/no-meat-proxy)
-- [AI Project Management: Shipping Software When Agents Write the Code](https://rogerstringer.com/guides/ai-project-management)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
