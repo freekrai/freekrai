@@ -33,18 +33,18 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Migrating this site to EmDash](https://rogerstringer.com/blog/migrating-this-site-emdash)
 - [Mastering EmDash: Setup, Migration, Hosting, and Databases for the Astro-Native CMS](https://rogerstringer.com/guides/mastering-emdash)
+- [Get Butters: A Quick Events Dashboard](https://rogerstringer.com/blog/getbutters)
+- [The Agentic OS in Practice: Running Multiple Agents Without Losing Control](https://rogerstringer.com/blog/agentic-os-in-practice)
+- [Your AI Agent Needs a Definition of Done](https://rogerstringer.com/blog/agent-definition-of-done)
+- [Setting Up Dozzle with Auth on Coolify](https://rogerstringer.com/blog/setting-up-dozzle-with-auth-on-coolify)
+- [How to Build an Agent QA Loop That Files Its Own GitHub Issues](https://rogerstringer.com/blog/agent-qa-loop-github-issues)
 - [Everything I know about good API design](https://rogerstringer.com/bookmarks/everything-i-know-about-good-api-design)
 - [celld: self-hosted, distributed Durable Objects](https://rogerstringer.com/bookmarks/celld-self-hosted-distributed-durable-objects)
 - [GTM Engineering with Agents: A Field Guide to Automating the Funnel](https://rogerstringer.com/guides/gtm-engineering-with-agents)
 - [Your code is your responsibility, even if AI wrote it](https://rogerstringer.com/bookmarks/your-code-is-your-responsibility-even-if-ai-wrote-it)
 - [No Meat Proxy](https://rogerstringer.com/bookmarks/no-meat-proxy)
-- [AI Project Management: Shipping Software When Agents Write the Code](https://rogerstringer.com/guides/ai-project-management)
-- [Mastering Hermes](https://rogerstringer.com/guides/mastering-hermes)
-- [Agent Memory: A Field Guide](https://rogerstringer.com/guides/agent-memory-field-guide)
-- [Loop Engineering: Designing Agents That Run Themselves](https://rogerstringer.com/guides/loop-engineering)
-- [Render JSX to images. Skip the browser.](https://rogerstringer.com/bookmarks/render-jsx-to-images-skip-the-browser)
-- [The Agentic Playbook](https://rogerstringer.com/guides/the-agentic-playbook)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
