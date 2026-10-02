@@ -1,6 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roger 
 
-I'm a Product Engineer, AI Automation Engineer, author and dad from Canada, with over 2 decades in the field.
+![](https://github.com/freekrai/freekrai/blob/ba53ee5da7551735ee5b680227295a836c022e8b/r1.jpg)
+
+TLDR;
+I build products, automate with AI, and write about it.
+
+I'm Roger Stringer, a Fraction CTO and AI Product Engineer with 27+ years of experience turning rough problem statements into polished products. I work across the full stack — frontend, backend, databases, devops, and cloud. 
 
 🔭 I’m currently working on multiple frontend and backend projects using Astro, React, Remix, Nextjs, Nodejs, and various AI integrations. 
 
