@@ -38,6 +38,7 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Performance-Optimized Video Embeds with Zero JavaScript](https://rogerstringer.com/bookmarks/performance-optimized-video-embeds-with-zero-javascript)
 - [Migrating this site to EmDash](https://rogerstringer.com/blog/migrating-this-site-emdash)
 - [Mastering EmDash: Setup, Migration, Hosting, and Databases for the Astro-Native CMS](https://rogerstringer.com/guides/mastering-emdash)
 - [Get Butters: A Quick Events Dashboard](https://rogerstringer.com/blog/getbutters)
@@ -49,7 +50,6 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 - [celld: self-hosted, distributed Durable Objects](https://rogerstringer.com/bookmarks/celld-self-hosted-distributed-durable-objects)
 - [GTM Engineering with Agents: A Field Guide to Automating the Funnel](https://rogerstringer.com/guides/gtm-engineering-with-agents)
 - [Your code is your responsibility, even if AI wrote it](https://rogerstringer.com/bookmarks/your-code-is-your-responsibility-even-if-ai-wrote-it)
-- [No Meat Proxy](https://rogerstringer.com/bookmarks/no-meat-proxy)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
