@@ -38,7 +38,7 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TalkToMySites: Let Your Website Answer Its Own Questions](https://rogerstringer.com/blog/talktomysites)
+- [Talk To My Sites: Let Your Website Answer Its Own Questions](https://rogerstringer.com/blog/talktomysites)
 - [Performance-Optimized Video Embeds with Zero JavaScript](https://rogerstringer.com/bookmarks/performance-optimized-video-embeds-with-zero-javascript)
 - [Migrating this site to EmDash](https://rogerstringer.com/blog/migrating-this-site-emdash)
 - [Mastering EmDash: Setup, Migration, Hosting, and Databases for the Astro-Native CMS](https://rogerstringer.com/guides/mastering-emdash)
