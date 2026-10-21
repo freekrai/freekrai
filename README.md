@@ -7,7 +7,7 @@ I build products, automate with AI, and write about it.
 
 I'm Roger Stringer, a Fraction CTO and AI Product Engineer with 27+ years of experience turning rough problem statements into polished products. I work across the full stack — frontend, backend, databases, devops, and cloud. 
 
-🔭 I’m currently working on multiple frontend and backend projects using Astro, React, Remix, Nextjs, Nodejs, and various AI integrations. 
+🔭 I’m currently working on multiple frontend and backend projects using Astro, Datastar, React, Remix, Nextjs, Nodejs, and various AI integrations. 
 
 I build a lot of things using many stacks, currently mostly working with Astro / React / Remix / Nextjs and Nodejs with various APIs.  
 
@@ -17,6 +17,11 @@ I build a lot of things using many stacks, currently mostly working with Astro /
 * 🤝  I'm open to collaborating on interesting projects
 
 I'm also a big camping and hiking enthusiast. When I'm not hanging out with my family or at the computer, or at a coffee shop, you can find me camping or hiking somewhere in the mountains around the Okanagan valley where I live.
+
+### Recent Projects
+
+1. [Get Butters](https://getbutters.com, a simple event tracking dashboard app that lets users track events of all sorts, and that I use daily myself.
+2. [Talk To My Sites](https://talktomysites.com), a simple assistant that can crawl the pages on your websites and create a chat widget to let users get answers fast.
 
 ### :zap: Stats
 
