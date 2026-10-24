@@ -1,27 +1,25 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roger 
+# Hi, I'm Roger 👋
 
 ![](https://github.com/freekrai/freekrai/blob/ba53ee5da7551735ee5b680227295a836c022e8b/r1.jpg)
 
-TLDR;
-I build products, automate with AI, and write about it.
+**I build products, automate with AI, and write about it.**
 
-I'm Roger Stringer, a Fraction CTO and AI Product Engineer with 27+ years of experience turning rough problem statements into polished products. I work across the full stack — frontend, backend, databases, devops, and cloud. 
+I'm a Fractional CTO and AI Product Engineer with 27+ years of experience turning rough problem statements into polished products. I work across the full stack: frontend, backend, databases, devops and cloud.
 
-🔭 I’m currently working on multiple frontend and backend projects using Astro, Datastar, React, Remix, Nextjs, Nodejs, and various AI integrations. 
+These days I mostly build with Astro, Datastar, React, Remix, Next.js and Node.js, plus a lot of AI integrations.
 
-I build a lot of things using many stacks, currently mostly working with Astro / React / Remix / Nextjs and Nodejs with various APIs.  
+### What I'm building
 
-* 🌍  I'm based in Penticton, British Columbia, Canada 
-* 🖥️  Read my blog at [Roger Stringer](https://rogerstringer.com)
-* 🧠  I'm learning to never stop learning. 
-* 🤝  I'm open to collaborating on interesting projects
+- **[Talk To My Sites](https://talktomysites.com)** is an AI chat widget that answers visitors from your docs, with sources, and shows you the questions your docs miss.
+- **[Get Butters](https://getbutters.com)** is a hosted event feed and alerts tool for developers. Send events from your apps, scripts or CI and get pinged when something matters. I use it daily.
 
-I'm also a big camping and hiking enthusiast. When I'm not hanging out with my family or at the computer, or at a coffee shop, you can find me camping or hiking somewhere in the mountains around the Okanagan valley where I live.
+### Elsewhere
 
-### Recent Projects
+- 🖥️ Blog: [rogerstringer.com](https://rogerstringer.com)
+- 🌍 Based in Penticton, BC, Canada
+- 🤝 Open to collaborating on interesting projects
 
-1. [Get Butters](https://getbutters.com), a simple event tracking dashboard app that lets users track events of all sorts, and that I use daily myself.
-2. [Talk To My Sites](https://talktomysites.com), a simple assistant that can crawl the pages on your websites and create a chat widget to let users get answers fast.
+When I'm not at the computer or a coffee shop, I'm with my family or camping and hiking in the mountains around the Okanagan.
 
 ### :zap: Stats
 
