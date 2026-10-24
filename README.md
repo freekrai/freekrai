@@ -20,7 +20,7 @@ I'm also a big camping and hiking enthusiast. When I'm not hanging out with my f
 
 ### Recent Projects
 
-1. [Get Butters](https://getbutters.com, a simple event tracking dashboard app that lets users track events of all sorts, and that I use daily myself.
+1. [Get Butters](https://getbutters.com), a simple event tracking dashboard app that lets users track events of all sorts, and that I use daily myself.
 2. [Talk To My Sites](https://talktomysites.com), a simple assistant that can crawl the pages on your websites and create a chat widget to let users get answers fast.
 
 ### :zap: Stats
