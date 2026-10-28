@@ -42,6 +42,7 @@ When I'm not at the computer or a coffee shop, I'm with my family or camping and
 
 <!-- BLOG-POST-LIST:START -->
 - [Talk To My Sites: Let Your Website Answer Its Own Questions](https://rogerstringer.com/blog/talktomysites)
+- [Performance-Optimized Video Embeds with Zero JavaScript](https://rogerstringer.com/bookmarks/performance-optimized-video-embeds-with-zero-javascript)
 - [Migrating this site to EmDash](https://rogerstringer.com/blog/migrating-this-site-emdash)
 - [Mastering EmDash: Setup, Migration, Hosting, and Databases for the Astro-Native CMS](https://rogerstringer.com/guides/mastering-emdash)
 - [Get Butters: A Quick Events Dashboard](https://rogerstringer.com/blog/getbutters)
@@ -49,10 +50,9 @@ When I'm not at the computer or a coffee shop, I'm with my family or camping and
 - [Your AI Agent Needs a Definition of Done](https://rogerstringer.com/blog/agent-definition-of-done)
 - [Setting Up Dozzle with Auth on Coolify](https://rogerstringer.com/blog/setting-up-dozzle-with-auth-on-coolify)
 - [How to Build an Agent QA Loop That Files Its Own GitHub Issues](https://rogerstringer.com/blog/agent-qa-loop-github-issues)
+- [Everything I know about good API design](https://rogerstringer.com/bookmarks/everything-i-know-about-good-api-design)
+- [celld: self-hosted, distributed Durable Objects](https://rogerstringer.com/bookmarks/celld-self-hosted-distributed-durable-objects)
 - [GTM Engineering with Agents: A Field Guide to Automating the Funnel](https://rogerstringer.com/guides/gtm-engineering-with-agents)
-- [AI Project Management: Shipping Software When Agents Write the Code](https://rogerstringer.com/guides/ai-project-management)
-- [Context Engineering for Production Agents: Sources, Boundaries, and Evaluation](https://rogerstringer.com/blog/context-engineering-production-agents)
-- [Mastering Hermes](https://rogerstringer.com/guides/mastering-hermes)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
