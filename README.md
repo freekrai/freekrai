@@ -41,6 +41,7 @@ When I'm not at the computer or a coffee shop, I'm with my family or camping and
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CleanYourTV](https://rogerstringer.com/bookmarks/cleanyourtv)
 - [Talk To My Sites: Let Your Website Answer Its Own Questions](https://rogerstringer.com/blog/talktomysites)
 - [Performance-Optimized Video Embeds with Zero JavaScript](https://rogerstringer.com/bookmarks/performance-optimized-video-embeds-with-zero-javascript)
 - [Migrating this site to EmDash](https://rogerstringer.com/blog/migrating-this-site-emdash)
@@ -52,7 +53,6 @@ When I'm not at the computer or a coffee shop, I'm with my family or camping and
 - [How to Build an Agent QA Loop That Files Its Own GitHub Issues](https://rogerstringer.com/blog/agent-qa-loop-github-issues)
 - [Everything I know about good API design](https://rogerstringer.com/bookmarks/everything-i-know-about-good-api-design)
 - [celld: self-hosted, distributed Durable Objects](https://rogerstringer.com/bookmarks/celld-self-hosted-distributed-durable-objects)
-- [GTM Engineering with Agents: A Field Guide to Automating the Funnel](https://rogerstringer.com/guides/gtm-engineering-with-agents)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
