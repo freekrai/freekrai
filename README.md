@@ -41,6 +41,7 @@ When I'm not at the computer or a coffee shop, I'm with my family or camping and
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Cloudflare: Workers, D1, R2, Durable Objects, Workflows, and AI on One Platform](https://rogerstringer.com/guides/mastering-cloudflare)
 - [CleanYourTV](https://rogerstringer.com/bookmarks/cleanyourtv)
 - [Talk To My Sites: Let Your Website Answer Its Own Questions](https://rogerstringer.com/blog/talktomysites)
 - [Performance-Optimized Video Embeds with Zero JavaScript](https://rogerstringer.com/bookmarks/performance-optimized-video-embeds-with-zero-javascript)
@@ -52,7 +53,6 @@ When I'm not at the computer or a coffee shop, I'm with my family or camping and
 - [Setting Up Dozzle with Auth on Coolify](https://rogerstringer.com/blog/setting-up-dozzle-with-auth-on-coolify)
 - [How to Build an Agent QA Loop That Files Its Own GitHub Issues](https://rogerstringer.com/blog/agent-qa-loop-github-issues)
 - [Everything I know about good API design](https://rogerstringer.com/bookmarks/everything-i-know-about-good-api-design)
-- [celld: self-hosted, distributed Durable Objects](https://rogerstringer.com/bookmarks/celld-self-hosted-distributed-durable-objects)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
