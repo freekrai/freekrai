@@ -41,6 +41,7 @@ When I'm not at the computer or a coffee shop, I'm with my family or camping and
 ### :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Self-Hosting Convex on Fly.io](https://rogerstringer.com/blog/self-hosting-convex-on-fly)
 - [Running Hermes Agent and Its WebUI on One Fly.io Machine](https://rogerstringer.com/blog/hermes-agent-webui-on-fly)
 - [Muse Gadgets: Open source hardware for your Muse](https://rogerstringer.com/bookmarks/muse-gadgets-open-source-hardware-for-your-muse)
 - [Mastering Cloudflare: Workers, D1, R2, Durable Objects, Workflows, and AI on One Platform](https://rogerstringer.com/guides/mastering-cloudflare)
@@ -52,7 +53,6 @@ When I'm not at the computer or a coffee shop, I'm with my family or camping and
 - [Get Butters: A Quick Events Dashboard](https://rogerstringer.com/blog/getbutters)
 - [The Agentic OS in Practice: Running Multiple Agents Without Losing Control](https://rogerstringer.com/blog/agentic-os-in-practice)
 - [Your AI Agent Needs a Definition of Done](https://rogerstringer.com/blog/agent-definition-of-done)
-- [Setting Up Dozzle with Auth on Coolify](https://rogerstringer.com/blog/setting-up-dozzle-with-auth-on-coolify)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
